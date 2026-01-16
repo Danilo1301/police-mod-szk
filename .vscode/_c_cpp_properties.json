@@ -1,41 +1,12 @@
 {
     "configurations": [
         {
-            "name": "Android NDK (armeabi-v7a)",
-            "includePath": [
-                "${workspaceFolder}/include",
-                "${workspaceFolder}/aml/**",
-                "C:/android-ndk-r26d/toolchains/llvm/prebuilt/windows-x86_64/sysroot/usr/include",
-                "C:/android-ndk-r26d/toolchains/llvm/prebuilt/windows-x86_64/sysroot/usr/include/c++/v1"
-            ],
-            "defines": [
-                "__ANDROID__",
-                "__arm__",
-                "ANDROID"
-            ],
-            "compilerPath": "C:/android-ndk-r26d/toolchains/llvm/prebuilt/windows-x86_64/bin/clang++.exe",
-            "cStandard": "c17",
-            "cppStandard": "c++17",
+            "name": "CMake Intellicode",
             "intelliSenseMode": "clang-x64",
-            "configurationProvider": "ms-vscode.cmake-tools"
-        },
-        {
-            "name": "Android NDK (arm64-v8a)",
-            "includePath": [
-                "${workspaceFolder}/include",
-                "${workspaceFolder}/aml/**",
-                "C:/android-ndk-r26d/toolchains/llvm/prebuilt/windows-x86_64/sysroot/usr/include",
-                "C:/android-ndk-r26d/toolchains/llvm/prebuilt/windows-x86_64/sysroot/usr/include/c++/v1"
-            ],
-            "defines": [
-                "__ANDROID__",
-                "__aarch64__",
-                "ANDROID"
-            ],
-            "compilerPath": "C:/android-ndk-r26d/toolchains/llvm/prebuilt/windows-x86_64/bin/aarch64-linux-android21-clang++.exe",
+            "configurationProvider": "ms-vscode.cmake-tools",
+            "compilerPath": "C:/android-ndk-r27d/toolchains/llvm/prebuilt/windows-x86_64/bin/clang++.exe",
             "cStandard": "c17",
-            "cppStandard": "c++17",
-            "intelliSenseMode": "clang-x64"
+            "cppStandard": "c++17"
         }
     ],
     "version": 4

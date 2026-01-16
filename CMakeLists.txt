@@ -1,41 +1,34 @@
 cmake_minimum_required(VERSION 3.22)
-project(MyLib LANGUAGES CXX)
+project(PoliceModSZK LANGUAGES CXX)
 
-set(CMAKE_CXX_STANDARD 17)
+set(CMAKE_CXX_STANDARD 20)
 set(CMAKE_CXX_STANDARD_REQUIRED ON)
 
-# Caminho do Android NDK
-set(NDK_PATH "C:/android-ndk-r26d")
-set(CMAKE_TOOLCHAIN_FILE "${NDK_PATH}/build/cmake/android.toolchain.cmake")
-
-# Inclui todos os headers globais e do mod
 include_directories(
-    ${CMAKE_SOURCE_DIR}/aml
     ${CMAKE_SOURCE_DIR}/include
+    ${CMAKE_SOURCE_DIR}/aml
 )
 
-# Pega todos os .cpp recursivamente do mod e src
 file(GLOB_RECURSE SRC_FILES
-    ${CMAKE_SOURCE_DIR}/aml/mod/*.cpp
-    ${CMAKE_SOURCE_DIR}/src/*.cpp
+    src/*.cpp
+    aml/*.cpp
 )
 
-# Checa se encontrou algum arquivo
-if(NOT SRC_FILES)
-    message(FATAL_ERROR "No source files found in mod/ or src/")
-endif()
+add_library(PoliceModSZK SHARED ${SRC_FILES})
 
-# Cria a biblioteca compartilhada
-add_library(MyLib SHARED ${SRC_FILES})
+target_compile_options(PoliceModSZK PRIVATE
+    -Wall
+    -O2
+    -fexceptions
+    -frtti
+)
 
-# Link com a lib log do Android
+target_compile_definitions(PoliceModSZK PRIVATE
+    ANDROID
+)
+
 find_library(LOG_LIB log)
-target_link_libraries(MyLib PRIVATE ${LOG_LIB})
 
-# Muda apenas o nome do arquivo de saída
-set_target_properties(MyLib PROPERTIES OUTPUT_NAME "PoliceModSZK")
-
-add_compile_options(-Wunused-function)
-
-# Opcional: warnings e otimizações
-target_compile_options(MyLib PRIVATE -Wall -O2)
+target_link_libraries(PoliceModSZK
+    ${LOG_LIB}
+)

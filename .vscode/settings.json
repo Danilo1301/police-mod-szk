@@ -1,4 +1,5 @@
 {
+    "clangd.compileCommandsPath": "build/armeabi-v7a",
     "files.associations": {
         "string": "cpp",
         "algorithm": "cpp",

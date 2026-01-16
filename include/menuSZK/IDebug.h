@@ -2,6 +2,7 @@
 
 #include "simpleGta.h"
 #include <string>
+#include <vector>
 
 struct IDebugLine
 {
