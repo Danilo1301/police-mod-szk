@@ -1,6 +1,6 @@
 # ninja log v7
 20016	24415	7903110542394023	CMakeFiles/PoliceModSZK.dir/src/main.cpp.o	fb31c1be57075a04
-25071	25201	7903110592945560	libPoliceModSZK.so	1ea6de05ff79e855
+2259	2346	7903151998972450	libPoliceModSZK.so	1ea6de05ff79e855
 42	149	7903102697800802	CMakeFiles/PoliceModSZK.dir/src/AIPed.cpp.o	1d33faec91009605
 54	160	7903102697940334	CMakeFiles/PoliceModSZK.dir/src/AIVehicle.cpp.o	c3eaae5acc005b02
 28	269	7903104620276619	CMakeFiles/PoliceModSZK.dir/aml/mod/config.cpp.o	dd457ba79c1d38a4
@@ -18,7 +18,7 @@
 33	5370	7903110342567791	CMakeFiles/PoliceModSZK.dir/src/AIController.cpp.o	95d263dea55dd3e1
 44	5528	7903110342687397	CMakeFiles/PoliceModSZK.dir/src/AIHelicopterCop.cpp.o	5f4d1a21f0342e
 50	7403	7903110342747204	CMakeFiles/PoliceModSZK.dir/src/AIMedic.cpp.o	4fa6abbc354828c5
-81	7499	7903110343061278	CMakeFiles/PoliceModSZK.dir/src/BackupUnits.cpp.o	15c2dcfc80ecf3df
+36	2779	7903137027145528	CMakeFiles/PoliceModSZK.dir/src/BackupUnits.cpp.o	15c2dcfc80ecf3df
 5418	9675	7903110396758864	CMakeFiles/PoliceModSZK.dir/src/Logger.cpp.o	33df03459786c653
 4741	9977	7903110389645086	CMakeFiles/PoliceModSZK.dir/src/DocumentWindow.cpp.o	4289a872a86fb7b
 4417	10196	7903110386432758	CMakeFiles/PoliceModSZK.dir/src/Checkpoint.cpp.o	7776f99b79740b56
@@ -38,9 +38,9 @@
 9689	18144	7903110439614673	CMakeFiles/PoliceModSZK.dir/src/Partners.cpp.o	d50032c54c6f1a72
 10581	18183	7903110448075023	CMakeFiles/PoliceModSZK.dir/src/PoliceBases.cpp.o	85720cb3e980e586
 11021	18729	7903110452559816	CMakeFiles/PoliceModSZK.dir/src/PoliceVehicles.cpp.o	a827bfd5522fb9d8
-10004	19031	7903110442345415	CMakeFiles/PoliceModSZK.dir/src/Ped.cpp.o	536efcb563c3d63c
+29	2619	7903149499742460	CMakeFiles/PoliceModSZK.dir/src/Ped.cpp.o	536efcb563c3d63c
 13072	19947	7903110473156463	CMakeFiles/PoliceModSZK.dir/src/RGWindow.cpp.o	b049bcd30a2e6871
-10861	19981	7903110450874428	CMakeFiles/PoliceModSZK.dir/src/PoliceMod.cpp.o	be2b344e834def80
+19	2258	7903151976577450	CMakeFiles/PoliceModSZK.dir/src/PoliceMod.cpp.o	be2b344e834def80
 14406	20002	7903110486424335	CMakeFiles/PoliceModSZK.dir/src/TopMessage.cpp.o	a2c08e7e6310fbf8
 13886	20015	7903110481145020	CMakeFiles/PoliceModSZK.dir/src/ScriptTask.cpp.o	2ab1d13de3616b0c
 20003	20485	7903110542274416	CMakeFiles/PoliceModSZK.dir/src/hooks.cpp.o	908810f87d80bd
@@ -50,9 +50,11 @@
 18193	23150	7903110524233666	CMakeFiles/PoliceModSZK.dir/src/WorldWidgets.cpp.o	ec8d08cad534a344
 18156	23740	7903110523873887	CMakeFiles/PoliceModSZK.dir/src/Vehicles.cpp.o	a956bba0c123ae40
 16298	24487	7903110505283957	CMakeFiles/PoliceModSZK.dir/src/Trunk.cpp.o	7c76b4cd65fb3cd2
-18127	24696	7903110523504817	CMakeFiles/PoliceModSZK.dir/src/Vehicle.cpp.o	ed067fae8c2711ef
+44	2274	7903149499891921	CMakeFiles/PoliceModSZK.dir/src/Vehicle.cpp.o	ed067fae8c2711ef
 18749	24830	7903110529814579	CMakeFiles/PoliceModSZK.dir/src/callouts/ATMCallout.cpp.o	f49491b0f2ea1ab7
 19056	24847	7903110532849091	CMakeFiles/PoliceModSZK.dir/src/callouts/DrugDealerCallout.cpp.o	2e51b3c687de2686
 19991	24960	7903110542154188	CMakeFiles/PoliceModSZK.dir/src/callouts/TestCallout.cpp.o	ac4aded2e3c30b4
 19963	24962	7903110541934321	CMakeFiles/PoliceModSZK.dir/src/callouts/StolenCarCallout.cpp.o	9dbfd53353b164c2
-11050	25070	7903110452894939	CMakeFiles/PoliceModSZK.dir/src/Pullover.cpp.o	7c80ae4b395693cc
+38	4198	7903149499832115	CMakeFiles/PoliceModSZK.dir/src/Pullover.cpp.o	7c80ae4b395693cc
+17	1914	7909961626573910	CMakeFiles/PoliceModSZK.dir/src/main.cpp.o	fb31c1be57075a04
+1915	2715	7909961645547747	libPoliceModSZK.so	1ea6de05ff79e855

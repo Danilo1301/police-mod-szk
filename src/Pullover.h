@@ -7,6 +7,8 @@
 
 class Pullover {
 public:
+    static void Update();
+
     static void OnClickWidget();
 
     static void TryPulloverFromVehicle();

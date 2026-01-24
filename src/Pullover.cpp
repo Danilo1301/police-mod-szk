@@ -14,11 +14,30 @@
 #include "DocsWindow.h"
 #include "AudioCollection.h"
 #include "RadioSounds.h"
-#include "FriskWindow.h"
 #include "RGWindow.h"
 #include "CNHWindow.h"
+#include "pch.h"
 
 int aimingPed = NO_PED_FOUND;
+
+void CheckAimingPed()
+{
+    aimingPed = Pullover::FindAimingPed();
+}
+
+void Pullover::Update()
+{
+    int dt = menuSZK->deltaTime;
+
+    static int accumulatorMs = 0;
+    accumulatorMs += dt;
+
+    if (accumulatorMs >= 300)
+    {
+        accumulatorMs = 0;
+        CheckAimingPed();
+    }
+}
 
 void Pullover::OnClickWidget()
 {
@@ -45,8 +64,6 @@ void Pullover::TryPulloverOnFoot()
 {
     fileLog->Log("try pullover on foot");
 
-    aimingPed = FindAimingPed();
-
     if(aimingPed == NO_PED_FOUND)
     {
         menuDebug->AddLine("~r~no ped found");
@@ -58,6 +75,8 @@ void Pullover::TryPulloverOnFoot()
     auto ped = Peds::GetPed(aimingPed);
 
     PulloverPed(ped);
+
+    aimingPed = NO_PED_FOUND;
 }
 
 void Pullover::TryPulloverClosestVehicle()

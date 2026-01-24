@@ -200,6 +200,7 @@ void PoliceMod::OnGameUpdate()
     
     Peds::Update();
     Vehicles::Update();
+    Pullover::Update();
     Criminals::Update();
 
     DeepLog("Update systems [2]");

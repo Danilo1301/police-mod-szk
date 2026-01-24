@@ -267,10 +267,15 @@ void BackupUnits::SpawnBackupUnit(PoliceVehicleData* unit)
         auto driverRef = CREATE_ACTOR_PEDTYPE_IN_CAR_DRIVERSEAT(carRef, PedType::Special, unit->skinModelId);
         Peds::RegisterPed(driverRef);
 
-        if(unit->occupants > 1)
+        auto numOfPassengers = unit->occupants - 1;
+
+        if(numOfPassengers > 0)
         {
-            auto passengerRef = CREATE_ACTOR_PEDTYPE_IN_CAR_PASSENGER_SEAT(carRef, PedType::Special, unit->skinModelId, 0);
-            Peds::RegisterPed(passengerRef);
+            for (auto i = 0; i < numOfPassengers; i++)
+            {
+                auto passengerRef = CREATE_ACTOR_PEDTYPE_IN_CAR_PASSENGER_SEAT(carRef, PedType::Special, unit->skinModelId, i);
+                Peds::RegisterPed(passengerRef);
+            }
         }
 
         if(isHelicopter)
