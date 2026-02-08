@@ -35,6 +35,8 @@ PoliceBase::PoliceBase()
             }
         }
 
+        vehicle->trunk->CheckForNulls();
+
         bool hasPedsInTrunk = vehicle->trunk->GetPedsInTrunk().size() > 0;
 
         if(pedsEscorted.size() == 0 && !hasPedsInTrunk)

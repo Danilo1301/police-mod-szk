@@ -6,7 +6,6 @@
 #include "Vehicles.h"
 #include "WorldWidgets.h"
 #include "Criminals.h"
-#include "BottomMessage.h"
 #include "InventoryItemManager.h"
 #include "Checkpoint.h"
 #include "FriskWindow.h"
@@ -38,7 +37,7 @@ Ped::Ped(int ref, void* ptr)
 
     TryInitializeInventory();
 
-    flags.wantedByJustice = calculateProbability(0.10);
+    flags.wantedByJustice = calculateProbability(CHANCE_BEEING_WANTED_BY_JUSTICE);
 
     if(flags.wantedByJustice)
     {
@@ -49,7 +48,7 @@ Ped::Ped(int ref, void* ptr)
 
     if(flags.willSurrender == false)
     {
-        flags.willKillCops = calculateProbability(0.40);
+        flags.willKillCops = calculateProbability(CHANCE_CRIMINAL_KILL_COPS);
     }
 
     UpdateSeatPosition();
@@ -143,7 +142,7 @@ void Ped::Update()
         widgetOptions->visible = widgetVisible;
     }
 
-    if(ACTOR_DEAD(ref) && wasAlive)
+    if(ACTOR_DEAD(ref) && wasAlive && CREATE_INJURED_PED)
     {
         wasAlive = false;
         flags.isInconcious = true;
@@ -447,12 +446,12 @@ void Ped::InitializeOnVehicle(int vehicleRef)
     {
         auto occupants = vehicle->GetCurrentOccupants();
 
-        bool willSurrender = calculateProbability(0.30);
+        bool willSurrender = calculateProbability(CHANCE_RUNNING_AWAY_WHEN_VEHICLE_IRREGULAR);
         bool willKillCops = false;
 
         if(willSurrender == false)
         {
-            willKillCops = calculateProbability(0.50);
+            willKillCops = calculateProbability(CHANCE_CRIMINAL_KILL_COPS);
         }
 
         for(auto pedRef : occupants)

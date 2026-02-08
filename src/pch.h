@@ -62,6 +62,14 @@ inline bool g_blockInteractions = false;
 inline int CHASE_VEHICLE_MAX_SPEED = 50.0f;
 inline int CHASE_POLICE_MAX_SPEED = 50.0f;
 inline int CHASE_MIN_TIME_TO_SURRENDER = 40.0f;
+inline bool CREATE_INJURED_PED = true;
+inline bool DISABLE_CALLOUTS_RADIO_SOUND = false;
+
+inline float CHANCE_CRIMINAL_KILL_COPS = 0.40f;
+
+inline float CHANCE_RUNNING_AWAY_WHEN_VEHICLE_IRREGULAR = 0.30f;
+
+inline float CHANCE_BEEING_WANTED_BY_JUSTICE = 0.10;
 
 inline CVector2D g_widgetsStartPosition = CVector2D(450, 50);
 

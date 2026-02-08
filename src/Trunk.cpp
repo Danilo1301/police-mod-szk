@@ -133,6 +133,19 @@ void Trunk::UpdatePreviewPeds()
     vehicle->trunk->AddPedToTrunk(ped2Handle);
 }
 
+void Trunk::CheckForNulls()
+{
+    pedsInside.erase(
+        std::remove_if(pedsInside.begin(), pedsInside.end(),
+            [](auto ref)
+            {
+                auto ped = Peds::GetPed(ref);
+                return !Peds::IsValid(ped); // remove se for inválido
+            }),
+        pedsInside.end()
+    );
+}
+
 void Trunk::OpenCustomizeMenu(int vehicleRef)
 {
     auto vehicle = Vehicles::GetVehicle(vehicleRef);

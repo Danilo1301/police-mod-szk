@@ -111,13 +111,21 @@ void Callouts::BroadcastCallout(CalloutBase* callout)
     auto audioGroup = g_broadcastingCallout->GetBroadcastAudio();
     auto audio = audioGroup->GetRandomAudio();
     
-    RadioSounds::PlayAudioNow(audio);
-
-    WaitForAudioFinish(audio, []() {
-        WAIT(1000, []() {
+    if(DISABLE_CALLOUTS_RADIO_SOUND)
+    {
+        WAIT(5000, []() {
             g_broadcastingCallout = nullptr;
         });
-    });
+    } else {
+        RadioSounds::PlayAudioNow(audio);
+
+        WaitForAudioFinish(audio, []() {
+            WAIT(1000, []() {
+                g_broadcastingCallout = nullptr;
+            });
+        });
+    }
+    
 }
 
 void Callouts::AcceptCallout()

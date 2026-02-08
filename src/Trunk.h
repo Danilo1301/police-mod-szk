@@ -19,5 +19,7 @@ public:
     void CreatePreviewPeds();
     void UpdatePreviewPeds();
 
+    void CheckForNulls();
+
     static void OpenCustomizeMenu(int vehicleRef);
 };

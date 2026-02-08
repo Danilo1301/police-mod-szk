@@ -55,6 +55,12 @@ void ModData::LoadSettings()
     CHASE_POLICE_MAX_SPEED = ini.GetInt("settings", "chase_police_max_speed", CHASE_POLICE_MAX_SPEED);
     CHASE_MIN_TIME_TO_SURRENDER = ini.GetInt("settings", "chase_minimum_time_to_surrender", CHASE_MIN_TIME_TO_SURRENDER);
     g_secondsBetweenCallouts = ini.GetInt("settings", "seconds_between_callouts", g_secondsBetweenCallouts);
+    CREATE_INJURED_PED = ini.GetBool("settings", "create_injured_ped", CREATE_INJURED_PED);
+    DISABLE_CALLOUTS_RADIO_SOUND = ini.GetBool("settings", "disable_callouts_radio_sound", DISABLE_CALLOUTS_RADIO_SOUND);
+
+    CHANCE_BEEING_WANTED_BY_JUSTICE = ini.GetDouble("chances", "chance_of_beeing_wanted_by_justice", CHANCE_BEEING_WANTED_BY_JUSTICE);
+    CHANCE_RUNNING_AWAY_WHEN_VEHICLE_IRREGULAR = ini.GetDouble("chances", "chance_of_suspect_running_away_when_vehicle_is_irregular", CHANCE_RUNNING_AWAY_WHEN_VEHICLE_IRREGULAR);
+    CHANCE_CRIMINAL_KILL_COPS = ini.GetDouble("chances", "chance_of_criminal_try_to_kill_cops_when_pulled_over", CHANCE_CRIMINAL_KILL_COPS);
 
     g_widgetsStartPosition.x = ini.GetDouble("widgets", "position_x", g_widgetsStartPosition.x);
     g_widgetsStartPosition.y = ini.GetDouble("widgets", "position_y", g_widgetsStartPosition.y);
