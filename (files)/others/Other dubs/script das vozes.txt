@@ -1,0 +1,71 @@
+inform_suspect_running
+PT: COPOM, pinote.
+EN: Dispatch, suspect is fleeing.
+
+all_clear
+PT: Você está liberado.
+EN: You're free to go.
+
+ask_cnh
+PT: Me vê a sua CNH.
+EN: Let me see your driver's license.
+
+ask_rg
+PT: Me vê seu RG.
+EN: Let me see your ID.
+
+ask_crlv
+PT: Me vê o documento do veículo.
+EN: Let me see the vehicle registration.
+
+exit_vehicle_hands_up
+PT: Desça com as mãos para cima.
+EN: Exit the vehicle with your hands up.
+
+license_plate_check
+PT: COPOM, consulta de emplacamento.
+EN: Dispatch, requesting a license plate check.
+
+pull_over_ped
+PT: Parado, mãos para cima!
+EN: Stop! Hands up!
+
+pull_over_vehicle
+PT: Encoste o veículo.
+EN: Pull the vehicle over.
+
+put_hands_on_head
+PT: Põe a mão na cabeça.
+EN: Put your hands on your head.
+
+put_hands_behind
+PT: Coloque as mãos para trás.
+EN: Put your hands behind your back.
+
+request_ambulance
+PT: COPOM, preciso do apoio de uma unidade do resgate.
+EN: Dispatch, requesting EMS assistance.
+
+request_backup
+PT: COPOM, apoio.
+EN: Dispatch, requesting backup.
+
+request_tow_truck
+PT: COPOM, a equipe solicita um guincho pelo local.
+EN: Dispatch, requesting a tow truck to my location.
+
+atm
+PT: Ocorrência em andamento. Roubo de caixa eletrônico. Indivíduos armados.
+EN: Active incident. ATM robbery in progress. Armed suspects.
+
+test
+PT: Prioridade, guarnições. [...]
+EN: Priority units, [...]
+
+drug_dealer
+PT: Denúncia de um suspeito traficando drogas.
+EN: Report of a suspect dealing drugs.
+
+stolen_car
+PT: Denúncia de veículo roubado localizado pelas câmeras de vigilância.
+EN: Report of a stolen vehicle detected by surveillance cameras.

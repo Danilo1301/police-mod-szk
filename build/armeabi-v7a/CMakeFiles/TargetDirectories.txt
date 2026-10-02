@@ -1,3 +1,0 @@
-C:/PC/Projetos/GTA_Mobile/police-mod-szk-mobile/build/armeabi-v7a/CMakeFiles/PoliceModSZK.dir
-C:/PC/Projetos/GTA_Mobile/police-mod-szk-mobile/build/armeabi-v7a/CMakeFiles/edit_cache.dir
-C:/PC/Projetos/GTA_Mobile/police-mod-szk-mobile/build/armeabi-v7a/CMakeFiles/rebuild_cache.dir

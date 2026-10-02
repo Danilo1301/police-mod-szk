@@ -1,338 +1,686 @@
 [
-{
-  "directory": "C:/PC/Projetos/GTA_Mobile/police-mod-szk-mobile/build/armeabi-v7a",
-  "command": "C:\\android-ndk-r27d\\toolchains\\llvm\\prebuilt\\windows-x86_64\\bin\\clang++.exe --target=armv7-none-linux-androideabi21 --sysroot=C:/android-ndk-r27d/toolchains/llvm/prebuilt/windows-x86_64/sysroot -DANDROID -DPoliceModSZK_EXPORTS -IC:/PC/Projetos/GTA_Mobile/police-mod-szk-mobile/include -IC:/PC/Projetos/GTA_Mobile/police-mod-szk-mobile/aml -g -DANDROID -fdata-sections -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -D_FORTIFY_SOURCE=2 -march=armv7-a -mthumb -Wformat -Werror=format-security   -std=gnu++20 -fPIC -Wall -O2 -fexceptions -frtti -o CMakeFiles\\PoliceModSZK.dir\\aml\\mod\\config.cpp.o -c C:\\PC\\Projetos\\GTA_Mobile\\police-mod-szk-mobile\\aml\\mod\\config.cpp",
-  "file": "C:/PC/Projetos/GTA_Mobile/police-mod-szk-mobile/aml/mod/config.cpp",
-  "output": "C:/PC/Projetos/GTA_Mobile/police-mod-szk-mobile/build/armeabi-v7a/CMakeFiles/PoliceModSZK.dir/aml/mod/config.cpp.o"
-},
-{
-  "directory": "C:/PC/Projetos/GTA_Mobile/police-mod-szk-mobile/build/armeabi-v7a",
-  "command": "C:\\android-ndk-r27d\\toolchains\\llvm\\prebuilt\\windows-x86_64\\bin\\clang++.exe --target=armv7-none-linux-androideabi21 --sysroot=C:/android-ndk-r27d/toolchains/llvm/prebuilt/windows-x86_64/sysroot -DANDROID -DPoliceModSZK_EXPORTS -IC:/PC/Projetos/GTA_Mobile/police-mod-szk-mobile/include -IC:/PC/Projetos/GTA_Mobile/police-mod-szk-mobile/aml -g -DANDROID -fdata-sections -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -D_FORTIFY_SOURCE=2 -march=armv7-a -mthumb -Wformat -Werror=format-security   -std=gnu++20 -fPIC -Wall -O2 -fexceptions -frtti -o CMakeFiles\\PoliceModSZK.dir\\aml\\mod\\logger.cpp.o -c C:\\PC\\Projetos\\GTA_Mobile\\police-mod-szk-mobile\\aml\\mod\\logger.cpp",
-  "file": "C:/PC/Projetos/GTA_Mobile/police-mod-szk-mobile/aml/mod/logger.cpp",
-  "output": "C:/PC/Projetos/GTA_Mobile/police-mod-szk-mobile/build/armeabi-v7a/CMakeFiles/PoliceModSZK.dir/aml/mod/logger.cpp.o"
-},
-{
-  "directory": "C:/PC/Projetos/GTA_Mobile/police-mod-szk-mobile/build/armeabi-v7a",
-  "command": "C:\\android-ndk-r27d\\toolchains\\llvm\\prebuilt\\windows-x86_64\\bin\\clang++.exe --target=armv7-none-linux-androideabi21 --sysroot=C:/android-ndk-r27d/toolchains/llvm/prebuilt/windows-x86_64/sysroot -DANDROID -DPoliceModSZK_EXPORTS -IC:/PC/Projetos/GTA_Mobile/police-mod-szk-mobile/include -IC:/PC/Projetos/GTA_Mobile/police-mod-szk-mobile/aml -g -DANDROID -fdata-sections -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -D_FORTIFY_SOURCE=2 -march=armv7-a -mthumb -Wformat -Werror=format-security   -std=gnu++20 -fPIC -Wall -O2 -fexceptions -frtti -o CMakeFiles\\PoliceModSZK.dir\\src\\AIController.cpp.o -c C:\\PC\\Projetos\\GTA_Mobile\\police-mod-szk-mobile\\src\\AIController.cpp",
-  "file": "C:/PC/Projetos/GTA_Mobile/police-mod-szk-mobile/src/AIController.cpp",
-  "output": "C:/PC/Projetos/GTA_Mobile/police-mod-szk-mobile/build/armeabi-v7a/CMakeFiles/PoliceModSZK.dir/src/AIController.cpp.o"
-},
-{
-  "directory": "C:/PC/Projetos/GTA_Mobile/police-mod-szk-mobile/build/armeabi-v7a",
-  "command": "C:\\android-ndk-r27d\\toolchains\\llvm\\prebuilt\\windows-x86_64\\bin\\clang++.exe --target=armv7-none-linux-androideabi21 --sysroot=C:/android-ndk-r27d/toolchains/llvm/prebuilt/windows-x86_64/sysroot -DANDROID -DPoliceModSZK_EXPORTS -IC:/PC/Projetos/GTA_Mobile/police-mod-szk-mobile/include -IC:/PC/Projetos/GTA_Mobile/police-mod-szk-mobile/aml -g -DANDROID -fdata-sections -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -D_FORTIFY_SOURCE=2 -march=armv7-a -mthumb -Wformat -Werror=format-security   -std=gnu++20 -fPIC -Wall -O2 -fexceptions -frtti -o CMakeFiles\\PoliceModSZK.dir\\src\\AICop.cpp.o -c C:\\PC\\Projetos\\GTA_Mobile\\police-mod-szk-mobile\\src\\AICop.cpp",
-  "file": "C:/PC/Projetos/GTA_Mobile/police-mod-szk-mobile/src/AICop.cpp",
-  "output": "C:/PC/Projetos/GTA_Mobile/police-mod-szk-mobile/build/armeabi-v7a/CMakeFiles/PoliceModSZK.dir/src/AICop.cpp.o"
-},
-{
-  "directory": "C:/PC/Projetos/GTA_Mobile/police-mod-szk-mobile/build/armeabi-v7a",
-  "command": "C:\\android-ndk-r27d\\toolchains\\llvm\\prebuilt\\windows-x86_64\\bin\\clang++.exe --target=armv7-none-linux-androideabi21 --sysroot=C:/android-ndk-r27d/toolchains/llvm/prebuilt/windows-x86_64/sysroot -DANDROID -DPoliceModSZK_EXPORTS -IC:/PC/Projetos/GTA_Mobile/police-mod-szk-mobile/include -IC:/PC/Projetos/GTA_Mobile/police-mod-szk-mobile/aml -g -DANDROID -fdata-sections -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -D_FORTIFY_SOURCE=2 -march=armv7-a -mthumb -Wformat -Werror=format-security   -std=gnu++20 -fPIC -Wall -O2 -fexceptions -frtti -o CMakeFiles\\PoliceModSZK.dir\\src\\AICriminal.cpp.o -c C:\\PC\\Projetos\\GTA_Mobile\\police-mod-szk-mobile\\src\\AICriminal.cpp",
-  "file": "C:/PC/Projetos/GTA_Mobile/police-mod-szk-mobile/src/AICriminal.cpp",
-  "output": "C:/PC/Projetos/GTA_Mobile/police-mod-szk-mobile/build/armeabi-v7a/CMakeFiles/PoliceModSZK.dir/src/AICriminal.cpp.o"
-},
-{
-  "directory": "C:/PC/Projetos/GTA_Mobile/police-mod-szk-mobile/build/armeabi-v7a",
-  "command": "C:\\android-ndk-r27d\\toolchains\\llvm\\prebuilt\\windows-x86_64\\bin\\clang++.exe --target=armv7-none-linux-androideabi21 --sysroot=C:/android-ndk-r27d/toolchains/llvm/prebuilt/windows-x86_64/sysroot -DANDROID -DPoliceModSZK_EXPORTS -IC:/PC/Projetos/GTA_Mobile/police-mod-szk-mobile/include -IC:/PC/Projetos/GTA_Mobile/police-mod-szk-mobile/aml -g -DANDROID -fdata-sections -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -D_FORTIFY_SOURCE=2 -march=armv7-a -mthumb -Wformat -Werror=format-security   -std=gnu++20 -fPIC -Wall -O2 -fexceptions -frtti -o CMakeFiles\\PoliceModSZK.dir\\src\\AIHelicopterCop.cpp.o -c C:\\PC\\Projetos\\GTA_Mobile\\police-mod-szk-mobile\\src\\AIHelicopterCop.cpp",
-  "file": "C:/PC/Projetos/GTA_Mobile/police-mod-szk-mobile/src/AIHelicopterCop.cpp",
-  "output": "C:/PC/Projetos/GTA_Mobile/police-mod-szk-mobile/build/armeabi-v7a/CMakeFiles/PoliceModSZK.dir/src/AIHelicopterCop.cpp.o"
-},
-{
-  "directory": "C:/PC/Projetos/GTA_Mobile/police-mod-szk-mobile/build/armeabi-v7a",
-  "command": "C:\\android-ndk-r27d\\toolchains\\llvm\\prebuilt\\windows-x86_64\\bin\\clang++.exe --target=armv7-none-linux-androideabi21 --sysroot=C:/android-ndk-r27d/toolchains/llvm/prebuilt/windows-x86_64/sysroot -DANDROID -DPoliceModSZK_EXPORTS -IC:/PC/Projetos/GTA_Mobile/police-mod-szk-mobile/include -IC:/PC/Projetos/GTA_Mobile/police-mod-szk-mobile/aml -g -DANDROID -fdata-sections -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -D_FORTIFY_SOURCE=2 -march=armv7-a -mthumb -Wformat -Werror=format-security   -std=gnu++20 -fPIC -Wall -O2 -fexceptions -frtti -o CMakeFiles\\PoliceModSZK.dir\\src\\AIMedic.cpp.o -c C:\\PC\\Projetos\\GTA_Mobile\\police-mod-szk-mobile\\src\\AIMedic.cpp",
-  "file": "C:/PC/Projetos/GTA_Mobile/police-mod-szk-mobile/src/AIMedic.cpp",
-  "output": "C:/PC/Projetos/GTA_Mobile/police-mod-szk-mobile/build/armeabi-v7a/CMakeFiles/PoliceModSZK.dir/src/AIMedic.cpp.o"
-},
-{
-  "directory": "C:/PC/Projetos/GTA_Mobile/police-mod-szk-mobile/build/armeabi-v7a",
-  "command": "C:\\android-ndk-r27d\\toolchains\\llvm\\prebuilt\\windows-x86_64\\bin\\clang++.exe --target=armv7-none-linux-androideabi21 --sysroot=C:/android-ndk-r27d/toolchains/llvm/prebuilt/windows-x86_64/sysroot -DANDROID -DPoliceModSZK_EXPORTS -IC:/PC/Projetos/GTA_Mobile/police-mod-szk-mobile/include -IC:/PC/Projetos/GTA_Mobile/police-mod-szk-mobile/aml -g -DANDROID -fdata-sections -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -D_FORTIFY_SOURCE=2 -march=armv7-a -mthumb -Wformat -Werror=format-security   -std=gnu++20 -fPIC -Wall -O2 -fexceptions -frtti -o CMakeFiles\\PoliceModSZK.dir\\src\\AIPed.cpp.o -c C:\\PC\\Projetos\\GTA_Mobile\\police-mod-szk-mobile\\src\\AIPed.cpp",
-  "file": "C:/PC/Projetos/GTA_Mobile/police-mod-szk-mobile/src/AIPed.cpp",
-  "output": "C:/PC/Projetos/GTA_Mobile/police-mod-szk-mobile/build/armeabi-v7a/CMakeFiles/PoliceModSZK.dir/src/AIPed.cpp.o"
-},
-{
-  "directory": "C:/PC/Projetos/GTA_Mobile/police-mod-szk-mobile/build/armeabi-v7a",
-  "command": "C:\\android-ndk-r27d\\toolchains\\llvm\\prebuilt\\windows-x86_64\\bin\\clang++.exe --target=armv7-none-linux-androideabi21 --sysroot=C:/android-ndk-r27d/toolchains/llvm/prebuilt/windows-x86_64/sysroot -DANDROID -DPoliceModSZK_EXPORTS -IC:/PC/Projetos/GTA_Mobile/police-mod-szk-mobile/include -IC:/PC/Projetos/GTA_Mobile/police-mod-szk-mobile/aml -g -DANDROID -fdata-sections -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -D_FORTIFY_SOURCE=2 -march=armv7-a -mthumb -Wformat -Werror=format-security   -std=gnu++20 -fPIC -Wall -O2 -fexceptions -frtti -o CMakeFiles\\PoliceModSZK.dir\\src\\AIVehicle.cpp.o -c C:\\PC\\Projetos\\GTA_Mobile\\police-mod-szk-mobile\\src\\AIVehicle.cpp",
-  "file": "C:/PC/Projetos/GTA_Mobile/police-mod-szk-mobile/src/AIVehicle.cpp",
-  "output": "C:/PC/Projetos/GTA_Mobile/police-mod-szk-mobile/build/armeabi-v7a/CMakeFiles/PoliceModSZK.dir/src/AIVehicle.cpp.o"
-},
-{
-  "directory": "C:/PC/Projetos/GTA_Mobile/police-mod-szk-mobile/build/armeabi-v7a",
-  "command": "C:\\android-ndk-r27d\\toolchains\\llvm\\prebuilt\\windows-x86_64\\bin\\clang++.exe --target=armv7-none-linux-androideabi21 --sysroot=C:/android-ndk-r27d/toolchains/llvm/prebuilt/windows-x86_64/sysroot -DANDROID -DPoliceModSZK_EXPORTS -IC:/PC/Projetos/GTA_Mobile/police-mod-szk-mobile/include -IC:/PC/Projetos/GTA_Mobile/police-mod-szk-mobile/aml -g -DANDROID -fdata-sections -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -D_FORTIFY_SOURCE=2 -march=armv7-a -mthumb -Wformat -Werror=format-security   -std=gnu++20 -fPIC -Wall -O2 -fexceptions -frtti -o CMakeFiles\\PoliceModSZK.dir\\src\\ATMSystem.cpp.o -c C:\\PC\\Projetos\\GTA_Mobile\\police-mod-szk-mobile\\src\\ATMSystem.cpp",
-  "file": "C:/PC/Projetos/GTA_Mobile/police-mod-szk-mobile/src/ATMSystem.cpp",
-  "output": "C:/PC/Projetos/GTA_Mobile/police-mod-szk-mobile/build/armeabi-v7a/CMakeFiles/PoliceModSZK.dir/src/ATMSystem.cpp.o"
-},
-{
-  "directory": "C:/PC/Projetos/GTA_Mobile/police-mod-szk-mobile/build/armeabi-v7a",
-  "command": "C:\\android-ndk-r27d\\toolchains\\llvm\\prebuilt\\windows-x86_64\\bin\\clang++.exe --target=armv7-none-linux-androideabi21 --sysroot=C:/android-ndk-r27d/toolchains/llvm/prebuilt/windows-x86_64/sysroot -DANDROID -DPoliceModSZK_EXPORTS -IC:/PC/Projetos/GTA_Mobile/police-mod-szk-mobile/include -IC:/PC/Projetos/GTA_Mobile/police-mod-szk-mobile/aml -g -DANDROID -fdata-sections -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -D_FORTIFY_SOURCE=2 -march=armv7-a -mthumb -Wformat -Werror=format-security   -std=gnu++20 -fPIC -Wall -O2 -fexceptions -frtti -o CMakeFiles\\PoliceModSZK.dir\\src\\AudioCollection.cpp.o -c C:\\PC\\Projetos\\GTA_Mobile\\police-mod-szk-mobile\\src\\AudioCollection.cpp",
-  "file": "C:/PC/Projetos/GTA_Mobile/police-mod-szk-mobile/src/AudioCollection.cpp",
-  "output": "C:/PC/Projetos/GTA_Mobile/police-mod-szk-mobile/build/armeabi-v7a/CMakeFiles/PoliceModSZK.dir/src/AudioCollection.cpp.o"
-},
-{
-  "directory": "C:/PC/Projetos/GTA_Mobile/police-mod-szk-mobile/build/armeabi-v7a",
-  "command": "C:\\android-ndk-r27d\\toolchains\\llvm\\prebuilt\\windows-x86_64\\bin\\clang++.exe --target=armv7-none-linux-androideabi21 --sysroot=C:/android-ndk-r27d/toolchains/llvm/prebuilt/windows-x86_64/sysroot -DANDROID -DPoliceModSZK_EXPORTS -IC:/PC/Projetos/GTA_Mobile/police-mod-szk-mobile/include -IC:/PC/Projetos/GTA_Mobile/police-mod-szk-mobile/aml -g -DANDROID -fdata-sections -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -D_FORTIFY_SOURCE=2 -march=armv7-a -mthumb -Wformat -Werror=format-security   -std=gnu++20 -fPIC -Wall -O2 -fexceptions -frtti -o CMakeFiles\\PoliceModSZK.dir\\src\\AudioSequence.cpp.o -c C:\\PC\\Projetos\\GTA_Mobile\\police-mod-szk-mobile\\src\\AudioSequence.cpp",
-  "file": "C:/PC/Projetos/GTA_Mobile/police-mod-szk-mobile/src/AudioSequence.cpp",
-  "output": "C:/PC/Projetos/GTA_Mobile/police-mod-szk-mobile/build/armeabi-v7a/CMakeFiles/PoliceModSZK.dir/src/AudioSequence.cpp.o"
-},
-{
-  "directory": "C:/PC/Projetos/GTA_Mobile/police-mod-szk-mobile/build/armeabi-v7a",
-  "command": "C:\\android-ndk-r27d\\toolchains\\llvm\\prebuilt\\windows-x86_64\\bin\\clang++.exe --target=armv7-none-linux-androideabi21 --sysroot=C:/android-ndk-r27d/toolchains/llvm/prebuilt/windows-x86_64/sysroot -DANDROID -DPoliceModSZK_EXPORTS -IC:/PC/Projetos/GTA_Mobile/police-mod-szk-mobile/include -IC:/PC/Projetos/GTA_Mobile/police-mod-szk-mobile/aml -g -DANDROID -fdata-sections -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -D_FORTIFY_SOURCE=2 -march=armv7-a -mthumb -Wformat -Werror=format-security   -std=gnu++20 -fPIC -Wall -O2 -fexceptions -frtti -o CMakeFiles\\PoliceModSZK.dir\\src\\AudioVariationGroup.cpp.o -c C:\\PC\\Projetos\\GTA_Mobile\\police-mod-szk-mobile\\src\\AudioVariationGroup.cpp",
-  "file": "C:/PC/Projetos/GTA_Mobile/police-mod-szk-mobile/src/AudioVariationGroup.cpp",
-  "output": "C:/PC/Projetos/GTA_Mobile/police-mod-szk-mobile/build/armeabi-v7a/CMakeFiles/PoliceModSZK.dir/src/AudioVariationGroup.cpp.o"
-},
-{
-  "directory": "C:/PC/Projetos/GTA_Mobile/police-mod-szk-mobile/build/armeabi-v7a",
-  "command": "C:\\android-ndk-r27d\\toolchains\\llvm\\prebuilt\\windows-x86_64\\bin\\clang++.exe --target=armv7-none-linux-androideabi21 --sysroot=C:/android-ndk-r27d/toolchains/llvm/prebuilt/windows-x86_64/sysroot -DANDROID -DPoliceModSZK_EXPORTS -IC:/PC/Projetos/GTA_Mobile/police-mod-szk-mobile/include -IC:/PC/Projetos/GTA_Mobile/police-mod-szk-mobile/aml -g -DANDROID -fdata-sections -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -D_FORTIFY_SOURCE=2 -march=armv7-a -mthumb -Wformat -Werror=format-security   -std=gnu++20 -fPIC -Wall -O2 -fexceptions -frtti -o CMakeFiles\\PoliceModSZK.dir\\src\\BackupUnits.cpp.o -c C:\\PC\\Projetos\\GTA_Mobile\\police-mod-szk-mobile\\src\\BackupUnits.cpp",
-  "file": "C:/PC/Projetos/GTA_Mobile/police-mod-szk-mobile/src/BackupUnits.cpp",
-  "output": "C:/PC/Projetos/GTA_Mobile/police-mod-szk-mobile/build/armeabi-v7a/CMakeFiles/PoliceModSZK.dir/src/BackupUnits.cpp.o"
-},
-{
-  "directory": "C:/PC/Projetos/GTA_Mobile/police-mod-szk-mobile/build/armeabi-v7a",
-  "command": "C:\\android-ndk-r27d\\toolchains\\llvm\\prebuilt\\windows-x86_64\\bin\\clang++.exe --target=armv7-none-linux-androideabi21 --sysroot=C:/android-ndk-r27d/toolchains/llvm/prebuilt/windows-x86_64/sysroot -DANDROID -DPoliceModSZK_EXPORTS -IC:/PC/Projetos/GTA_Mobile/police-mod-szk-mobile/include -IC:/PC/Projetos/GTA_Mobile/police-mod-szk-mobile/aml -g -DANDROID -fdata-sections -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -D_FORTIFY_SOURCE=2 -march=armv7-a -mthumb -Wformat -Werror=format-security   -std=gnu++20 -fPIC -Wall -O2 -fexceptions -frtti -o CMakeFiles\\PoliceModSZK.dir\\src\\Biqueiras.cpp.o -c C:\\PC\\Projetos\\GTA_Mobile\\police-mod-szk-mobile\\src\\Biqueiras.cpp",
-  "file": "C:/PC/Projetos/GTA_Mobile/police-mod-szk-mobile/src/Biqueiras.cpp",
-  "output": "C:/PC/Projetos/GTA_Mobile/police-mod-szk-mobile/build/armeabi-v7a/CMakeFiles/PoliceModSZK.dir/src/Biqueiras.cpp.o"
-},
-{
-  "directory": "C:/PC/Projetos/GTA_Mobile/police-mod-szk-mobile/build/armeabi-v7a",
-  "command": "C:\\android-ndk-r27d\\toolchains\\llvm\\prebuilt\\windows-x86_64\\bin\\clang++.exe --target=armv7-none-linux-androideabi21 --sysroot=C:/android-ndk-r27d/toolchains/llvm/prebuilt/windows-x86_64/sysroot -DANDROID -DPoliceModSZK_EXPORTS -IC:/PC/Projetos/GTA_Mobile/police-mod-szk-mobile/include -IC:/PC/Projetos/GTA_Mobile/police-mod-szk-mobile/aml -g -DANDROID -fdata-sections -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -D_FORTIFY_SOURCE=2 -march=armv7-a -mthumb -Wformat -Werror=format-security   -std=gnu++20 -fPIC -Wall -O2 -fexceptions -frtti -o CMakeFiles\\PoliceModSZK.dir\\src\\BottomMessage.cpp.o -c C:\\PC\\Projetos\\GTA_Mobile\\police-mod-szk-mobile\\src\\BottomMessage.cpp",
-  "file": "C:/PC/Projetos/GTA_Mobile/police-mod-szk-mobile/src/BottomMessage.cpp",
-  "output": "C:/PC/Projetos/GTA_Mobile/police-mod-szk-mobile/build/armeabi-v7a/CMakeFiles/PoliceModSZK.dir/src/BottomMessage.cpp.o"
-},
-{
-  "directory": "C:/PC/Projetos/GTA_Mobile/police-mod-szk-mobile/build/armeabi-v7a",
-  "command": "C:\\android-ndk-r27d\\toolchains\\llvm\\prebuilt\\windows-x86_64\\bin\\clang++.exe --target=armv7-none-linux-androideabi21 --sysroot=C:/android-ndk-r27d/toolchains/llvm/prebuilt/windows-x86_64/sysroot -DANDROID -DPoliceModSZK_EXPORTS -IC:/PC/Projetos/GTA_Mobile/police-mod-szk-mobile/include -IC:/PC/Projetos/GTA_Mobile/police-mod-szk-mobile/aml -g -DANDROID -fdata-sections -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -D_FORTIFY_SOURCE=2 -march=armv7-a -mthumb -Wformat -Werror=format-security   -std=gnu++20 -fPIC -Wall -O2 -fexceptions -frtti -o CMakeFiles\\PoliceModSZK.dir\\src\\CNHWindow.cpp.o -c C:\\PC\\Projetos\\GTA_Mobile\\police-mod-szk-mobile\\src\\CNHWindow.cpp",
-  "file": "C:/PC/Projetos/GTA_Mobile/police-mod-szk-mobile/src/CNHWindow.cpp",
-  "output": "C:/PC/Projetos/GTA_Mobile/police-mod-szk-mobile/build/armeabi-v7a/CMakeFiles/PoliceModSZK.dir/src/CNHWindow.cpp.o"
-},
-{
-  "directory": "C:/PC/Projetos/GTA_Mobile/police-mod-szk-mobile/build/armeabi-v7a",
-  "command": "C:\\android-ndk-r27d\\toolchains\\llvm\\prebuilt\\windows-x86_64\\bin\\clang++.exe --target=armv7-none-linux-androideabi21 --sysroot=C:/android-ndk-r27d/toolchains/llvm/prebuilt/windows-x86_64/sysroot -DANDROID -DPoliceModSZK_EXPORTS -IC:/PC/Projetos/GTA_Mobile/police-mod-szk-mobile/include -IC:/PC/Projetos/GTA_Mobile/police-mod-szk-mobile/aml -g -DANDROID -fdata-sections -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -D_FORTIFY_SOURCE=2 -march=armv7-a -mthumb -Wformat -Werror=format-security   -std=gnu++20 -fPIC -Wall -O2 -fexceptions -frtti -o CMakeFiles\\PoliceModSZK.dir\\src\\Callouts.cpp.o -c C:\\PC\\Projetos\\GTA_Mobile\\police-mod-szk-mobile\\src\\Callouts.cpp",
-  "file": "C:/PC/Projetos/GTA_Mobile/police-mod-szk-mobile/src/Callouts.cpp",
-  "output": "C:/PC/Projetos/GTA_Mobile/police-mod-szk-mobile/build/armeabi-v7a/CMakeFiles/PoliceModSZK.dir/src/Callouts.cpp.o"
-},
-{
-  "directory": "C:/PC/Projetos/GTA_Mobile/police-mod-szk-mobile/build/armeabi-v7a",
-  "command": "C:\\android-ndk-r27d\\toolchains\\llvm\\prebuilt\\windows-x86_64\\bin\\clang++.exe --target=armv7-none-linux-androideabi21 --sysroot=C:/android-ndk-r27d/toolchains/llvm/prebuilt/windows-x86_64/sysroot -DANDROID -DPoliceModSZK_EXPORTS -IC:/PC/Projetos/GTA_Mobile/police-mod-szk-mobile/include -IC:/PC/Projetos/GTA_Mobile/police-mod-szk-mobile/aml -g -DANDROID -fdata-sections -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -D_FORTIFY_SOURCE=2 -march=armv7-a -mthumb -Wformat -Werror=format-security   -std=gnu++20 -fPIC -Wall -O2 -fexceptions -frtti -o CMakeFiles\\PoliceModSZK.dir\\src\\Chase.cpp.o -c C:\\PC\\Projetos\\GTA_Mobile\\police-mod-szk-mobile\\src\\Chase.cpp",
-  "file": "C:/PC/Projetos/GTA_Mobile/police-mod-szk-mobile/src/Chase.cpp",
-  "output": "C:/PC/Projetos/GTA_Mobile/police-mod-szk-mobile/build/armeabi-v7a/CMakeFiles/PoliceModSZK.dir/src/Chase.cpp.o"
-},
-{
-  "directory": "C:/PC/Projetos/GTA_Mobile/police-mod-szk-mobile/build/armeabi-v7a",
-  "command": "C:\\android-ndk-r27d\\toolchains\\llvm\\prebuilt\\windows-x86_64\\bin\\clang++.exe --target=armv7-none-linux-androideabi21 --sysroot=C:/android-ndk-r27d/toolchains/llvm/prebuilt/windows-x86_64/sysroot -DANDROID -DPoliceModSZK_EXPORTS -IC:/PC/Projetos/GTA_Mobile/police-mod-szk-mobile/include -IC:/PC/Projetos/GTA_Mobile/police-mod-szk-mobile/aml -g -DANDROID -fdata-sections -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -D_FORTIFY_SOURCE=2 -march=armv7-a -mthumb -Wformat -Werror=format-security   -std=gnu++20 -fPIC -Wall -O2 -fexceptions -frtti -o CMakeFiles\\PoliceModSZK.dir\\src\\Checkpoint.cpp.o -c C:\\PC\\Projetos\\GTA_Mobile\\police-mod-szk-mobile\\src\\Checkpoint.cpp",
-  "file": "C:/PC/Projetos/GTA_Mobile/police-mod-szk-mobile/src/Checkpoint.cpp",
-  "output": "C:/PC/Projetos/GTA_Mobile/police-mod-szk-mobile/build/armeabi-v7a/CMakeFiles/PoliceModSZK.dir/src/Checkpoint.cpp.o"
-},
-{
-  "directory": "C:/PC/Projetos/GTA_Mobile/police-mod-szk-mobile/build/armeabi-v7a",
-  "command": "C:\\android-ndk-r27d\\toolchains\\llvm\\prebuilt\\windows-x86_64\\bin\\clang++.exe --target=armv7-none-linux-androideabi21 --sysroot=C:/android-ndk-r27d/toolchains/llvm/prebuilt/windows-x86_64/sysroot -DANDROID -DPoliceModSZK_EXPORTS -IC:/PC/Projetos/GTA_Mobile/police-mod-szk-mobile/include -IC:/PC/Projetos/GTA_Mobile/police-mod-szk-mobile/aml -g -DANDROID -fdata-sections -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -D_FORTIFY_SOURCE=2 -march=armv7-a -mthumb -Wformat -Werror=format-security   -std=gnu++20 -fPIC -Wall -O2 -fexceptions -frtti -o CMakeFiles\\PoliceModSZK.dir\\src\\CleoFunctions.cpp.o -c C:\\PC\\Projetos\\GTA_Mobile\\police-mod-szk-mobile\\src\\CleoFunctions.cpp",
-  "file": "C:/PC/Projetos/GTA_Mobile/police-mod-szk-mobile/src/CleoFunctions.cpp",
-  "output": "C:/PC/Projetos/GTA_Mobile/police-mod-szk-mobile/build/armeabi-v7a/CMakeFiles/PoliceModSZK.dir/src/CleoFunctions.cpp.o"
-},
-{
-  "directory": "C:/PC/Projetos/GTA_Mobile/police-mod-szk-mobile/build/armeabi-v7a",
-  "command": "C:\\android-ndk-r27d\\toolchains\\llvm\\prebuilt\\windows-x86_64\\bin\\clang++.exe --target=armv7-none-linux-androideabi21 --sysroot=C:/android-ndk-r27d/toolchains/llvm/prebuilt/windows-x86_64/sysroot -DANDROID -DPoliceModSZK_EXPORTS -IC:/PC/Projetos/GTA_Mobile/police-mod-szk-mobile/include -IC:/PC/Projetos/GTA_Mobile/police-mod-szk-mobile/aml -g -DANDROID -fdata-sections -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -D_FORTIFY_SOURCE=2 -march=armv7-a -mthumb -Wformat -Werror=format-security   -std=gnu++20 -fPIC -Wall -O2 -fexceptions -frtti -o CMakeFiles\\PoliceModSZK.dir\\src\\Criminals.cpp.o -c C:\\PC\\Projetos\\GTA_Mobile\\police-mod-szk-mobile\\src\\Criminals.cpp",
-  "file": "C:/PC/Projetos/GTA_Mobile/police-mod-szk-mobile/src/Criminals.cpp",
-  "output": "C:/PC/Projetos/GTA_Mobile/police-mod-szk-mobile/build/armeabi-v7a/CMakeFiles/PoliceModSZK.dir/src/Criminals.cpp.o"
-},
-{
-  "directory": "C:/PC/Projetos/GTA_Mobile/police-mod-szk-mobile/build/armeabi-v7a",
-  "command": "C:\\android-ndk-r27d\\toolchains\\llvm\\prebuilt\\windows-x86_64\\bin\\clang++.exe --target=armv7-none-linux-androideabi21 --sysroot=C:/android-ndk-r27d/toolchains/llvm/prebuilt/windows-x86_64/sysroot -DANDROID -DPoliceModSZK_EXPORTS -IC:/PC/Projetos/GTA_Mobile/police-mod-szk-mobile/include -IC:/PC/Projetos/GTA_Mobile/police-mod-szk-mobile/aml -g -DANDROID -fdata-sections -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -D_FORTIFY_SOURCE=2 -march=armv7-a -mthumb -Wformat -Werror=format-security   -std=gnu++20 -fPIC -Wall -O2 -fexceptions -frtti -o CMakeFiles\\PoliceModSZK.dir\\src\\DocsWindow.cpp.o -c C:\\PC\\Projetos\\GTA_Mobile\\police-mod-szk-mobile\\src\\DocsWindow.cpp",
-  "file": "C:/PC/Projetos/GTA_Mobile/police-mod-szk-mobile/src/DocsWindow.cpp",
-  "output": "C:/PC/Projetos/GTA_Mobile/police-mod-szk-mobile/build/armeabi-v7a/CMakeFiles/PoliceModSZK.dir/src/DocsWindow.cpp.o"
-},
-{
-  "directory": "C:/PC/Projetos/GTA_Mobile/police-mod-szk-mobile/build/armeabi-v7a",
-  "command": "C:\\android-ndk-r27d\\toolchains\\llvm\\prebuilt\\windows-x86_64\\bin\\clang++.exe --target=armv7-none-linux-androideabi21 --sysroot=C:/android-ndk-r27d/toolchains/llvm/prebuilt/windows-x86_64/sysroot -DANDROID -DPoliceModSZK_EXPORTS -IC:/PC/Projetos/GTA_Mobile/police-mod-szk-mobile/include -IC:/PC/Projetos/GTA_Mobile/police-mod-szk-mobile/aml -g -DANDROID -fdata-sections -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -D_FORTIFY_SOURCE=2 -march=armv7-a -mthumb -Wformat -Werror=format-security   -std=gnu++20 -fPIC -Wall -O2 -fexceptions -frtti -o CMakeFiles\\PoliceModSZK.dir\\src\\DocumentWindow.cpp.o -c C:\\PC\\Projetos\\GTA_Mobile\\police-mod-szk-mobile\\src\\DocumentWindow.cpp",
-  "file": "C:/PC/Projetos/GTA_Mobile/police-mod-szk-mobile/src/DocumentWindow.cpp",
-  "output": "C:/PC/Projetos/GTA_Mobile/police-mod-szk-mobile/build/armeabi-v7a/CMakeFiles/PoliceModSZK.dir/src/DocumentWindow.cpp.o"
-},
-{
-  "directory": "C:/PC/Projetos/GTA_Mobile/police-mod-szk-mobile/build/armeabi-v7a",
-  "command": "C:\\android-ndk-r27d\\toolchains\\llvm\\prebuilt\\windows-x86_64\\bin\\clang++.exe --target=armv7-none-linux-androideabi21 --sysroot=C:/android-ndk-r27d/toolchains/llvm/prebuilt/windows-x86_64/sysroot -DANDROID -DPoliceModSZK_EXPORTS -IC:/PC/Projetos/GTA_Mobile/police-mod-szk-mobile/include -IC:/PC/Projetos/GTA_Mobile/police-mod-szk-mobile/aml -g -DANDROID -fdata-sections -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -D_FORTIFY_SOURCE=2 -march=armv7-a -mthumb -Wformat -Werror=format-security   -std=gnu++20 -fPIC -Wall -O2 -fexceptions -frtti -o CMakeFiles\\PoliceModSZK.dir\\src\\Escort.cpp.o -c C:\\PC\\Projetos\\GTA_Mobile\\police-mod-szk-mobile\\src\\Escort.cpp",
-  "file": "C:/PC/Projetos/GTA_Mobile/police-mod-szk-mobile/src/Escort.cpp",
-  "output": "C:/PC/Projetos/GTA_Mobile/police-mod-szk-mobile/build/armeabi-v7a/CMakeFiles/PoliceModSZK.dir/src/Escort.cpp.o"
-},
-{
-  "directory": "C:/PC/Projetos/GTA_Mobile/police-mod-szk-mobile/build/armeabi-v7a",
-  "command": "C:\\android-ndk-r27d\\toolchains\\llvm\\prebuilt\\windows-x86_64\\bin\\clang++.exe --target=armv7-none-linux-androideabi21 --sysroot=C:/android-ndk-r27d/toolchains/llvm/prebuilt/windows-x86_64/sysroot -DANDROID -DPoliceModSZK_EXPORTS -IC:/PC/Projetos/GTA_Mobile/police-mod-szk-mobile/include -IC:/PC/Projetos/GTA_Mobile/police-mod-szk-mobile/aml -g -DANDROID -fdata-sections -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -D_FORTIFY_SOURCE=2 -march=armv7-a -mthumb -Wformat -Werror=format-security   -std=gnu++20 -fPIC -Wall -O2 -fexceptions -frtti -o CMakeFiles\\PoliceModSZK.dir\\src\\FriskWindow.cpp.o -c C:\\PC\\Projetos\\GTA_Mobile\\police-mod-szk-mobile\\src\\FriskWindow.cpp",
-  "file": "C:/PC/Projetos/GTA_Mobile/police-mod-szk-mobile/src/FriskWindow.cpp",
-  "output": "C:/PC/Projetos/GTA_Mobile/police-mod-szk-mobile/build/armeabi-v7a/CMakeFiles/PoliceModSZK.dir/src/FriskWindow.cpp.o"
-},
-{
-  "directory": "C:/PC/Projetos/GTA_Mobile/police-mod-szk-mobile/build/armeabi-v7a",
-  "command": "C:\\android-ndk-r27d\\toolchains\\llvm\\prebuilt\\windows-x86_64\\bin\\clang++.exe --target=armv7-none-linux-androideabi21 --sysroot=C:/android-ndk-r27d/toolchains/llvm/prebuilt/windows-x86_64/sysroot -DANDROID -DPoliceModSZK_EXPORTS -IC:/PC/Projetos/GTA_Mobile/police-mod-szk-mobile/include -IC:/PC/Projetos/GTA_Mobile/police-mod-szk-mobile/aml -g -DANDROID -fdata-sections -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -D_FORTIFY_SOURCE=2 -march=armv7-a -mthumb -Wformat -Werror=format-security   -std=gnu++20 -fPIC -Wall -O2 -fexceptions -frtti -o CMakeFiles\\PoliceModSZK.dir\\src\\Inventory.cpp.o -c C:\\PC\\Projetos\\GTA_Mobile\\police-mod-szk-mobile\\src\\Inventory.cpp",
-  "file": "C:/PC/Projetos/GTA_Mobile/police-mod-szk-mobile/src/Inventory.cpp",
-  "output": "C:/PC/Projetos/GTA_Mobile/police-mod-szk-mobile/build/armeabi-v7a/CMakeFiles/PoliceModSZK.dir/src/Inventory.cpp.o"
-},
-{
-  "directory": "C:/PC/Projetos/GTA_Mobile/police-mod-szk-mobile/build/armeabi-v7a",
-  "command": "C:\\android-ndk-r27d\\toolchains\\llvm\\prebuilt\\windows-x86_64\\bin\\clang++.exe --target=armv7-none-linux-androideabi21 --sysroot=C:/android-ndk-r27d/toolchains/llvm/prebuilt/windows-x86_64/sysroot -DANDROID -DPoliceModSZK_EXPORTS -IC:/PC/Projetos/GTA_Mobile/police-mod-szk-mobile/include -IC:/PC/Projetos/GTA_Mobile/police-mod-szk-mobile/aml -g -DANDROID -fdata-sections -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -D_FORTIFY_SOURCE=2 -march=armv7-a -mthumb -Wformat -Werror=format-security   -std=gnu++20 -fPIC -Wall -O2 -fexceptions -frtti -o CMakeFiles\\PoliceModSZK.dir\\src\\InventoryItemManager.cpp.o -c C:\\PC\\Projetos\\GTA_Mobile\\police-mod-szk-mobile\\src\\InventoryItemManager.cpp",
-  "file": "C:/PC/Projetos/GTA_Mobile/police-mod-szk-mobile/src/InventoryItemManager.cpp",
-  "output": "C:/PC/Projetos/GTA_Mobile/police-mod-szk-mobile/build/armeabi-v7a/CMakeFiles/PoliceModSZK.dir/src/InventoryItemManager.cpp.o"
-},
-{
-  "directory": "C:/PC/Projetos/GTA_Mobile/police-mod-szk-mobile/build/armeabi-v7a",
-  "command": "C:\\android-ndk-r27d\\toolchains\\llvm\\prebuilt\\windows-x86_64\\bin\\clang++.exe --target=armv7-none-linux-androideabi21 --sysroot=C:/android-ndk-r27d/toolchains/llvm/prebuilt/windows-x86_64/sysroot -DANDROID -DPoliceModSZK_EXPORTS -IC:/PC/Projetos/GTA_Mobile/police-mod-szk-mobile/include -IC:/PC/Projetos/GTA_Mobile/police-mod-szk-mobile/aml -g -DANDROID -fdata-sections -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -D_FORTIFY_SOURCE=2 -march=armv7-a -mthumb -Wformat -Werror=format-security   -std=gnu++20 -fPIC -Wall -O2 -fexceptions -frtti -o CMakeFiles\\PoliceModSZK.dir\\src\\Logger.cpp.o -c C:\\PC\\Projetos\\GTA_Mobile\\police-mod-szk-mobile\\src\\Logger.cpp",
-  "file": "C:/PC/Projetos/GTA_Mobile/police-mod-szk-mobile/src/Logger.cpp",
-  "output": "C:/PC/Projetos/GTA_Mobile/police-mod-szk-mobile/build/armeabi-v7a/CMakeFiles/PoliceModSZK.dir/src/Logger.cpp.o"
-},
-{
-  "directory": "C:/PC/Projetos/GTA_Mobile/police-mod-szk-mobile/build/armeabi-v7a",
-  "command": "C:\\android-ndk-r27d\\toolchains\\llvm\\prebuilt\\windows-x86_64\\bin\\clang++.exe --target=armv7-none-linux-androideabi21 --sysroot=C:/android-ndk-r27d/toolchains/llvm/prebuilt/windows-x86_64/sysroot -DANDROID -DPoliceModSZK_EXPORTS -IC:/PC/Projetos/GTA_Mobile/police-mod-szk-mobile/include -IC:/PC/Projetos/GTA_Mobile/police-mod-szk-mobile/aml -g -DANDROID -fdata-sections -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -D_FORTIFY_SOURCE=2 -march=armv7-a -mthumb -Wformat -Werror=format-security   -std=gnu++20 -fPIC -Wall -O2 -fexceptions -frtti -o CMakeFiles\\PoliceModSZK.dir\\src\\ModData.cpp.o -c C:\\PC\\Projetos\\GTA_Mobile\\police-mod-szk-mobile\\src\\ModData.cpp",
-  "file": "C:/PC/Projetos/GTA_Mobile/police-mod-szk-mobile/src/ModData.cpp",
-  "output": "C:/PC/Projetos/GTA_Mobile/police-mod-szk-mobile/build/armeabi-v7a/CMakeFiles/PoliceModSZK.dir/src/ModData.cpp.o"
-},
-{
-  "directory": "C:/PC/Projetos/GTA_Mobile/police-mod-szk-mobile/build/armeabi-v7a",
-  "command": "C:\\android-ndk-r27d\\toolchains\\llvm\\prebuilt\\windows-x86_64\\bin\\clang++.exe --target=armv7-none-linux-androideabi21 --sysroot=C:/android-ndk-r27d/toolchains/llvm/prebuilt/windows-x86_64/sysroot -DANDROID -DPoliceModSZK_EXPORTS -IC:/PC/Projetos/GTA_Mobile/police-mod-szk-mobile/include -IC:/PC/Projetos/GTA_Mobile/police-mod-szk-mobile/aml -g -DANDROID -fdata-sections -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -D_FORTIFY_SOURCE=2 -march=armv7-a -mthumb -Wformat -Werror=format-security   -std=gnu++20 -fPIC -Wall -O2 -fexceptions -frtti -o CMakeFiles\\PoliceModSZK.dir\\src\\ModelLoader.cpp.o -c C:\\PC\\Projetos\\GTA_Mobile\\police-mod-szk-mobile\\src\\ModelLoader.cpp",
-  "file": "C:/PC/Projetos/GTA_Mobile/police-mod-szk-mobile/src/ModelLoader.cpp",
-  "output": "C:/PC/Projetos/GTA_Mobile/police-mod-szk-mobile/build/armeabi-v7a/CMakeFiles/PoliceModSZK.dir/src/ModelLoader.cpp.o"
-},
-{
-  "directory": "C:/PC/Projetos/GTA_Mobile/police-mod-szk-mobile/build/armeabi-v7a",
-  "command": "C:\\android-ndk-r27d\\toolchains\\llvm\\prebuilt\\windows-x86_64\\bin\\clang++.exe --target=armv7-none-linux-androideabi21 --sysroot=C:/android-ndk-r27d/toolchains/llvm/prebuilt/windows-x86_64/sysroot -DANDROID -DPoliceModSZK_EXPORTS -IC:/PC/Projetos/GTA_Mobile/police-mod-szk-mobile/include -IC:/PC/Projetos/GTA_Mobile/police-mod-szk-mobile/aml -g -DANDROID -fdata-sections -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -D_FORTIFY_SOURCE=2 -march=armv7-a -mthumb -Wformat -Werror=format-security   -std=gnu++20 -fPIC -Wall -O2 -fexceptions -frtti -o CMakeFiles\\PoliceModSZK.dir\\src\\Names.cpp.o -c C:\\PC\\Projetos\\GTA_Mobile\\police-mod-szk-mobile\\src\\Names.cpp",
-  "file": "C:/PC/Projetos/GTA_Mobile/police-mod-szk-mobile/src/Names.cpp",
-  "output": "C:/PC/Projetos/GTA_Mobile/police-mod-szk-mobile/build/armeabi-v7a/CMakeFiles/PoliceModSZK.dir/src/Names.cpp.o"
-},
-{
-  "directory": "C:/PC/Projetos/GTA_Mobile/police-mod-szk-mobile/build/armeabi-v7a",
-  "command": "C:\\android-ndk-r27d\\toolchains\\llvm\\prebuilt\\windows-x86_64\\bin\\clang++.exe --target=armv7-none-linux-androideabi21 --sysroot=C:/android-ndk-r27d/toolchains/llvm/prebuilt/windows-x86_64/sysroot -DANDROID -DPoliceModSZK_EXPORTS -IC:/PC/Projetos/GTA_Mobile/police-mod-szk-mobile/include -IC:/PC/Projetos/GTA_Mobile/police-mod-szk-mobile/aml -g -DANDROID -fdata-sections -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -D_FORTIFY_SOURCE=2 -march=armv7-a -mthumb -Wformat -Werror=format-security   -std=gnu++20 -fPIC -Wall -O2 -fexceptions -frtti -o CMakeFiles\\PoliceModSZK.dir\\src\\Partners.cpp.o -c C:\\PC\\Projetos\\GTA_Mobile\\police-mod-szk-mobile\\src\\Partners.cpp",
-  "file": "C:/PC/Projetos/GTA_Mobile/police-mod-szk-mobile/src/Partners.cpp",
-  "output": "C:/PC/Projetos/GTA_Mobile/police-mod-szk-mobile/build/armeabi-v7a/CMakeFiles/PoliceModSZK.dir/src/Partners.cpp.o"
-},
-{
-  "directory": "C:/PC/Projetos/GTA_Mobile/police-mod-szk-mobile/build/armeabi-v7a",
-  "command": "C:\\android-ndk-r27d\\toolchains\\llvm\\prebuilt\\windows-x86_64\\bin\\clang++.exe --target=armv7-none-linux-androideabi21 --sysroot=C:/android-ndk-r27d/toolchains/llvm/prebuilt/windows-x86_64/sysroot -DANDROID -DPoliceModSZK_EXPORTS -IC:/PC/Projetos/GTA_Mobile/police-mod-szk-mobile/include -IC:/PC/Projetos/GTA_Mobile/police-mod-szk-mobile/aml -g -DANDROID -fdata-sections -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -D_FORTIFY_SOURCE=2 -march=armv7-a -mthumb -Wformat -Werror=format-security   -std=gnu++20 -fPIC -Wall -O2 -fexceptions -frtti -o CMakeFiles\\PoliceModSZK.dir\\src\\Ped.cpp.o -c C:\\PC\\Projetos\\GTA_Mobile\\police-mod-szk-mobile\\src\\Ped.cpp",
-  "file": "C:/PC/Projetos/GTA_Mobile/police-mod-szk-mobile/src/Ped.cpp",
-  "output": "C:/PC/Projetos/GTA_Mobile/police-mod-szk-mobile/build/armeabi-v7a/CMakeFiles/PoliceModSZK.dir/src/Ped.cpp.o"
-},
-{
-  "directory": "C:/PC/Projetos/GTA_Mobile/police-mod-szk-mobile/build/armeabi-v7a",
-  "command": "C:\\android-ndk-r27d\\toolchains\\llvm\\prebuilt\\windows-x86_64\\bin\\clang++.exe --target=armv7-none-linux-androideabi21 --sysroot=C:/android-ndk-r27d/toolchains/llvm/prebuilt/windows-x86_64/sysroot -DANDROID -DPoliceModSZK_EXPORTS -IC:/PC/Projetos/GTA_Mobile/police-mod-szk-mobile/include -IC:/PC/Projetos/GTA_Mobile/police-mod-szk-mobile/aml -g -DANDROID -fdata-sections -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -D_FORTIFY_SOURCE=2 -march=armv7-a -mthumb -Wformat -Werror=format-security   -std=gnu++20 -fPIC -Wall -O2 -fexceptions -frtti -o CMakeFiles\\PoliceModSZK.dir\\src\\Peds.cpp.o -c C:\\PC\\Projetos\\GTA_Mobile\\police-mod-szk-mobile\\src\\Peds.cpp",
-  "file": "C:/PC/Projetos/GTA_Mobile/police-mod-szk-mobile/src/Peds.cpp",
-  "output": "C:/PC/Projetos/GTA_Mobile/police-mod-szk-mobile/build/armeabi-v7a/CMakeFiles/PoliceModSZK.dir/src/Peds.cpp.o"
-},
-{
-  "directory": "C:/PC/Projetos/GTA_Mobile/police-mod-szk-mobile/build/armeabi-v7a",
-  "command": "C:\\android-ndk-r27d\\toolchains\\llvm\\prebuilt\\windows-x86_64\\bin\\clang++.exe --target=armv7-none-linux-androideabi21 --sysroot=C:/android-ndk-r27d/toolchains/llvm/prebuilt/windows-x86_64/sysroot -DANDROID -DPoliceModSZK_EXPORTS -IC:/PC/Projetos/GTA_Mobile/police-mod-szk-mobile/include -IC:/PC/Projetos/GTA_Mobile/police-mod-szk-mobile/aml -g -DANDROID -fdata-sections -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -D_FORTIFY_SOURCE=2 -march=armv7-a -mthumb -Wformat -Werror=format-security   -std=gnu++20 -fPIC -Wall -O2 -fexceptions -frtti -o CMakeFiles\\PoliceModSZK.dir\\src\\PoliceBase.cpp.o -c C:\\PC\\Projetos\\GTA_Mobile\\police-mod-szk-mobile\\src\\PoliceBase.cpp",
-  "file": "C:/PC/Projetos/GTA_Mobile/police-mod-szk-mobile/src/PoliceBase.cpp",
-  "output": "C:/PC/Projetos/GTA_Mobile/police-mod-szk-mobile/build/armeabi-v7a/CMakeFiles/PoliceModSZK.dir/src/PoliceBase.cpp.o"
-},
-{
-  "directory": "C:/PC/Projetos/GTA_Mobile/police-mod-szk-mobile/build/armeabi-v7a",
-  "command": "C:\\android-ndk-r27d\\toolchains\\llvm\\prebuilt\\windows-x86_64\\bin\\clang++.exe --target=armv7-none-linux-androideabi21 --sysroot=C:/android-ndk-r27d/toolchains/llvm/prebuilt/windows-x86_64/sysroot -DANDROID -DPoliceModSZK_EXPORTS -IC:/PC/Projetos/GTA_Mobile/police-mod-szk-mobile/include -IC:/PC/Projetos/GTA_Mobile/police-mod-szk-mobile/aml -g -DANDROID -fdata-sections -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -D_FORTIFY_SOURCE=2 -march=armv7-a -mthumb -Wformat -Werror=format-security   -std=gnu++20 -fPIC -Wall -O2 -fexceptions -frtti -o CMakeFiles\\PoliceModSZK.dir\\src\\PoliceBases.cpp.o -c C:\\PC\\Projetos\\GTA_Mobile\\police-mod-szk-mobile\\src\\PoliceBases.cpp",
-  "file": "C:/PC/Projetos/GTA_Mobile/police-mod-szk-mobile/src/PoliceBases.cpp",
-  "output": "C:/PC/Projetos/GTA_Mobile/police-mod-szk-mobile/build/armeabi-v7a/CMakeFiles/PoliceModSZK.dir/src/PoliceBases.cpp.o"
-},
-{
-  "directory": "C:/PC/Projetos/GTA_Mobile/police-mod-szk-mobile/build/armeabi-v7a",
-  "command": "C:\\android-ndk-r27d\\toolchains\\llvm\\prebuilt\\windows-x86_64\\bin\\clang++.exe --target=armv7-none-linux-androideabi21 --sysroot=C:/android-ndk-r27d/toolchains/llvm/prebuilt/windows-x86_64/sysroot -DANDROID -DPoliceModSZK_EXPORTS -IC:/PC/Projetos/GTA_Mobile/police-mod-szk-mobile/include -IC:/PC/Projetos/GTA_Mobile/police-mod-szk-mobile/aml -g -DANDROID -fdata-sections -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -D_FORTIFY_SOURCE=2 -march=armv7-a -mthumb -Wformat -Werror=format-security   -std=gnu++20 -fPIC -Wall -O2 -fexceptions -frtti -o CMakeFiles\\PoliceModSZK.dir\\src\\PoliceMod.cpp.o -c C:\\PC\\Projetos\\GTA_Mobile\\police-mod-szk-mobile\\src\\PoliceMod.cpp",
-  "file": "C:/PC/Projetos/GTA_Mobile/police-mod-szk-mobile/src/PoliceMod.cpp",
-  "output": "C:/PC/Projetos/GTA_Mobile/police-mod-szk-mobile/build/armeabi-v7a/CMakeFiles/PoliceModSZK.dir/src/PoliceMod.cpp.o"
-},
-{
-  "directory": "C:/PC/Projetos/GTA_Mobile/police-mod-szk-mobile/build/armeabi-v7a",
-  "command": "C:\\android-ndk-r27d\\toolchains\\llvm\\prebuilt\\windows-x86_64\\bin\\clang++.exe --target=armv7-none-linux-androideabi21 --sysroot=C:/android-ndk-r27d/toolchains/llvm/prebuilt/windows-x86_64/sysroot -DANDROID -DPoliceModSZK_EXPORTS -IC:/PC/Projetos/GTA_Mobile/police-mod-szk-mobile/include -IC:/PC/Projetos/GTA_Mobile/police-mod-szk-mobile/aml -g -DANDROID -fdata-sections -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -D_FORTIFY_SOURCE=2 -march=armv7-a -mthumb -Wformat -Werror=format-security   -std=gnu++20 -fPIC -Wall -O2 -fexceptions -frtti -o CMakeFiles\\PoliceModSZK.dir\\src\\PoliceVehicles.cpp.o -c C:\\PC\\Projetos\\GTA_Mobile\\police-mod-szk-mobile\\src\\PoliceVehicles.cpp",
-  "file": "C:/PC/Projetos/GTA_Mobile/police-mod-szk-mobile/src/PoliceVehicles.cpp",
-  "output": "C:/PC/Projetos/GTA_Mobile/police-mod-szk-mobile/build/armeabi-v7a/CMakeFiles/PoliceModSZK.dir/src/PoliceVehicles.cpp.o"
-},
-{
-  "directory": "C:/PC/Projetos/GTA_Mobile/police-mod-szk-mobile/build/armeabi-v7a",
-  "command": "C:\\android-ndk-r27d\\toolchains\\llvm\\prebuilt\\windows-x86_64\\bin\\clang++.exe --target=armv7-none-linux-androideabi21 --sysroot=C:/android-ndk-r27d/toolchains/llvm/prebuilt/windows-x86_64/sysroot -DANDROID -DPoliceModSZK_EXPORTS -IC:/PC/Projetos/GTA_Mobile/police-mod-szk-mobile/include -IC:/PC/Projetos/GTA_Mobile/police-mod-szk-mobile/aml -g -DANDROID -fdata-sections -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -D_FORTIFY_SOURCE=2 -march=armv7-a -mthumb -Wformat -Werror=format-security   -std=gnu++20 -fPIC -Wall -O2 -fexceptions -frtti -o CMakeFiles\\PoliceModSZK.dir\\src\\Pullover.cpp.o -c C:\\PC\\Projetos\\GTA_Mobile\\police-mod-szk-mobile\\src\\Pullover.cpp",
-  "file": "C:/PC/Projetos/GTA_Mobile/police-mod-szk-mobile/src/Pullover.cpp",
-  "output": "C:/PC/Projetos/GTA_Mobile/police-mod-szk-mobile/build/armeabi-v7a/CMakeFiles/PoliceModSZK.dir/src/Pullover.cpp.o"
-},
-{
-  "directory": "C:/PC/Projetos/GTA_Mobile/police-mod-szk-mobile/build/armeabi-v7a",
-  "command": "C:\\android-ndk-r27d\\toolchains\\llvm\\prebuilt\\windows-x86_64\\bin\\clang++.exe --target=armv7-none-linux-androideabi21 --sysroot=C:/android-ndk-r27d/toolchains/llvm/prebuilt/windows-x86_64/sysroot -DANDROID -DPoliceModSZK_EXPORTS -IC:/PC/Projetos/GTA_Mobile/police-mod-szk-mobile/include -IC:/PC/Projetos/GTA_Mobile/police-mod-szk-mobile/aml -g -DANDROID -fdata-sections -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -D_FORTIFY_SOURCE=2 -march=armv7-a -mthumb -Wformat -Werror=format-security   -std=gnu++20 -fPIC -Wall -O2 -fexceptions -frtti -o CMakeFiles\\PoliceModSZK.dir\\src\\RGWindow.cpp.o -c C:\\PC\\Projetos\\GTA_Mobile\\police-mod-szk-mobile\\src\\RGWindow.cpp",
-  "file": "C:/PC/Projetos/GTA_Mobile/police-mod-szk-mobile/src/RGWindow.cpp",
-  "output": "C:/PC/Projetos/GTA_Mobile/police-mod-szk-mobile/build/armeabi-v7a/CMakeFiles/PoliceModSZK.dir/src/RGWindow.cpp.o"
-},
-{
-  "directory": "C:/PC/Projetos/GTA_Mobile/police-mod-szk-mobile/build/armeabi-v7a",
-  "command": "C:\\android-ndk-r27d\\toolchains\\llvm\\prebuilt\\windows-x86_64\\bin\\clang++.exe --target=armv7-none-linux-androideabi21 --sysroot=C:/android-ndk-r27d/toolchains/llvm/prebuilt/windows-x86_64/sysroot -DANDROID -DPoliceModSZK_EXPORTS -IC:/PC/Projetos/GTA_Mobile/police-mod-szk-mobile/include -IC:/PC/Projetos/GTA_Mobile/police-mod-szk-mobile/aml -g -DANDROID -fdata-sections -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -D_FORTIFY_SOURCE=2 -march=armv7-a -mthumb -Wformat -Werror=format-security   -std=gnu++20 -fPIC -Wall -O2 -fexceptions -frtti -o CMakeFiles\\PoliceModSZK.dir\\src\\RadioSounds.cpp.o -c C:\\PC\\Projetos\\GTA_Mobile\\police-mod-szk-mobile\\src\\RadioSounds.cpp",
-  "file": "C:/PC/Projetos/GTA_Mobile/police-mod-szk-mobile/src/RadioSounds.cpp",
-  "output": "C:/PC/Projetos/GTA_Mobile/police-mod-szk-mobile/build/armeabi-v7a/CMakeFiles/PoliceModSZK.dir/src/RadioSounds.cpp.o"
-},
-{
-  "directory": "C:/PC/Projetos/GTA_Mobile/police-mod-szk-mobile/build/armeabi-v7a",
-  "command": "C:\\android-ndk-r27d\\toolchains\\llvm\\prebuilt\\windows-x86_64\\bin\\clang++.exe --target=armv7-none-linux-androideabi21 --sysroot=C:/android-ndk-r27d/toolchains/llvm/prebuilt/windows-x86_64/sysroot -DANDROID -DPoliceModSZK_EXPORTS -IC:/PC/Projetos/GTA_Mobile/police-mod-szk-mobile/include -IC:/PC/Projetos/GTA_Mobile/police-mod-szk-mobile/aml -g -DANDROID -fdata-sections -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -D_FORTIFY_SOURCE=2 -march=armv7-a -mthumb -Wformat -Werror=format-security   -std=gnu++20 -fPIC -Wall -O2 -fexceptions -frtti -o CMakeFiles\\PoliceModSZK.dir\\src\\RadioWindow.cpp.o -c C:\\PC\\Projetos\\GTA_Mobile\\police-mod-szk-mobile\\src\\RadioWindow.cpp",
-  "file": "C:/PC/Projetos/GTA_Mobile/police-mod-szk-mobile/src/RadioWindow.cpp",
-  "output": "C:/PC/Projetos/GTA_Mobile/police-mod-szk-mobile/build/armeabi-v7a/CMakeFiles/PoliceModSZK.dir/src/RadioWindow.cpp.o"
-},
-{
-  "directory": "C:/PC/Projetos/GTA_Mobile/police-mod-szk-mobile/build/armeabi-v7a",
-  "command": "C:\\android-ndk-r27d\\toolchains\\llvm\\prebuilt\\windows-x86_64\\bin\\clang++.exe --target=armv7-none-linux-androideabi21 --sysroot=C:/android-ndk-r27d/toolchains/llvm/prebuilt/windows-x86_64/sysroot -DANDROID -DPoliceModSZK_EXPORTS -IC:/PC/Projetos/GTA_Mobile/police-mod-szk-mobile/include -IC:/PC/Projetos/GTA_Mobile/police-mod-szk-mobile/aml -g -DANDROID -fdata-sections -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -D_FORTIFY_SOURCE=2 -march=armv7-a -mthumb -Wformat -Werror=format-security   -std=gnu++20 -fPIC -Wall -O2 -fexceptions -frtti -o CMakeFiles\\PoliceModSZK.dir\\src\\ScriptTask.cpp.o -c C:\\PC\\Projetos\\GTA_Mobile\\police-mod-szk-mobile\\src\\ScriptTask.cpp",
-  "file": "C:/PC/Projetos/GTA_Mobile/police-mod-szk-mobile/src/ScriptTask.cpp",
-  "output": "C:/PC/Projetos/GTA_Mobile/police-mod-szk-mobile/build/armeabi-v7a/CMakeFiles/PoliceModSZK.dir/src/ScriptTask.cpp.o"
-},
-{
-  "directory": "C:/PC/Projetos/GTA_Mobile/police-mod-szk-mobile/build/armeabi-v7a",
-  "command": "C:\\android-ndk-r27d\\toolchains\\llvm\\prebuilt\\windows-x86_64\\bin\\clang++.exe --target=armv7-none-linux-androideabi21 --sysroot=C:/android-ndk-r27d/toolchains/llvm/prebuilt/windows-x86_64/sysroot -DANDROID -DPoliceModSZK_EXPORTS -IC:/PC/Projetos/GTA_Mobile/police-mod-szk-mobile/include -IC:/PC/Projetos/GTA_Mobile/police-mod-szk-mobile/aml -g -DANDROID -fdata-sections -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -D_FORTIFY_SOURCE=2 -march=armv7-a -mthumb -Wformat -Werror=format-security   -std=gnu++20 -fPIC -Wall -O2 -fexceptions -frtti -o CMakeFiles\\PoliceModSZK.dir\\src\\TestWindow.cpp.o -c C:\\PC\\Projetos\\GTA_Mobile\\police-mod-szk-mobile\\src\\TestWindow.cpp",
-  "file": "C:/PC/Projetos/GTA_Mobile/police-mod-szk-mobile/src/TestWindow.cpp",
-  "output": "C:/PC/Projetos/GTA_Mobile/police-mod-szk-mobile/build/armeabi-v7a/CMakeFiles/PoliceModSZK.dir/src/TestWindow.cpp.o"
-},
-{
-  "directory": "C:/PC/Projetos/GTA_Mobile/police-mod-szk-mobile/build/armeabi-v7a",
-  "command": "C:\\android-ndk-r27d\\toolchains\\llvm\\prebuilt\\windows-x86_64\\bin\\clang++.exe --target=armv7-none-linux-androideabi21 --sysroot=C:/android-ndk-r27d/toolchains/llvm/prebuilt/windows-x86_64/sysroot -DANDROID -DPoliceModSZK_EXPORTS -IC:/PC/Projetos/GTA_Mobile/police-mod-szk-mobile/include -IC:/PC/Projetos/GTA_Mobile/police-mod-szk-mobile/aml -g -DANDROID -fdata-sections -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -D_FORTIFY_SOURCE=2 -march=armv7-a -mthumb -Wformat -Werror=format-security   -std=gnu++20 -fPIC -Wall -O2 -fexceptions -frtti -o CMakeFiles\\PoliceModSZK.dir\\src\\TopMessage.cpp.o -c C:\\PC\\Projetos\\GTA_Mobile\\police-mod-szk-mobile\\src\\TopMessage.cpp",
-  "file": "C:/PC/Projetos/GTA_Mobile/police-mod-szk-mobile/src/TopMessage.cpp",
-  "output": "C:/PC/Projetos/GTA_Mobile/police-mod-szk-mobile/build/armeabi-v7a/CMakeFiles/PoliceModSZK.dir/src/TopMessage.cpp.o"
-},
-{
-  "directory": "C:/PC/Projetos/GTA_Mobile/police-mod-szk-mobile/build/armeabi-v7a",
-  "command": "C:\\android-ndk-r27d\\toolchains\\llvm\\prebuilt\\windows-x86_64\\bin\\clang++.exe --target=armv7-none-linux-androideabi21 --sysroot=C:/android-ndk-r27d/toolchains/llvm/prebuilt/windows-x86_64/sysroot -DANDROID -DPoliceModSZK_EXPORTS -IC:/PC/Projetos/GTA_Mobile/police-mod-szk-mobile/include -IC:/PC/Projetos/GTA_Mobile/police-mod-szk-mobile/aml -g -DANDROID -fdata-sections -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -D_FORTIFY_SOURCE=2 -march=armv7-a -mthumb -Wformat -Werror=format-security   -std=gnu++20 -fPIC -Wall -O2 -fexceptions -frtti -o CMakeFiles\\PoliceModSZK.dir\\src\\Trunk.cpp.o -c C:\\PC\\Projetos\\GTA_Mobile\\police-mod-szk-mobile\\src\\Trunk.cpp",
-  "file": "C:/PC/Projetos/GTA_Mobile/police-mod-szk-mobile/src/Trunk.cpp",
-  "output": "C:/PC/Projetos/GTA_Mobile/police-mod-szk-mobile/build/armeabi-v7a/CMakeFiles/PoliceModSZK.dir/src/Trunk.cpp.o"
-},
-{
-  "directory": "C:/PC/Projetos/GTA_Mobile/police-mod-szk-mobile/build/armeabi-v7a",
-  "command": "C:\\android-ndk-r27d\\toolchains\\llvm\\prebuilt\\windows-x86_64\\bin\\clang++.exe --target=armv7-none-linux-androideabi21 --sysroot=C:/android-ndk-r27d/toolchains/llvm/prebuilt/windows-x86_64/sysroot -DANDROID -DPoliceModSZK_EXPORTS -IC:/PC/Projetos/GTA_Mobile/police-mod-szk-mobile/include -IC:/PC/Projetos/GTA_Mobile/police-mod-szk-mobile/aml -g -DANDROID -fdata-sections -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -D_FORTIFY_SOURCE=2 -march=armv7-a -mthumb -Wformat -Werror=format-security   -std=gnu++20 -fPIC -Wall -O2 -fexceptions -frtti -o CMakeFiles\\PoliceModSZK.dir\\src\\Vehicle.cpp.o -c C:\\PC\\Projetos\\GTA_Mobile\\police-mod-szk-mobile\\src\\Vehicle.cpp",
-  "file": "C:/PC/Projetos/GTA_Mobile/police-mod-szk-mobile/src/Vehicle.cpp",
-  "output": "C:/PC/Projetos/GTA_Mobile/police-mod-szk-mobile/build/armeabi-v7a/CMakeFiles/PoliceModSZK.dir/src/Vehicle.cpp.o"
-},
-{
-  "directory": "C:/PC/Projetos/GTA_Mobile/police-mod-szk-mobile/build/armeabi-v7a",
-  "command": "C:\\android-ndk-r27d\\toolchains\\llvm\\prebuilt\\windows-x86_64\\bin\\clang++.exe --target=armv7-none-linux-androideabi21 --sysroot=C:/android-ndk-r27d/toolchains/llvm/prebuilt/windows-x86_64/sysroot -DANDROID -DPoliceModSZK_EXPORTS -IC:/PC/Projetos/GTA_Mobile/police-mod-szk-mobile/include -IC:/PC/Projetos/GTA_Mobile/police-mod-szk-mobile/aml -g -DANDROID -fdata-sections -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -D_FORTIFY_SOURCE=2 -march=armv7-a -mthumb -Wformat -Werror=format-security   -std=gnu++20 -fPIC -Wall -O2 -fexceptions -frtti -o CMakeFiles\\PoliceModSZK.dir\\src\\Vehicles.cpp.o -c C:\\PC\\Projetos\\GTA_Mobile\\police-mod-szk-mobile\\src\\Vehicles.cpp",
-  "file": "C:/PC/Projetos/GTA_Mobile/police-mod-szk-mobile/src/Vehicles.cpp",
-  "output": "C:/PC/Projetos/GTA_Mobile/police-mod-szk-mobile/build/armeabi-v7a/CMakeFiles/PoliceModSZK.dir/src/Vehicles.cpp.o"
-},
-{
-  "directory": "C:/PC/Projetos/GTA_Mobile/police-mod-szk-mobile/build/armeabi-v7a",
-  "command": "C:\\android-ndk-r27d\\toolchains\\llvm\\prebuilt\\windows-x86_64\\bin\\clang++.exe --target=armv7-none-linux-androideabi21 --sysroot=C:/android-ndk-r27d/toolchains/llvm/prebuilt/windows-x86_64/sysroot -DANDROID -DPoliceModSZK_EXPORTS -IC:/PC/Projetos/GTA_Mobile/police-mod-szk-mobile/include -IC:/PC/Projetos/GTA_Mobile/police-mod-szk-mobile/aml -g -DANDROID -fdata-sections -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -D_FORTIFY_SOURCE=2 -march=armv7-a -mthumb -Wformat -Werror=format-security   -std=gnu++20 -fPIC -Wall -O2 -fexceptions -frtti -o CMakeFiles\\PoliceModSZK.dir\\src\\WorldWidgets.cpp.o -c C:\\PC\\Projetos\\GTA_Mobile\\police-mod-szk-mobile\\src\\WorldWidgets.cpp",
-  "file": "C:/PC/Projetos/GTA_Mobile/police-mod-szk-mobile/src/WorldWidgets.cpp",
-  "output": "C:/PC/Projetos/GTA_Mobile/police-mod-szk-mobile/build/armeabi-v7a/CMakeFiles/PoliceModSZK.dir/src/WorldWidgets.cpp.o"
-},
-{
-  "directory": "C:/PC/Projetos/GTA_Mobile/police-mod-szk-mobile/build/armeabi-v7a",
-  "command": "C:\\android-ndk-r27d\\toolchains\\llvm\\prebuilt\\windows-x86_64\\bin\\clang++.exe --target=armv7-none-linux-androideabi21 --sysroot=C:/android-ndk-r27d/toolchains/llvm/prebuilt/windows-x86_64/sysroot -DANDROID -DPoliceModSZK_EXPORTS -IC:/PC/Projetos/GTA_Mobile/police-mod-szk-mobile/include -IC:/PC/Projetos/GTA_Mobile/police-mod-szk-mobile/aml -g -DANDROID -fdata-sections -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -D_FORTIFY_SOURCE=2 -march=armv7-a -mthumb -Wformat -Werror=format-security   -std=gnu++20 -fPIC -Wall -O2 -fexceptions -frtti -o CMakeFiles\\PoliceModSZK.dir\\src\\callouts\\ATMCallout.cpp.o -c C:\\PC\\Projetos\\GTA_Mobile\\police-mod-szk-mobile\\src\\callouts\\ATMCallout.cpp",
-  "file": "C:/PC/Projetos/GTA_Mobile/police-mod-szk-mobile/src/callouts/ATMCallout.cpp",
-  "output": "C:/PC/Projetos/GTA_Mobile/police-mod-szk-mobile/build/armeabi-v7a/CMakeFiles/PoliceModSZK.dir/src/callouts/ATMCallout.cpp.o"
-},
-{
-  "directory": "C:/PC/Projetos/GTA_Mobile/police-mod-szk-mobile/build/armeabi-v7a",
-  "command": "C:\\android-ndk-r27d\\toolchains\\llvm\\prebuilt\\windows-x86_64\\bin\\clang++.exe --target=armv7-none-linux-androideabi21 --sysroot=C:/android-ndk-r27d/toolchains/llvm/prebuilt/windows-x86_64/sysroot -DANDROID -DPoliceModSZK_EXPORTS -IC:/PC/Projetos/GTA_Mobile/police-mod-szk-mobile/include -IC:/PC/Projetos/GTA_Mobile/police-mod-szk-mobile/aml -g -DANDROID -fdata-sections -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -D_FORTIFY_SOURCE=2 -march=armv7-a -mthumb -Wformat -Werror=format-security   -std=gnu++20 -fPIC -Wall -O2 -fexceptions -frtti -o CMakeFiles\\PoliceModSZK.dir\\src\\callouts\\DrugDealerCallout.cpp.o -c C:\\PC\\Projetos\\GTA_Mobile\\police-mod-szk-mobile\\src\\callouts\\DrugDealerCallout.cpp",
-  "file": "C:/PC/Projetos/GTA_Mobile/police-mod-szk-mobile/src/callouts/DrugDealerCallout.cpp",
-  "output": "C:/PC/Projetos/GTA_Mobile/police-mod-szk-mobile/build/armeabi-v7a/CMakeFiles/PoliceModSZK.dir/src/callouts/DrugDealerCallout.cpp.o"
-},
-{
-  "directory": "C:/PC/Projetos/GTA_Mobile/police-mod-szk-mobile/build/armeabi-v7a",
-  "command": "C:\\android-ndk-r27d\\toolchains\\llvm\\prebuilt\\windows-x86_64\\bin\\clang++.exe --target=armv7-none-linux-androideabi21 --sysroot=C:/android-ndk-r27d/toolchains/llvm/prebuilt/windows-x86_64/sysroot -DANDROID -DPoliceModSZK_EXPORTS -IC:/PC/Projetos/GTA_Mobile/police-mod-szk-mobile/include -IC:/PC/Projetos/GTA_Mobile/police-mod-szk-mobile/aml -g -DANDROID -fdata-sections -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -D_FORTIFY_SOURCE=2 -march=armv7-a -mthumb -Wformat -Werror=format-security   -std=gnu++20 -fPIC -Wall -O2 -fexceptions -frtti -o CMakeFiles\\PoliceModSZK.dir\\src\\callouts\\StolenCarCallout.cpp.o -c C:\\PC\\Projetos\\GTA_Mobile\\police-mod-szk-mobile\\src\\callouts\\StolenCarCallout.cpp",
-  "file": "C:/PC/Projetos/GTA_Mobile/police-mod-szk-mobile/src/callouts/StolenCarCallout.cpp",
-  "output": "C:/PC/Projetos/GTA_Mobile/police-mod-szk-mobile/build/armeabi-v7a/CMakeFiles/PoliceModSZK.dir/src/callouts/StolenCarCallout.cpp.o"
-},
-{
-  "directory": "C:/PC/Projetos/GTA_Mobile/police-mod-szk-mobile/build/armeabi-v7a",
-  "command": "C:\\android-ndk-r27d\\toolchains\\llvm\\prebuilt\\windows-x86_64\\bin\\clang++.exe --target=armv7-none-linux-androideabi21 --sysroot=C:/android-ndk-r27d/toolchains/llvm/prebuilt/windows-x86_64/sysroot -DANDROID -DPoliceModSZK_EXPORTS -IC:/PC/Projetos/GTA_Mobile/police-mod-szk-mobile/include -IC:/PC/Projetos/GTA_Mobile/police-mod-szk-mobile/aml -g -DANDROID -fdata-sections -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -D_FORTIFY_SOURCE=2 -march=armv7-a -mthumb -Wformat -Werror=format-security   -std=gnu++20 -fPIC -Wall -O2 -fexceptions -frtti -o CMakeFiles\\PoliceModSZK.dir\\src\\callouts\\TestCallout.cpp.o -c C:\\PC\\Projetos\\GTA_Mobile\\police-mod-szk-mobile\\src\\callouts\\TestCallout.cpp",
-  "file": "C:/PC/Projetos/GTA_Mobile/police-mod-szk-mobile/src/callouts/TestCallout.cpp",
-  "output": "C:/PC/Projetos/GTA_Mobile/police-mod-szk-mobile/build/armeabi-v7a/CMakeFiles/PoliceModSZK.dir/src/callouts/TestCallout.cpp.o"
-},
-{
-  "directory": "C:/PC/Projetos/GTA_Mobile/police-mod-szk-mobile/build/armeabi-v7a",
-  "command": "C:\\android-ndk-r27d\\toolchains\\llvm\\prebuilt\\windows-x86_64\\bin\\clang++.exe --target=armv7-none-linux-androideabi21 --sysroot=C:/android-ndk-r27d/toolchains/llvm/prebuilt/windows-x86_64/sysroot -DANDROID -DPoliceModSZK_EXPORTS -IC:/PC/Projetos/GTA_Mobile/police-mod-szk-mobile/include -IC:/PC/Projetos/GTA_Mobile/police-mod-szk-mobile/aml -g -DANDROID -fdata-sections -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -D_FORTIFY_SOURCE=2 -march=armv7-a -mthumb -Wformat -Werror=format-security   -std=gnu++20 -fPIC -Wall -O2 -fexceptions -frtti -o CMakeFiles\\PoliceModSZK.dir\\src\\hooks.cpp.o -c C:\\PC\\Projetos\\GTA_Mobile\\police-mod-szk-mobile\\src\\hooks.cpp",
-  "file": "C:/PC/Projetos/GTA_Mobile/police-mod-szk-mobile/src/hooks.cpp",
-  "output": "C:/PC/Projetos/GTA_Mobile/police-mod-szk-mobile/build/armeabi-v7a/CMakeFiles/PoliceModSZK.dir/src/hooks.cpp.o"
-},
-{
-  "directory": "C:/PC/Projetos/GTA_Mobile/police-mod-szk-mobile/build/armeabi-v7a",
-  "command": "C:\\android-ndk-r27d\\toolchains\\llvm\\prebuilt\\windows-x86_64\\bin\\clang++.exe --target=armv7-none-linux-androideabi21 --sysroot=C:/android-ndk-r27d/toolchains/llvm/prebuilt/windows-x86_64/sysroot -DANDROID -DPoliceModSZK_EXPORTS -IC:/PC/Projetos/GTA_Mobile/police-mod-szk-mobile/include -IC:/PC/Projetos/GTA_Mobile/police-mod-szk-mobile/aml -g -DANDROID -fdata-sections -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -D_FORTIFY_SOURCE=2 -march=armv7-a -mthumb -Wformat -Werror=format-security   -std=gnu++20 -fPIC -Wall -O2 -fexceptions -frtti -o CMakeFiles\\PoliceModSZK.dir\\src\\main.cpp.o -c C:\\PC\\Projetos\\GTA_Mobile\\police-mod-szk-mobile\\src\\main.cpp",
-  "file": "C:/PC/Projetos/GTA_Mobile/police-mod-szk-mobile/src/main.cpp",
-  "output": "C:/PC/Projetos/GTA_Mobile/police-mod-szk-mobile/build/armeabi-v7a/CMakeFiles/PoliceModSZK.dir/src/main.cpp.o"
-}
+    {
+        "command": "C:/android-ndk-r27d/build/../toolchains/llvm/prebuilt/windows-x86_64/bin/clang++.exe -target armv7-none-linux-androideabi24 -fdata-sections -ffunction-sections -fstack-protector-strong -funwind-tables -no-canonical-prefixes --sysroot C:/android-ndk-r27d/build/../toolchains/llvm/prebuilt/windows-x86_64/sysroot -g -Wno-invalid-command-line-argument -Wno-unused-command-line-argument -D_FORTIFY_SOURCE=2 -fno-exceptions -fno-rtti -fpic -mthumb -Oz -DNDEBUG -IC:/PC/Projetos/GTA_Mobile/police-mod-szk -std=c++17 -fexceptions -DANDROID -Wformat -Werror=format-security -O2 -DNDEBUG -std=c++17 -c C:/PC/Projetos/GTA_Mobile/police-mod-szk/mod/config.cpp -o 'C:\\PC\\Projetos\\GTA_Mobile\\police-mod-szk/obj/local/armeabi-v7a/objs/PoliceModSZK/mod/config.o'",
+        "directory": "C:\\PC\\Projetos\\GTA_Mobile\\police-mod-szk",
+        "file": "C:/PC/Projetos/GTA_Mobile/police-mod-szk/mod/config.cpp",
+        "output": "C:\\PC\\Projetos\\GTA_Mobile\\police-mod-szk/obj/local/armeabi-v7a/objs/PoliceModSZK/mod/config.o"
+    },
+    {
+        "command": "C:/android-ndk-r27d/build/../toolchains/llvm/prebuilt/windows-x86_64/bin/clang++.exe -target armv7-none-linux-androideabi24 -fdata-sections -ffunction-sections -fstack-protector-strong -funwind-tables -no-canonical-prefixes --sysroot C:/android-ndk-r27d/build/../toolchains/llvm/prebuilt/windows-x86_64/sysroot -g -Wno-invalid-command-line-argument -Wno-unused-command-line-argument -D_FORTIFY_SOURCE=2 -fno-exceptions -fno-rtti -fpic -mthumb -Oz -DNDEBUG -IC:/PC/Projetos/GTA_Mobile/police-mod-szk -std=c++17 -fexceptions -DANDROID -Wformat -Werror=format-security -O2 -DNDEBUG -std=c++17 -c C:/PC/Projetos/GTA_Mobile/police-mod-szk/mod/logger.cpp -o 'C:\\PC\\Projetos\\GTA_Mobile\\police-mod-szk/obj/local/armeabi-v7a/objs/PoliceModSZK/mod/logger.o'",
+        "directory": "C:\\PC\\Projetos\\GTA_Mobile\\police-mod-szk",
+        "file": "C:/PC/Projetos/GTA_Mobile/police-mod-szk/mod/logger.cpp",
+        "output": "C:\\PC\\Projetos\\GTA_Mobile\\police-mod-szk/obj/local/armeabi-v7a/objs/PoliceModSZK/mod/logger.o"
+    },
+    {
+        "command": "C:/android-ndk-r27d/build/../toolchains/llvm/prebuilt/windows-x86_64/bin/clang++.exe -target armv7-none-linux-androideabi24 -fdata-sections -ffunction-sections -fstack-protector-strong -funwind-tables -no-canonical-prefixes --sysroot C:/android-ndk-r27d/build/../toolchains/llvm/prebuilt/windows-x86_64/sysroot -g -Wno-invalid-command-line-argument -Wno-unused-command-line-argument -D_FORTIFY_SOURCE=2 -fno-exceptions -fno-rtti -fpic -mthumb -Oz -DNDEBUG -IC:/PC/Projetos/GTA_Mobile/police-mod-szk -std=c++17 -fexceptions -DANDROID -Wformat -Werror=format-security -O2 -DNDEBUG -std=c++17 -c C:/PC/Projetos/GTA_Mobile/police-mod-szk/src/logHelper.cpp -o 'C:\\PC\\Projetos\\GTA_Mobile\\police-mod-szk/obj/local/armeabi-v7a/objs/PoliceModSZK/src/logHelper.o'",
+        "directory": "C:\\PC\\Projetos\\GTA_Mobile\\police-mod-szk",
+        "file": "C:/PC/Projetos/GTA_Mobile/police-mod-szk/src/logHelper.cpp",
+        "output": "C:\\PC\\Projetos\\GTA_Mobile\\police-mod-szk/obj/local/armeabi-v7a/objs/PoliceModSZK/src/logHelper.o"
+    },
+    {
+        "command": "C:/android-ndk-r27d/build/../toolchains/llvm/prebuilt/windows-x86_64/bin/clang++.exe -target armv7-none-linux-androideabi24 -fdata-sections -ffunction-sections -fstack-protector-strong -funwind-tables -no-canonical-prefixes --sysroot C:/android-ndk-r27d/build/../toolchains/llvm/prebuilt/windows-x86_64/sysroot -g -Wno-invalid-command-line-argument -Wno-unused-command-line-argument -D_FORTIFY_SOURCE=2 -fno-exceptions -fno-rtti -fpic -mthumb -Oz -DNDEBUG -IC:/PC/Projetos/GTA_Mobile/police-mod-szk -std=c++17 -fexceptions -DANDROID -Wformat -Werror=format-security -O2 -DNDEBUG -std=c++17 -c C:/PC/Projetos/GTA_Mobile/police-mod-szk/src/main.cpp -o 'C:\\PC\\Projetos\\GTA_Mobile\\police-mod-szk/obj/local/armeabi-v7a/objs/PoliceModSZK/src/main.o'",
+        "directory": "C:\\PC\\Projetos\\GTA_Mobile\\police-mod-szk",
+        "file": "C:/PC/Projetos/GTA_Mobile/police-mod-szk/src/main.cpp",
+        "output": "C:\\PC\\Projetos\\GTA_Mobile\\police-mod-szk/obj/local/armeabi-v7a/objs/PoliceModSZK/src/main.o"
+    },
+    {
+        "command": "C:/android-ndk-r27d/build/../toolchains/llvm/prebuilt/windows-x86_64/bin/clang++.exe -target armv7-none-linux-androideabi24 -fdata-sections -ffunction-sections -fstack-protector-strong -funwind-tables -no-canonical-prefixes --sysroot C:/android-ndk-r27d/build/../toolchains/llvm/prebuilt/windows-x86_64/sysroot -g -Wno-invalid-command-line-argument -Wno-unused-command-line-argument -D_FORTIFY_SOURCE=2 -fno-exceptions -fno-rtti -fpic -mthumb -Oz -DNDEBUG -IC:/PC/Projetos/GTA_Mobile/police-mod-szk -std=c++17 -fexceptions -DANDROID -Wformat -Werror=format-security -O2 -DNDEBUG -std=c++17 -c C:/PC/Projetos/GTA_Mobile/police-mod-szk/src/policeMod/ATMSystem.cpp -o 'C:\\PC\\Projetos\\GTA_Mobile\\police-mod-szk/obj/local/armeabi-v7a/objs/PoliceModSZK/src/policeMod/ATMSystem.o'",
+        "directory": "C:\\PC\\Projetos\\GTA_Mobile\\police-mod-szk",
+        "file": "C:/PC/Projetos/GTA_Mobile/police-mod-szk/src/policeMod/ATMSystem.cpp",
+        "output": "C:\\PC\\Projetos\\GTA_Mobile\\police-mod-szk/obj/local/armeabi-v7a/objs/PoliceModSZK/src/policeMod/ATMSystem.o"
+    },
+    {
+        "command": "C:/android-ndk-r27d/build/../toolchains/llvm/prebuilt/windows-x86_64/bin/clang++.exe -target armv7-none-linux-androideabi24 -fdata-sections -ffunction-sections -fstack-protector-strong -funwind-tables -no-canonical-prefixes --sysroot C:/android-ndk-r27d/build/../toolchains/llvm/prebuilt/windows-x86_64/sysroot -g -Wno-invalid-command-line-argument -Wno-unused-command-line-argument -D_FORTIFY_SOURCE=2 -fno-exceptions -fno-rtti -fpic -mthumb -Oz -DNDEBUG -IC:/PC/Projetos/GTA_Mobile/police-mod-szk -std=c++17 -fexceptions -DANDROID -Wformat -Werror=format-security -O2 -DNDEBUG -std=c++17 -c C:/PC/Projetos/GTA_Mobile/police-mod-szk/src/policeMod/BackupUnits.cpp -o 'C:\\PC\\Projetos\\GTA_Mobile\\police-mod-szk/obj/local/armeabi-v7a/objs/PoliceModSZK/src/policeMod/BackupUnits.o'",
+        "directory": "C:\\PC\\Projetos\\GTA_Mobile\\police-mod-szk",
+        "file": "C:/PC/Projetos/GTA_Mobile/police-mod-szk/src/policeMod/BackupUnits.cpp",
+        "output": "C:\\PC\\Projetos\\GTA_Mobile\\police-mod-szk/obj/local/armeabi-v7a/objs/PoliceModSZK/src/policeMod/BackupUnits.o"
+    },
+    {
+        "command": "C:/android-ndk-r27d/build/../toolchains/llvm/prebuilt/windows-x86_64/bin/clang++.exe -target armv7-none-linux-androideabi24 -fdata-sections -ffunction-sections -fstack-protector-strong -funwind-tables -no-canonical-prefixes --sysroot C:/android-ndk-r27d/build/../toolchains/llvm/prebuilt/windows-x86_64/sysroot -g -Wno-invalid-command-line-argument -Wno-unused-command-line-argument -D_FORTIFY_SOURCE=2 -fno-exceptions -fno-rtti -fpic -mthumb -Oz -DNDEBUG -IC:/PC/Projetos/GTA_Mobile/police-mod-szk -std=c++17 -fexceptions -DANDROID -Wformat -Werror=format-security -O2 -DNDEBUG -std=c++17 -c C:/PC/Projetos/GTA_Mobile/police-mod-szk/src/policeMod/Biqueiras.cpp -o 'C:\\PC\\Projetos\\GTA_Mobile\\police-mod-szk/obj/local/armeabi-v7a/objs/PoliceModSZK/src/policeMod/Biqueiras.o'",
+        "directory": "C:\\PC\\Projetos\\GTA_Mobile\\police-mod-szk",
+        "file": "C:/PC/Projetos/GTA_Mobile/police-mod-szk/src/policeMod/Biqueiras.cpp",
+        "output": "C:\\PC\\Projetos\\GTA_Mobile\\police-mod-szk/obj/local/armeabi-v7a/objs/PoliceModSZK/src/policeMod/Biqueiras.o"
+    },
+    {
+        "command": "C:/android-ndk-r27d/build/../toolchains/llvm/prebuilt/windows-x86_64/bin/clang++.exe -target armv7-none-linux-androideabi24 -fdata-sections -ffunction-sections -fstack-protector-strong -funwind-tables -no-canonical-prefixes --sysroot C:/android-ndk-r27d/build/../toolchains/llvm/prebuilt/windows-x86_64/sysroot -g -Wno-invalid-command-line-argument -Wno-unused-command-line-argument -D_FORTIFY_SOURCE=2 -fno-exceptions -fno-rtti -fpic -mthumb -Oz -DNDEBUG -IC:/PC/Projetos/GTA_Mobile/police-mod-szk -std=c++17 -fexceptions -DANDROID -Wformat -Werror=format-security -O2 -DNDEBUG -std=c++17 -c C:/PC/Projetos/GTA_Mobile/police-mod-szk/src/policeMod/BottomMessage.cpp -o 'C:\\PC\\Projetos\\GTA_Mobile\\police-mod-szk/obj/local/armeabi-v7a/objs/PoliceModSZK/src/policeMod/BottomMessage.o'",
+        "directory": "C:\\PC\\Projetos\\GTA_Mobile\\police-mod-szk",
+        "file": "C:/PC/Projetos/GTA_Mobile/police-mod-szk/src/policeMod/BottomMessage.cpp",
+        "output": "C:\\PC\\Projetos\\GTA_Mobile\\police-mod-szk/obj/local/armeabi-v7a/objs/PoliceModSZK/src/policeMod/BottomMessage.o"
+    },
+    {
+        "command": "C:/android-ndk-r27d/build/../toolchains/llvm/prebuilt/windows-x86_64/bin/clang++.exe -target armv7-none-linux-androideabi24 -fdata-sections -ffunction-sections -fstack-protector-strong -funwind-tables -no-canonical-prefixes --sysroot C:/android-ndk-r27d/build/../toolchains/llvm/prebuilt/windows-x86_64/sysroot -g -Wno-invalid-command-line-argument -Wno-unused-command-line-argument -D_FORTIFY_SOURCE=2 -fno-exceptions -fno-rtti -fpic -mthumb -Oz -DNDEBUG -IC:/PC/Projetos/GTA_Mobile/police-mod-szk -std=c++17 -fexceptions -DANDROID -Wformat -Werror=format-security -O2 -DNDEBUG -std=c++17 -c C:/PC/Projetos/GTA_Mobile/police-mod-szk/src/policeMod/CNHWindow.cpp -o 'C:\\PC\\Projetos\\GTA_Mobile\\police-mod-szk/obj/local/armeabi-v7a/objs/PoliceModSZK/src/policeMod/CNHWindow.o'",
+        "directory": "C:\\PC\\Projetos\\GTA_Mobile\\police-mod-szk",
+        "file": "C:/PC/Projetos/GTA_Mobile/police-mod-szk/src/policeMod/CNHWindow.cpp",
+        "output": "C:\\PC\\Projetos\\GTA_Mobile\\police-mod-szk/obj/local/armeabi-v7a/objs/PoliceModSZK/src/policeMod/CNHWindow.o"
+    },
+    {
+        "command": "C:/android-ndk-r27d/build/../toolchains/llvm/prebuilt/windows-x86_64/bin/clang++.exe -target armv7-none-linux-androideabi24 -fdata-sections -ffunction-sections -fstack-protector-strong -funwind-tables -no-canonical-prefixes --sysroot C:/android-ndk-r27d/build/../toolchains/llvm/prebuilt/windows-x86_64/sysroot -g -Wno-invalid-command-line-argument -Wno-unused-command-line-argument -D_FORTIFY_SOURCE=2 -fno-exceptions -fno-rtti -fpic -mthumb -Oz -DNDEBUG -IC:/PC/Projetos/GTA_Mobile/police-mod-szk -std=c++17 -fexceptions -DANDROID -Wformat -Werror=format-security -O2 -DNDEBUG -std=c++17 -c C:/PC/Projetos/GTA_Mobile/police-mod-szk/src/policeMod/Callouts.cpp -o 'C:\\PC\\Projetos\\GTA_Mobile\\police-mod-szk/obj/local/armeabi-v7a/objs/PoliceModSZK/src/policeMod/Callouts.o'",
+        "directory": "C:\\PC\\Projetos\\GTA_Mobile\\police-mod-szk",
+        "file": "C:/PC/Projetos/GTA_Mobile/police-mod-szk/src/policeMod/Callouts.cpp",
+        "output": "C:\\PC\\Projetos\\GTA_Mobile\\police-mod-szk/obj/local/armeabi-v7a/objs/PoliceModSZK/src/policeMod/Callouts.o"
+    },
+    {
+        "command": "C:/android-ndk-r27d/build/../toolchains/llvm/prebuilt/windows-x86_64/bin/clang++.exe -target armv7-none-linux-androideabi24 -fdata-sections -ffunction-sections -fstack-protector-strong -funwind-tables -no-canonical-prefixes --sysroot C:/android-ndk-r27d/build/../toolchains/llvm/prebuilt/windows-x86_64/sysroot -g -Wno-invalid-command-line-argument -Wno-unused-command-line-argument -D_FORTIFY_SOURCE=2 -fno-exceptions -fno-rtti -fpic -mthumb -Oz -DNDEBUG -IC:/PC/Projetos/GTA_Mobile/police-mod-szk -std=c++17 -fexceptions -DANDROID -Wformat -Werror=format-security -O2 -DNDEBUG -std=c++17 -c C:/PC/Projetos/GTA_Mobile/police-mod-szk/src/policeMod/Chase.cpp -o 'C:\\PC\\Projetos\\GTA_Mobile\\police-mod-szk/obj/local/armeabi-v7a/objs/PoliceModSZK/src/policeMod/Chase.o'",
+        "directory": "C:\\PC\\Projetos\\GTA_Mobile\\police-mod-szk",
+        "file": "C:/PC/Projetos/GTA_Mobile/police-mod-szk/src/policeMod/Chase.cpp",
+        "output": "C:\\PC\\Projetos\\GTA_Mobile\\police-mod-szk/obj/local/armeabi-v7a/objs/PoliceModSZK/src/policeMod/Chase.o"
+    },
+    {
+        "command": "C:/android-ndk-r27d/build/../toolchains/llvm/prebuilt/windows-x86_64/bin/clang++.exe -target armv7-none-linux-androideabi24 -fdata-sections -ffunction-sections -fstack-protector-strong -funwind-tables -no-canonical-prefixes --sysroot C:/android-ndk-r27d/build/../toolchains/llvm/prebuilt/windows-x86_64/sysroot -g -Wno-invalid-command-line-argument -Wno-unused-command-line-argument -D_FORTIFY_SOURCE=2 -fno-exceptions -fno-rtti -fpic -mthumb -Oz -DNDEBUG -IC:/PC/Projetos/GTA_Mobile/police-mod-szk -std=c++17 -fexceptions -DANDROID -Wformat -Werror=format-security -O2 -DNDEBUG -std=c++17 -c C:/PC/Projetos/GTA_Mobile/police-mod-szk/src/policeMod/Checkpoint.cpp -o 'C:\\PC\\Projetos\\GTA_Mobile\\police-mod-szk/obj/local/armeabi-v7a/objs/PoliceModSZK/src/policeMod/Checkpoint.o'",
+        "directory": "C:\\PC\\Projetos\\GTA_Mobile\\police-mod-szk",
+        "file": "C:/PC/Projetos/GTA_Mobile/police-mod-szk/src/policeMod/Checkpoint.cpp",
+        "output": "C:\\PC\\Projetos\\GTA_Mobile\\police-mod-szk/obj/local/armeabi-v7a/objs/PoliceModSZK/src/policeMod/Checkpoint.o"
+    },
+    {
+        "command": "C:/android-ndk-r27d/build/../toolchains/llvm/prebuilt/windows-x86_64/bin/clang++.exe -target armv7-none-linux-androideabi24 -fdata-sections -ffunction-sections -fstack-protector-strong -funwind-tables -no-canonical-prefixes --sysroot C:/android-ndk-r27d/build/../toolchains/llvm/prebuilt/windows-x86_64/sysroot -g -Wno-invalid-command-line-argument -Wno-unused-command-line-argument -D_FORTIFY_SOURCE=2 -fno-exceptions -fno-rtti -fpic -mthumb -Oz -DNDEBUG -IC:/PC/Projetos/GTA_Mobile/police-mod-szk -std=c++17 -fexceptions -DANDROID -Wformat -Werror=format-security -O2 -DNDEBUG -std=c++17 -c C:/PC/Projetos/GTA_Mobile/police-mod-szk/src/policeMod/Criminals.cpp -o 'C:\\PC\\Projetos\\GTA_Mobile\\police-mod-szk/obj/local/armeabi-v7a/objs/PoliceModSZK/src/policeMod/Criminals.o'",
+        "directory": "C:\\PC\\Projetos\\GTA_Mobile\\police-mod-szk",
+        "file": "C:/PC/Projetos/GTA_Mobile/police-mod-szk/src/policeMod/Criminals.cpp",
+        "output": "C:\\PC\\Projetos\\GTA_Mobile\\police-mod-szk/obj/local/armeabi-v7a/objs/PoliceModSZK/src/policeMod/Criminals.o"
+    },
+    {
+        "command": "C:/android-ndk-r27d/build/../toolchains/llvm/prebuilt/windows-x86_64/bin/clang++.exe -target armv7-none-linux-androideabi24 -fdata-sections -ffunction-sections -fstack-protector-strong -funwind-tables -no-canonical-prefixes --sysroot C:/android-ndk-r27d/build/../toolchains/llvm/prebuilt/windows-x86_64/sysroot -g -Wno-invalid-command-line-argument -Wno-unused-command-line-argument -D_FORTIFY_SOURCE=2 -fno-exceptions -fno-rtti -fpic -mthumb -Oz -DNDEBUG -IC:/PC/Projetos/GTA_Mobile/police-mod-szk -std=c++17 -fexceptions -DANDROID -Wformat -Werror=format-security -O2 -DNDEBUG -std=c++17 -c C:/PC/Projetos/GTA_Mobile/police-mod-szk/src/policeMod/DocsWindow.cpp -o 'C:\\PC\\Projetos\\GTA_Mobile\\police-mod-szk/obj/local/armeabi-v7a/objs/PoliceModSZK/src/policeMod/DocsWindow.o'",
+        "directory": "C:\\PC\\Projetos\\GTA_Mobile\\police-mod-szk",
+        "file": "C:/PC/Projetos/GTA_Mobile/police-mod-szk/src/policeMod/DocsWindow.cpp",
+        "output": "C:\\PC\\Projetos\\GTA_Mobile\\police-mod-szk/obj/local/armeabi-v7a/objs/PoliceModSZK/src/policeMod/DocsWindow.o"
+    },
+    {
+        "command": "C:/android-ndk-r27d/build/../toolchains/llvm/prebuilt/windows-x86_64/bin/clang++.exe -target armv7-none-linux-androideabi24 -fdata-sections -ffunction-sections -fstack-protector-strong -funwind-tables -no-canonical-prefixes --sysroot C:/android-ndk-r27d/build/../toolchains/llvm/prebuilt/windows-x86_64/sysroot -g -Wno-invalid-command-line-argument -Wno-unused-command-line-argument -D_FORTIFY_SOURCE=2 -fno-exceptions -fno-rtti -fpic -mthumb -Oz -DNDEBUG -IC:/PC/Projetos/GTA_Mobile/police-mod-szk -std=c++17 -fexceptions -DANDROID -Wformat -Werror=format-security -O2 -DNDEBUG -std=c++17 -c C:/PC/Projetos/GTA_Mobile/police-mod-szk/src/policeMod/DocumentWindow.cpp -o 'C:\\PC\\Projetos\\GTA_Mobile\\police-mod-szk/obj/local/armeabi-v7a/objs/PoliceModSZK/src/policeMod/DocumentWindow.o'",
+        "directory": "C:\\PC\\Projetos\\GTA_Mobile\\police-mod-szk",
+        "file": "C:/PC/Projetos/GTA_Mobile/police-mod-szk/src/policeMod/DocumentWindow.cpp",
+        "output": "C:\\PC\\Projetos\\GTA_Mobile\\police-mod-szk/obj/local/armeabi-v7a/objs/PoliceModSZK/src/policeMod/DocumentWindow.o"
+    },
+    {
+        "command": "C:/android-ndk-r27d/build/../toolchains/llvm/prebuilt/windows-x86_64/bin/clang++.exe -target armv7-none-linux-androideabi24 -fdata-sections -ffunction-sections -fstack-protector-strong -funwind-tables -no-canonical-prefixes --sysroot C:/android-ndk-r27d/build/../toolchains/llvm/prebuilt/windows-x86_64/sysroot -g -Wno-invalid-command-line-argument -Wno-unused-command-line-argument -D_FORTIFY_SOURCE=2 -fno-exceptions -fno-rtti -fpic -mthumb -Oz -DNDEBUG -IC:/PC/Projetos/GTA_Mobile/police-mod-szk -std=c++17 -fexceptions -DANDROID -Wformat -Werror=format-security -O2 -DNDEBUG -std=c++17 -c C:/PC/Projetos/GTA_Mobile/police-mod-szk/src/policeMod/Escort.cpp -o 'C:\\PC\\Projetos\\GTA_Mobile\\police-mod-szk/obj/local/armeabi-v7a/objs/PoliceModSZK/src/policeMod/Escort.o'",
+        "directory": "C:\\PC\\Projetos\\GTA_Mobile\\police-mod-szk",
+        "file": "C:/PC/Projetos/GTA_Mobile/police-mod-szk/src/policeMod/Escort.cpp",
+        "output": "C:\\PC\\Projetos\\GTA_Mobile\\police-mod-szk/obj/local/armeabi-v7a/objs/PoliceModSZK/src/policeMod/Escort.o"
+    },
+    {
+        "command": "C:/android-ndk-r27d/build/../toolchains/llvm/prebuilt/windows-x86_64/bin/clang++.exe -target armv7-none-linux-androideabi24 -fdata-sections -ffunction-sections -fstack-protector-strong -funwind-tables -no-canonical-prefixes --sysroot C:/android-ndk-r27d/build/../toolchains/llvm/prebuilt/windows-x86_64/sysroot -g -Wno-invalid-command-line-argument -Wno-unused-command-line-argument -D_FORTIFY_SOURCE=2 -fno-exceptions -fno-rtti -fpic -mthumb -Oz -DNDEBUG -IC:/PC/Projetos/GTA_Mobile/police-mod-szk -std=c++17 -fexceptions -DANDROID -Wformat -Werror=format-security -O2 -DNDEBUG -std=c++17 -c C:/PC/Projetos/GTA_Mobile/police-mod-szk/src/policeMod/FriskWindow.cpp -o 'C:\\PC\\Projetos\\GTA_Mobile\\police-mod-szk/obj/local/armeabi-v7a/objs/PoliceModSZK/src/policeMod/FriskWindow.o'",
+        "directory": "C:\\PC\\Projetos\\GTA_Mobile\\police-mod-szk",
+        "file": "C:/PC/Projetos/GTA_Mobile/police-mod-szk/src/policeMod/FriskWindow.cpp",
+        "output": "C:\\PC\\Projetos\\GTA_Mobile\\police-mod-szk/obj/local/armeabi-v7a/objs/PoliceModSZK/src/policeMod/FriskWindow.o"
+    },
+    {
+        "command": "C:/android-ndk-r27d/build/../toolchains/llvm/prebuilt/windows-x86_64/bin/clang++.exe -target armv7-none-linux-androideabi24 -fdata-sections -ffunction-sections -fstack-protector-strong -funwind-tables -no-canonical-prefixes --sysroot C:/android-ndk-r27d/build/../toolchains/llvm/prebuilt/windows-x86_64/sysroot -g -Wno-invalid-command-line-argument -Wno-unused-command-line-argument -D_FORTIFY_SOURCE=2 -fno-exceptions -fno-rtti -fpic -mthumb -Oz -DNDEBUG -IC:/PC/Projetos/GTA_Mobile/police-mod-szk -std=c++17 -fexceptions -DANDROID -Wformat -Werror=format-security -O2 -DNDEBUG -std=c++17 -c C:/PC/Projetos/GTA_Mobile/police-mod-szk/src/policeMod/ModData.cpp -o 'C:\\PC\\Projetos\\GTA_Mobile\\police-mod-szk/obj/local/armeabi-v7a/objs/PoliceModSZK/src/policeMod/ModData.o'",
+        "directory": "C:\\PC\\Projetos\\GTA_Mobile\\police-mod-szk",
+        "file": "C:/PC/Projetos/GTA_Mobile/police-mod-szk/src/policeMod/ModData.cpp",
+        "output": "C:\\PC\\Projetos\\GTA_Mobile\\police-mod-szk/obj/local/armeabi-v7a/objs/PoliceModSZK/src/policeMod/ModData.o"
+    },
+    {
+        "command": "C:/android-ndk-r27d/build/../toolchains/llvm/prebuilt/windows-x86_64/bin/clang++.exe -target armv7-none-linux-androideabi24 -fdata-sections -ffunction-sections -fstack-protector-strong -funwind-tables -no-canonical-prefixes --sysroot C:/android-ndk-r27d/build/../toolchains/llvm/prebuilt/windows-x86_64/sysroot -g -Wno-invalid-command-line-argument -Wno-unused-command-line-argument -D_FORTIFY_SOURCE=2 -fno-exceptions -fno-rtti -fpic -mthumb -Oz -DNDEBUG -IC:/PC/Projetos/GTA_Mobile/police-mod-szk -std=c++17 -fexceptions -DANDROID -Wformat -Werror=format-security -O2 -DNDEBUG -std=c++17 -c C:/PC/Projetos/GTA_Mobile/police-mod-szk/src/policeMod/ModLogger.cpp -o 'C:\\PC\\Projetos\\GTA_Mobile\\police-mod-szk/obj/local/armeabi-v7a/objs/PoliceModSZK/src/policeMod/ModLogger.o'",
+        "directory": "C:\\PC\\Projetos\\GTA_Mobile\\police-mod-szk",
+        "file": "C:/PC/Projetos/GTA_Mobile/police-mod-szk/src/policeMod/ModLogger.cpp",
+        "output": "C:\\PC\\Projetos\\GTA_Mobile\\police-mod-szk/obj/local/armeabi-v7a/objs/PoliceModSZK/src/policeMod/ModLogger.o"
+    },
+    {
+        "command": "C:/android-ndk-r27d/build/../toolchains/llvm/prebuilt/windows-x86_64/bin/clang++.exe -target armv7-none-linux-androideabi24 -fdata-sections -ffunction-sections -fstack-protector-strong -funwind-tables -no-canonical-prefixes --sysroot C:/android-ndk-r27d/build/../toolchains/llvm/prebuilt/windows-x86_64/sysroot -g -Wno-invalid-command-line-argument -Wno-unused-command-line-argument -D_FORTIFY_SOURCE=2 -fno-exceptions -fno-rtti -fpic -mthumb -Oz -DNDEBUG -IC:/PC/Projetos/GTA_Mobile/police-mod-szk -std=c++17 -fexceptions -DANDROID -Wformat -Werror=format-security -O2 -DNDEBUG -std=c++17 -c C:/PC/Projetos/GTA_Mobile/police-mod-szk/src/policeMod/ModelLoader.cpp -o 'C:\\PC\\Projetos\\GTA_Mobile\\police-mod-szk/obj/local/armeabi-v7a/objs/PoliceModSZK/src/policeMod/ModelLoader.o'",
+        "directory": "C:\\PC\\Projetos\\GTA_Mobile\\police-mod-szk",
+        "file": "C:/PC/Projetos/GTA_Mobile/police-mod-szk/src/policeMod/ModelLoader.cpp",
+        "output": "C:\\PC\\Projetos\\GTA_Mobile\\police-mod-szk/obj/local/armeabi-v7a/objs/PoliceModSZK/src/policeMod/ModelLoader.o"
+    },
+    {
+        "command": "C:/android-ndk-r27d/build/../toolchains/llvm/prebuilt/windows-x86_64/bin/clang++.exe -target armv7-none-linux-androideabi24 -fdata-sections -ffunction-sections -fstack-protector-strong -funwind-tables -no-canonical-prefixes --sysroot C:/android-ndk-r27d/build/../toolchains/llvm/prebuilt/windows-x86_64/sysroot -g -Wno-invalid-command-line-argument -Wno-unused-command-line-argument -D_FORTIFY_SOURCE=2 -fno-exceptions -fno-rtti -fpic -mthumb -Oz -DNDEBUG -IC:/PC/Projetos/GTA_Mobile/police-mod-szk -std=c++17 -fexceptions -DANDROID -Wformat -Werror=format-security -O2 -DNDEBUG -std=c++17 -c C:/PC/Projetos/GTA_Mobile/police-mod-szk/src/policeMod/Names.cpp -o 'C:\\PC\\Projetos\\GTA_Mobile\\police-mod-szk/obj/local/armeabi-v7a/objs/PoliceModSZK/src/policeMod/Names.o'",
+        "directory": "C:\\PC\\Projetos\\GTA_Mobile\\police-mod-szk",
+        "file": "C:/PC/Projetos/GTA_Mobile/police-mod-szk/src/policeMod/Names.cpp",
+        "output": "C:\\PC\\Projetos\\GTA_Mobile\\police-mod-szk/obj/local/armeabi-v7a/objs/PoliceModSZK/src/policeMod/Names.o"
+    },
+    {
+        "command": "C:/android-ndk-r27d/build/../toolchains/llvm/prebuilt/windows-x86_64/bin/clang++.exe -target armv7-none-linux-androideabi24 -fdata-sections -ffunction-sections -fstack-protector-strong -funwind-tables -no-canonical-prefixes --sysroot C:/android-ndk-r27d/build/../toolchains/llvm/prebuilt/windows-x86_64/sysroot -g -Wno-invalid-command-line-argument -Wno-unused-command-line-argument -D_FORTIFY_SOURCE=2 -fno-exceptions -fno-rtti -fpic -mthumb -Oz -DNDEBUG -IC:/PC/Projetos/GTA_Mobile/police-mod-szk -std=c++17 -fexceptions -DANDROID -Wformat -Werror=format-security -O2 -DNDEBUG -std=c++17 -c C:/PC/Projetos/GTA_Mobile/police-mod-szk/src/policeMod/Partners.cpp -o 'C:\\PC\\Projetos\\GTA_Mobile\\police-mod-szk/obj/local/armeabi-v7a/objs/PoliceModSZK/src/policeMod/Partners.o'",
+        "directory": "C:\\PC\\Projetos\\GTA_Mobile\\police-mod-szk",
+        "file": "C:/PC/Projetos/GTA_Mobile/police-mod-szk/src/policeMod/Partners.cpp",
+        "output": "C:\\PC\\Projetos\\GTA_Mobile\\police-mod-szk/obj/local/armeabi-v7a/objs/PoliceModSZK/src/policeMod/Partners.o"
+    },
+    {
+        "command": "C:/android-ndk-r27d/build/../toolchains/llvm/prebuilt/windows-x86_64/bin/clang++.exe -target armv7-none-linux-androideabi24 -fdata-sections -ffunction-sections -fstack-protector-strong -funwind-tables -no-canonical-prefixes --sysroot C:/android-ndk-r27d/build/../toolchains/llvm/prebuilt/windows-x86_64/sysroot -g -Wno-invalid-command-line-argument -Wno-unused-command-line-argument -D_FORTIFY_SOURCE=2 -fno-exceptions -fno-rtti -fpic -mthumb -Oz -DNDEBUG -IC:/PC/Projetos/GTA_Mobile/police-mod-szk -std=c++17 -fexceptions -DANDROID -Wformat -Werror=format-security -O2 -DNDEBUG -std=c++17 -c C:/PC/Projetos/GTA_Mobile/police-mod-szk/src/policeMod/Ped.cpp -o 'C:\\PC\\Projetos\\GTA_Mobile\\police-mod-szk/obj/local/armeabi-v7a/objs/PoliceModSZK/src/policeMod/Ped.o'",
+        "directory": "C:\\PC\\Projetos\\GTA_Mobile\\police-mod-szk",
+        "file": "C:/PC/Projetos/GTA_Mobile/police-mod-szk/src/policeMod/Ped.cpp",
+        "output": "C:\\PC\\Projetos\\GTA_Mobile\\police-mod-szk/obj/local/armeabi-v7a/objs/PoliceModSZK/src/policeMod/Ped.o"
+    },
+    {
+        "command": "C:/android-ndk-r27d/build/../toolchains/llvm/prebuilt/windows-x86_64/bin/clang++.exe -target armv7-none-linux-androideabi24 -fdata-sections -ffunction-sections -fstack-protector-strong -funwind-tables -no-canonical-prefixes --sysroot C:/android-ndk-r27d/build/../toolchains/llvm/prebuilt/windows-x86_64/sysroot -g -Wno-invalid-command-line-argument -Wno-unused-command-line-argument -D_FORTIFY_SOURCE=2 -fno-exceptions -fno-rtti -fpic -mthumb -Oz -DNDEBUG -IC:/PC/Projetos/GTA_Mobile/police-mod-szk -std=c++17 -fexceptions -DANDROID -Wformat -Werror=format-security -O2 -DNDEBUG -std=c++17 -c C:/PC/Projetos/GTA_Mobile/police-mod-szk/src/policeMod/Peds.cpp -o 'C:\\PC\\Projetos\\GTA_Mobile\\police-mod-szk/obj/local/armeabi-v7a/objs/PoliceModSZK/src/policeMod/Peds.o'",
+        "directory": "C:\\PC\\Projetos\\GTA_Mobile\\police-mod-szk",
+        "file": "C:/PC/Projetos/GTA_Mobile/police-mod-szk/src/policeMod/Peds.cpp",
+        "output": "C:\\PC\\Projetos\\GTA_Mobile\\police-mod-szk/obj/local/armeabi-v7a/objs/PoliceModSZK/src/policeMod/Peds.o"
+    },
+    {
+        "command": "C:/android-ndk-r27d/build/../toolchains/llvm/prebuilt/windows-x86_64/bin/clang++.exe -target armv7-none-linux-androideabi24 -fdata-sections -ffunction-sections -fstack-protector-strong -funwind-tables -no-canonical-prefixes --sysroot C:/android-ndk-r27d/build/../toolchains/llvm/prebuilt/windows-x86_64/sysroot -g -Wno-invalid-command-line-argument -Wno-unused-command-line-argument -D_FORTIFY_SOURCE=2 -fno-exceptions -fno-rtti -fpic -mthumb -Oz -DNDEBUG -IC:/PC/Projetos/GTA_Mobile/police-mod-szk -std=c++17 -fexceptions -DANDROID -Wformat -Werror=format-security -O2 -DNDEBUG -std=c++17 -c C:/PC/Projetos/GTA_Mobile/police-mod-szk/src/policeMod/PoliceBase.cpp -o 'C:\\PC\\Projetos\\GTA_Mobile\\police-mod-szk/obj/local/armeabi-v7a/objs/PoliceModSZK/src/policeMod/PoliceBase.o'",
+        "directory": "C:\\PC\\Projetos\\GTA_Mobile\\police-mod-szk",
+        "file": "C:/PC/Projetos/GTA_Mobile/police-mod-szk/src/policeMod/PoliceBase.cpp",
+        "output": "C:\\PC\\Projetos\\GTA_Mobile\\police-mod-szk/obj/local/armeabi-v7a/objs/PoliceModSZK/src/policeMod/PoliceBase.o"
+    },
+    {
+        "command": "C:/android-ndk-r27d/build/../toolchains/llvm/prebuilt/windows-x86_64/bin/clang++.exe -target armv7-none-linux-androideabi24 -fdata-sections -ffunction-sections -fstack-protector-strong -funwind-tables -no-canonical-prefixes --sysroot C:/android-ndk-r27d/build/../toolchains/llvm/prebuilt/windows-x86_64/sysroot -g -Wno-invalid-command-line-argument -Wno-unused-command-line-argument -D_FORTIFY_SOURCE=2 -fno-exceptions -fno-rtti -fpic -mthumb -Oz -DNDEBUG -IC:/PC/Projetos/GTA_Mobile/police-mod-szk -std=c++17 -fexceptions -DANDROID -Wformat -Werror=format-security -O2 -DNDEBUG -std=c++17 -c C:/PC/Projetos/GTA_Mobile/police-mod-szk/src/policeMod/PoliceBases.cpp -o 'C:\\PC\\Projetos\\GTA_Mobile\\police-mod-szk/obj/local/armeabi-v7a/objs/PoliceModSZK/src/policeMod/PoliceBases.o'",
+        "directory": "C:\\PC\\Projetos\\GTA_Mobile\\police-mod-szk",
+        "file": "C:/PC/Projetos/GTA_Mobile/police-mod-szk/src/policeMod/PoliceBases.cpp",
+        "output": "C:\\PC\\Projetos\\GTA_Mobile\\police-mod-szk/obj/local/armeabi-v7a/objs/PoliceModSZK/src/policeMod/PoliceBases.o"
+    },
+    {
+        "command": "C:/android-ndk-r27d/build/../toolchains/llvm/prebuilt/windows-x86_64/bin/clang++.exe -target armv7-none-linux-androideabi24 -fdata-sections -ffunction-sections -fstack-protector-strong -funwind-tables -no-canonical-prefixes --sysroot C:/android-ndk-r27d/build/../toolchains/llvm/prebuilt/windows-x86_64/sysroot -g -Wno-invalid-command-line-argument -Wno-unused-command-line-argument -D_FORTIFY_SOURCE=2 -fno-exceptions -fno-rtti -fpic -mthumb -Oz -DNDEBUG -IC:/PC/Projetos/GTA_Mobile/police-mod-szk -std=c++17 -fexceptions -DANDROID -Wformat -Werror=format-security -O2 -DNDEBUG -std=c++17 -c C:/PC/Projetos/GTA_Mobile/police-mod-szk/src/policeMod/PoliceMod.cpp -o 'C:\\PC\\Projetos\\GTA_Mobile\\police-mod-szk/obj/local/armeabi-v7a/objs/PoliceModSZK/src/policeMod/PoliceMod.o'",
+        "directory": "C:\\PC\\Projetos\\GTA_Mobile\\police-mod-szk",
+        "file": "C:/PC/Projetos/GTA_Mobile/police-mod-szk/src/policeMod/PoliceMod.cpp",
+        "output": "C:\\PC\\Projetos\\GTA_Mobile\\police-mod-szk/obj/local/armeabi-v7a/objs/PoliceModSZK/src/policeMod/PoliceMod.o"
+    },
+    {
+        "command": "C:/android-ndk-r27d/build/../toolchains/llvm/prebuilt/windows-x86_64/bin/clang++.exe -target armv7-none-linux-androideabi24 -fdata-sections -ffunction-sections -fstack-protector-strong -funwind-tables -no-canonical-prefixes --sysroot C:/android-ndk-r27d/build/../toolchains/llvm/prebuilt/windows-x86_64/sysroot -g -Wno-invalid-command-line-argument -Wno-unused-command-line-argument -D_FORTIFY_SOURCE=2 -fno-exceptions -fno-rtti -fpic -mthumb -Oz -DNDEBUG -IC:/PC/Projetos/GTA_Mobile/police-mod-szk -std=c++17 -fexceptions -DANDROID -Wformat -Werror=format-security -O2 -DNDEBUG -std=c++17 -c C:/PC/Projetos/GTA_Mobile/police-mod-szk/src/policeMod/PoliceVehicles.cpp -o 'C:\\PC\\Projetos\\GTA_Mobile\\police-mod-szk/obj/local/armeabi-v7a/objs/PoliceModSZK/src/policeMod/PoliceVehicles.o'",
+        "directory": "C:\\PC\\Projetos\\GTA_Mobile\\police-mod-szk",
+        "file": "C:/PC/Projetos/GTA_Mobile/police-mod-szk/src/policeMod/PoliceVehicles.cpp",
+        "output": "C:\\PC\\Projetos\\GTA_Mobile\\police-mod-szk/obj/local/armeabi-v7a/objs/PoliceModSZK/src/policeMod/PoliceVehicles.o"
+    },
+    {
+        "command": "C:/android-ndk-r27d/build/../toolchains/llvm/prebuilt/windows-x86_64/bin/clang++.exe -target armv7-none-linux-androideabi24 -fdata-sections -ffunction-sections -fstack-protector-strong -funwind-tables -no-canonical-prefixes --sysroot C:/android-ndk-r27d/build/../toolchains/llvm/prebuilt/windows-x86_64/sysroot -g -Wno-invalid-command-line-argument -Wno-unused-command-line-argument -D_FORTIFY_SOURCE=2 -fno-exceptions -fno-rtti -fpic -mthumb -Oz -DNDEBUG -IC:/PC/Projetos/GTA_Mobile/police-mod-szk -std=c++17 -fexceptions -DANDROID -Wformat -Werror=format-security -O2 -DNDEBUG -std=c++17 -c C:/PC/Projetos/GTA_Mobile/police-mod-szk/src/policeMod/Pullover.cpp -o 'C:\\PC\\Projetos\\GTA_Mobile\\police-mod-szk/obj/local/armeabi-v7a/objs/PoliceModSZK/src/policeMod/Pullover.o'",
+        "directory": "C:\\PC\\Projetos\\GTA_Mobile\\police-mod-szk",
+        "file": "C:/PC/Projetos/GTA_Mobile/police-mod-szk/src/policeMod/Pullover.cpp",
+        "output": "C:\\PC\\Projetos\\GTA_Mobile\\police-mod-szk/obj/local/armeabi-v7a/objs/PoliceModSZK/src/policeMod/Pullover.o"
+    },
+    {
+        "command": "C:/android-ndk-r27d/build/../toolchains/llvm/prebuilt/windows-x86_64/bin/clang++.exe -target armv7-none-linux-androideabi24 -fdata-sections -ffunction-sections -fstack-protector-strong -funwind-tables -no-canonical-prefixes --sysroot C:/android-ndk-r27d/build/../toolchains/llvm/prebuilt/windows-x86_64/sysroot -g -Wno-invalid-command-line-argument -Wno-unused-command-line-argument -D_FORTIFY_SOURCE=2 -fno-exceptions -fno-rtti -fpic -mthumb -Oz -DNDEBUG -IC:/PC/Projetos/GTA_Mobile/police-mod-szk -std=c++17 -fexceptions -DANDROID -Wformat -Werror=format-security -O2 -DNDEBUG -std=c++17 -c C:/PC/Projetos/GTA_Mobile/police-mod-szk/src/policeMod/RGWindow.cpp -o 'C:\\PC\\Projetos\\GTA_Mobile\\police-mod-szk/obj/local/armeabi-v7a/objs/PoliceModSZK/src/policeMod/RGWindow.o'",
+        "directory": "C:\\PC\\Projetos\\GTA_Mobile\\police-mod-szk",
+        "file": "C:/PC/Projetos/GTA_Mobile/police-mod-szk/src/policeMod/RGWindow.cpp",
+        "output": "C:\\PC\\Projetos\\GTA_Mobile\\police-mod-szk/obj/local/armeabi-v7a/objs/PoliceModSZK/src/policeMod/RGWindow.o"
+    },
+    {
+        "command": "C:/android-ndk-r27d/build/../toolchains/llvm/prebuilt/windows-x86_64/bin/clang++.exe -target armv7-none-linux-androideabi24 -fdata-sections -ffunction-sections -fstack-protector-strong -funwind-tables -no-canonical-prefixes --sysroot C:/android-ndk-r27d/build/../toolchains/llvm/prebuilt/windows-x86_64/sysroot -g -Wno-invalid-command-line-argument -Wno-unused-command-line-argument -D_FORTIFY_SOURCE=2 -fno-exceptions -fno-rtti -fpic -mthumb -Oz -DNDEBUG -IC:/PC/Projetos/GTA_Mobile/police-mod-szk -std=c++17 -fexceptions -DANDROID -Wformat -Werror=format-security -O2 -DNDEBUG -std=c++17 -c C:/PC/Projetos/GTA_Mobile/police-mod-szk/src/policeMod/RadioSounds.cpp -o 'C:\\PC\\Projetos\\GTA_Mobile\\police-mod-szk/obj/local/armeabi-v7a/objs/PoliceModSZK/src/policeMod/RadioSounds.o'",
+        "directory": "C:\\PC\\Projetos\\GTA_Mobile\\police-mod-szk",
+        "file": "C:/PC/Projetos/GTA_Mobile/police-mod-szk/src/policeMod/RadioSounds.cpp",
+        "output": "C:\\PC\\Projetos\\GTA_Mobile\\police-mod-szk/obj/local/armeabi-v7a/objs/PoliceModSZK/src/policeMod/RadioSounds.o"
+    },
+    {
+        "command": "C:/android-ndk-r27d/build/../toolchains/llvm/prebuilt/windows-x86_64/bin/clang++.exe -target armv7-none-linux-androideabi24 -fdata-sections -ffunction-sections -fstack-protector-strong -funwind-tables -no-canonical-prefixes --sysroot C:/android-ndk-r27d/build/../toolchains/llvm/prebuilt/windows-x86_64/sysroot -g -Wno-invalid-command-line-argument -Wno-unused-command-line-argument -D_FORTIFY_SOURCE=2 -fno-exceptions -fno-rtti -fpic -mthumb -Oz -DNDEBUG -IC:/PC/Projetos/GTA_Mobile/police-mod-szk -std=c++17 -fexceptions -DANDROID -Wformat -Werror=format-security -O2 -DNDEBUG -std=c++17 -c C:/PC/Projetos/GTA_Mobile/police-mod-szk/src/policeMod/RadioWindow.cpp -o 'C:\\PC\\Projetos\\GTA_Mobile\\police-mod-szk/obj/local/armeabi-v7a/objs/PoliceModSZK/src/policeMod/RadioWindow.o'",
+        "directory": "C:\\PC\\Projetos\\GTA_Mobile\\police-mod-szk",
+        "file": "C:/PC/Projetos/GTA_Mobile/police-mod-szk/src/policeMod/RadioWindow.cpp",
+        "output": "C:\\PC\\Projetos\\GTA_Mobile\\police-mod-szk/obj/local/armeabi-v7a/objs/PoliceModSZK/src/policeMod/RadioWindow.o"
+    },
+    {
+        "command": "C:/android-ndk-r27d/build/../toolchains/llvm/prebuilt/windows-x86_64/bin/clang++.exe -target armv7-none-linux-androideabi24 -fdata-sections -ffunction-sections -fstack-protector-strong -funwind-tables -no-canonical-prefixes --sysroot C:/android-ndk-r27d/build/../toolchains/llvm/prebuilt/windows-x86_64/sysroot -g -Wno-invalid-command-line-argument -Wno-unused-command-line-argument -D_FORTIFY_SOURCE=2 -fno-exceptions -fno-rtti -fpic -mthumb -Oz -DNDEBUG -IC:/PC/Projetos/GTA_Mobile/police-mod-szk -std=c++17 -fexceptions -DANDROID -Wformat -Werror=format-security -O2 -DNDEBUG -std=c++17 -c C:/PC/Projetos/GTA_Mobile/police-mod-szk/src/policeMod/ScriptTask.cpp -o 'C:\\PC\\Projetos\\GTA_Mobile\\police-mod-szk/obj/local/armeabi-v7a/objs/PoliceModSZK/src/policeMod/ScriptTask.o'",
+        "directory": "C:\\PC\\Projetos\\GTA_Mobile\\police-mod-szk",
+        "file": "C:/PC/Projetos/GTA_Mobile/police-mod-szk/src/policeMod/ScriptTask.cpp",
+        "output": "C:\\PC\\Projetos\\GTA_Mobile\\police-mod-szk/obj/local/armeabi-v7a/objs/PoliceModSZK/src/policeMod/ScriptTask.o"
+    },
+    {
+        "command": "C:/android-ndk-r27d/build/../toolchains/llvm/prebuilt/windows-x86_64/bin/clang++.exe -target armv7-none-linux-androideabi24 -fdata-sections -ffunction-sections -fstack-protector-strong -funwind-tables -no-canonical-prefixes --sysroot C:/android-ndk-r27d/build/../toolchains/llvm/prebuilt/windows-x86_64/sysroot -g -Wno-invalid-command-line-argument -Wno-unused-command-line-argument -D_FORTIFY_SOURCE=2 -fno-exceptions -fno-rtti -fpic -mthumb -Oz -DNDEBUG -IC:/PC/Projetos/GTA_Mobile/police-mod-szk -std=c++17 -fexceptions -DANDROID -Wformat -Werror=format-security -O2 -DNDEBUG -std=c++17 -c C:/PC/Projetos/GTA_Mobile/police-mod-szk/src/policeMod/TestWindow.cpp -o 'C:\\PC\\Projetos\\GTA_Mobile\\police-mod-szk/obj/local/armeabi-v7a/objs/PoliceModSZK/src/policeMod/TestWindow.o'",
+        "directory": "C:\\PC\\Projetos\\GTA_Mobile\\police-mod-szk",
+        "file": "C:/PC/Projetos/GTA_Mobile/police-mod-szk/src/policeMod/TestWindow.cpp",
+        "output": "C:\\PC\\Projetos\\GTA_Mobile\\police-mod-szk/obj/local/armeabi-v7a/objs/PoliceModSZK/src/policeMod/TestWindow.o"
+    },
+    {
+        "command": "C:/android-ndk-r27d/build/../toolchains/llvm/prebuilt/windows-x86_64/bin/clang++.exe -target armv7-none-linux-androideabi24 -fdata-sections -ffunction-sections -fstack-protector-strong -funwind-tables -no-canonical-prefixes --sysroot C:/android-ndk-r27d/build/../toolchains/llvm/prebuilt/windows-x86_64/sysroot -g -Wno-invalid-command-line-argument -Wno-unused-command-line-argument -D_FORTIFY_SOURCE=2 -fno-exceptions -fno-rtti -fpic -mthumb -Oz -DNDEBUG -IC:/PC/Projetos/GTA_Mobile/police-mod-szk -std=c++17 -fexceptions -DANDROID -Wformat -Werror=format-security -O2 -DNDEBUG -std=c++17 -c C:/PC/Projetos/GTA_Mobile/police-mod-szk/src/policeMod/TopMessage.cpp -o 'C:\\PC\\Projetos\\GTA_Mobile\\police-mod-szk/obj/local/armeabi-v7a/objs/PoliceModSZK/src/policeMod/TopMessage.o'",
+        "directory": "C:\\PC\\Projetos\\GTA_Mobile\\police-mod-szk",
+        "file": "C:/PC/Projetos/GTA_Mobile/police-mod-szk/src/policeMod/TopMessage.cpp",
+        "output": "C:\\PC\\Projetos\\GTA_Mobile\\police-mod-szk/obj/local/armeabi-v7a/objs/PoliceModSZK/src/policeMod/TopMessage.o"
+    },
+    {
+        "command": "C:/android-ndk-r27d/build/../toolchains/llvm/prebuilt/windows-x86_64/bin/clang++.exe -target armv7-none-linux-androideabi24 -fdata-sections -ffunction-sections -fstack-protector-strong -funwind-tables -no-canonical-prefixes --sysroot C:/android-ndk-r27d/build/../toolchains/llvm/prebuilt/windows-x86_64/sysroot -g -Wno-invalid-command-line-argument -Wno-unused-command-line-argument -D_FORTIFY_SOURCE=2 -fno-exceptions -fno-rtti -fpic -mthumb -Oz -DNDEBUG -IC:/PC/Projetos/GTA_Mobile/police-mod-szk -std=c++17 -fexceptions -DANDROID -Wformat -Werror=format-security -O2 -DNDEBUG -std=c++17 -c C:/PC/Projetos/GTA_Mobile/police-mod-szk/src/policeMod/Trunk.cpp -o 'C:\\PC\\Projetos\\GTA_Mobile\\police-mod-szk/obj/local/armeabi-v7a/objs/PoliceModSZK/src/policeMod/Trunk.o'",
+        "directory": "C:\\PC\\Projetos\\GTA_Mobile\\police-mod-szk",
+        "file": "C:/PC/Projetos/GTA_Mobile/police-mod-szk/src/policeMod/Trunk.cpp",
+        "output": "C:\\PC\\Projetos\\GTA_Mobile\\police-mod-szk/obj/local/armeabi-v7a/objs/PoliceModSZK/src/policeMod/Trunk.o"
+    },
+    {
+        "command": "C:/android-ndk-r27d/build/../toolchains/llvm/prebuilt/windows-x86_64/bin/clang++.exe -target armv7-none-linux-androideabi24 -fdata-sections -ffunction-sections -fstack-protector-strong -funwind-tables -no-canonical-prefixes --sysroot C:/android-ndk-r27d/build/../toolchains/llvm/prebuilt/windows-x86_64/sysroot -g -Wno-invalid-command-line-argument -Wno-unused-command-line-argument -D_FORTIFY_SOURCE=2 -fno-exceptions -fno-rtti -fpic -mthumb -Oz -DNDEBUG -IC:/PC/Projetos/GTA_Mobile/police-mod-szk -std=c++17 -fexceptions -DANDROID -Wformat -Werror=format-security -O2 -DNDEBUG -std=c++17 -c C:/PC/Projetos/GTA_Mobile/police-mod-szk/src/policeMod/Vehicle.cpp -o 'C:\\PC\\Projetos\\GTA_Mobile\\police-mod-szk/obj/local/armeabi-v7a/objs/PoliceModSZK/src/policeMod/Vehicle.o'",
+        "directory": "C:\\PC\\Projetos\\GTA_Mobile\\police-mod-szk",
+        "file": "C:/PC/Projetos/GTA_Mobile/police-mod-szk/src/policeMod/Vehicle.cpp",
+        "output": "C:\\PC\\Projetos\\GTA_Mobile\\police-mod-szk/obj/local/armeabi-v7a/objs/PoliceModSZK/src/policeMod/Vehicle.o"
+    },
+    {
+        "command": "C:/android-ndk-r27d/build/../toolchains/llvm/prebuilt/windows-x86_64/bin/clang++.exe -target armv7-none-linux-androideabi24 -fdata-sections -ffunction-sections -fstack-protector-strong -funwind-tables -no-canonical-prefixes --sysroot C:/android-ndk-r27d/build/../toolchains/llvm/prebuilt/windows-x86_64/sysroot -g -Wno-invalid-command-line-argument -Wno-unused-command-line-argument -D_FORTIFY_SOURCE=2 -fno-exceptions -fno-rtti -fpic -mthumb -Oz -DNDEBUG -IC:/PC/Projetos/GTA_Mobile/police-mod-szk -std=c++17 -fexceptions -DANDROID -Wformat -Werror=format-security -O2 -DNDEBUG -std=c++17 -c C:/PC/Projetos/GTA_Mobile/police-mod-szk/src/policeMod/VehicleDocInfo.cpp -o 'C:\\PC\\Projetos\\GTA_Mobile\\police-mod-szk/obj/local/armeabi-v7a/objs/PoliceModSZK/src/policeMod/VehicleDocInfo.o'",
+        "directory": "C:\\PC\\Projetos\\GTA_Mobile\\police-mod-szk",
+        "file": "C:/PC/Projetos/GTA_Mobile/police-mod-szk/src/policeMod/VehicleDocInfo.cpp",
+        "output": "C:\\PC\\Projetos\\GTA_Mobile\\police-mod-szk/obj/local/armeabi-v7a/objs/PoliceModSZK/src/policeMod/VehicleDocInfo.o"
+    },
+    {
+        "command": "C:/android-ndk-r27d/build/../toolchains/llvm/prebuilt/windows-x86_64/bin/clang++.exe -target armv7-none-linux-androideabi24 -fdata-sections -ffunction-sections -fstack-protector-strong -funwind-tables -no-canonical-prefixes --sysroot C:/android-ndk-r27d/build/../toolchains/llvm/prebuilt/windows-x86_64/sysroot -g -Wno-invalid-command-line-argument -Wno-unused-command-line-argument -D_FORTIFY_SOURCE=2 -fno-exceptions -fno-rtti -fpic -mthumb -Oz -DNDEBUG -IC:/PC/Projetos/GTA_Mobile/police-mod-szk -std=c++17 -fexceptions -DANDROID -Wformat -Werror=format-security -O2 -DNDEBUG -std=c++17 -c C:/PC/Projetos/GTA_Mobile/police-mod-szk/src/policeMod/Vehicles.cpp -o 'C:\\PC\\Projetos\\GTA_Mobile\\police-mod-szk/obj/local/armeabi-v7a/objs/PoliceModSZK/src/policeMod/Vehicles.o'",
+        "directory": "C:\\PC\\Projetos\\GTA_Mobile\\police-mod-szk",
+        "file": "C:/PC/Projetos/GTA_Mobile/police-mod-szk/src/policeMod/Vehicles.cpp",
+        "output": "C:\\PC\\Projetos\\GTA_Mobile\\police-mod-szk/obj/local/armeabi-v7a/objs/PoliceModSZK/src/policeMod/Vehicles.o"
+    },
+    {
+        "command": "C:/android-ndk-r27d/build/../toolchains/llvm/prebuilt/windows-x86_64/bin/clang++.exe -target armv7-none-linux-androideabi24 -fdata-sections -ffunction-sections -fstack-protector-strong -funwind-tables -no-canonical-prefixes --sysroot C:/android-ndk-r27d/build/../toolchains/llvm/prebuilt/windows-x86_64/sysroot -g -Wno-invalid-command-line-argument -Wno-unused-command-line-argument -D_FORTIFY_SOURCE=2 -fno-exceptions -fno-rtti -fpic -mthumb -Oz -DNDEBUG -IC:/PC/Projetos/GTA_Mobile/police-mod-szk -std=c++17 -fexceptions -DANDROID -Wformat -Werror=format-security -O2 -DNDEBUG -std=c++17 -c C:/PC/Projetos/GTA_Mobile/police-mod-szk/src/policeMod/WorldWidgets.cpp -o 'C:\\PC\\Projetos\\GTA_Mobile\\police-mod-szk/obj/local/armeabi-v7a/objs/PoliceModSZK/src/policeMod/WorldWidgets.o'",
+        "directory": "C:\\PC\\Projetos\\GTA_Mobile\\police-mod-szk",
+        "file": "C:/PC/Projetos/GTA_Mobile/police-mod-szk/src/policeMod/WorldWidgets.cpp",
+        "output": "C:\\PC\\Projetos\\GTA_Mobile\\police-mod-szk/obj/local/armeabi-v7a/objs/PoliceModSZK/src/policeMod/WorldWidgets.o"
+    },
+    {
+        "command": "C:/android-ndk-r27d/build/../toolchains/llvm/prebuilt/windows-x86_64/bin/clang++.exe -target armv7-none-linux-androideabi24 -fdata-sections -ffunction-sections -fstack-protector-strong -funwind-tables -no-canonical-prefixes --sysroot C:/android-ndk-r27d/build/../toolchains/llvm/prebuilt/windows-x86_64/sysroot -g -Wno-invalid-command-line-argument -Wno-unused-command-line-argument -D_FORTIFY_SOURCE=2 -fno-exceptions -fno-rtti -fpic -mthumb -Oz -DNDEBUG -IC:/PC/Projetos/GTA_Mobile/police-mod-szk -std=c++17 -fexceptions -DANDROID -Wformat -Werror=format-security -O2 -DNDEBUG -std=c++17 -c C:/PC/Projetos/GTA_Mobile/police-mod-szk/src/policeMod/ai/AIController.cpp -o 'C:\\PC\\Projetos\\GTA_Mobile\\police-mod-szk/obj/local/armeabi-v7a/objs/PoliceModSZK/src/policeMod/ai/AIController.o'",
+        "directory": "C:\\PC\\Projetos\\GTA_Mobile\\police-mod-szk",
+        "file": "C:/PC/Projetos/GTA_Mobile/police-mod-szk/src/policeMod/ai/AIController.cpp",
+        "output": "C:\\PC\\Projetos\\GTA_Mobile\\police-mod-szk/obj/local/armeabi-v7a/objs/PoliceModSZK/src/policeMod/ai/AIController.o"
+    },
+    {
+        "command": "C:/android-ndk-r27d/build/../toolchains/llvm/prebuilt/windows-x86_64/bin/clang++.exe -target armv7-none-linux-androideabi24 -fdata-sections -ffunction-sections -fstack-protector-strong -funwind-tables -no-canonical-prefixes --sysroot C:/android-ndk-r27d/build/../toolchains/llvm/prebuilt/windows-x86_64/sysroot -g -Wno-invalid-command-line-argument -Wno-unused-command-line-argument -D_FORTIFY_SOURCE=2 -fno-exceptions -fno-rtti -fpic -mthumb -Oz -DNDEBUG -IC:/PC/Projetos/GTA_Mobile/police-mod-szk -std=c++17 -fexceptions -DANDROID -Wformat -Werror=format-security -O2 -DNDEBUG -std=c++17 -c C:/PC/Projetos/GTA_Mobile/police-mod-szk/src/policeMod/ai/AICop.cpp -o 'C:\\PC\\Projetos\\GTA_Mobile\\police-mod-szk/obj/local/armeabi-v7a/objs/PoliceModSZK/src/policeMod/ai/AICop.o'",
+        "directory": "C:\\PC\\Projetos\\GTA_Mobile\\police-mod-szk",
+        "file": "C:/PC/Projetos/GTA_Mobile/police-mod-szk/src/policeMod/ai/AICop.cpp",
+        "output": "C:\\PC\\Projetos\\GTA_Mobile\\police-mod-szk/obj/local/armeabi-v7a/objs/PoliceModSZK/src/policeMod/ai/AICop.o"
+    },
+    {
+        "command": "C:/android-ndk-r27d/build/../toolchains/llvm/prebuilt/windows-x86_64/bin/clang++.exe -target armv7-none-linux-androideabi24 -fdata-sections -ffunction-sections -fstack-protector-strong -funwind-tables -no-canonical-prefixes --sysroot C:/android-ndk-r27d/build/../toolchains/llvm/prebuilt/windows-x86_64/sysroot -g -Wno-invalid-command-line-argument -Wno-unused-command-line-argument -D_FORTIFY_SOURCE=2 -fno-exceptions -fno-rtti -fpic -mthumb -Oz -DNDEBUG -IC:/PC/Projetos/GTA_Mobile/police-mod-szk -std=c++17 -fexceptions -DANDROID -Wformat -Werror=format-security -O2 -DNDEBUG -std=c++17 -c C:/PC/Projetos/GTA_Mobile/police-mod-szk/src/policeMod/ai/AICriminal.cpp -o 'C:\\PC\\Projetos\\GTA_Mobile\\police-mod-szk/obj/local/armeabi-v7a/objs/PoliceModSZK/src/policeMod/ai/AICriminal.o'",
+        "directory": "C:\\PC\\Projetos\\GTA_Mobile\\police-mod-szk",
+        "file": "C:/PC/Projetos/GTA_Mobile/police-mod-szk/src/policeMod/ai/AICriminal.cpp",
+        "output": "C:\\PC\\Projetos\\GTA_Mobile\\police-mod-szk/obj/local/armeabi-v7a/objs/PoliceModSZK/src/policeMod/ai/AICriminal.o"
+    },
+    {
+        "command": "C:/android-ndk-r27d/build/../toolchains/llvm/prebuilt/windows-x86_64/bin/clang++.exe -target armv7-none-linux-androideabi24 -fdata-sections -ffunction-sections -fstack-protector-strong -funwind-tables -no-canonical-prefixes --sysroot C:/android-ndk-r27d/build/../toolchains/llvm/prebuilt/windows-x86_64/sysroot -g -Wno-invalid-command-line-argument -Wno-unused-command-line-argument -D_FORTIFY_SOURCE=2 -fno-exceptions -fno-rtti -fpic -mthumb -Oz -DNDEBUG -IC:/PC/Projetos/GTA_Mobile/police-mod-szk -std=c++17 -fexceptions -DANDROID -Wformat -Werror=format-security -O2 -DNDEBUG -std=c++17 -c C:/PC/Projetos/GTA_Mobile/police-mod-szk/src/policeMod/ai/AIHelicopterCop.cpp -o 'C:\\PC\\Projetos\\GTA_Mobile\\police-mod-szk/obj/local/armeabi-v7a/objs/PoliceModSZK/src/policeMod/ai/AIHelicopterCop.o'",
+        "directory": "C:\\PC\\Projetos\\GTA_Mobile\\police-mod-szk",
+        "file": "C:/PC/Projetos/GTA_Mobile/police-mod-szk/src/policeMod/ai/AIHelicopterCop.cpp",
+        "output": "C:\\PC\\Projetos\\GTA_Mobile\\police-mod-szk/obj/local/armeabi-v7a/objs/PoliceModSZK/src/policeMod/ai/AIHelicopterCop.o"
+    },
+    {
+        "command": "C:/android-ndk-r27d/build/../toolchains/llvm/prebuilt/windows-x86_64/bin/clang++.exe -target armv7-none-linux-androideabi24 -fdata-sections -ffunction-sections -fstack-protector-strong -funwind-tables -no-canonical-prefixes --sysroot C:/android-ndk-r27d/build/../toolchains/llvm/prebuilt/windows-x86_64/sysroot -g -Wno-invalid-command-line-argument -Wno-unused-command-line-argument -D_FORTIFY_SOURCE=2 -fno-exceptions -fno-rtti -fpic -mthumb -Oz -DNDEBUG -IC:/PC/Projetos/GTA_Mobile/police-mod-szk -std=c++17 -fexceptions -DANDROID -Wformat -Werror=format-security -O2 -DNDEBUG -std=c++17 -c C:/PC/Projetos/GTA_Mobile/police-mod-szk/src/policeMod/ai/AIMedic.cpp -o 'C:\\PC\\Projetos\\GTA_Mobile\\police-mod-szk/obj/local/armeabi-v7a/objs/PoliceModSZK/src/policeMod/ai/AIMedic.o'",
+        "directory": "C:\\PC\\Projetos\\GTA_Mobile\\police-mod-szk",
+        "file": "C:/PC/Projetos/GTA_Mobile/police-mod-szk/src/policeMod/ai/AIMedic.cpp",
+        "output": "C:\\PC\\Projetos\\GTA_Mobile\\police-mod-szk/obj/local/armeabi-v7a/objs/PoliceModSZK/src/policeMod/ai/AIMedic.o"
+    },
+    {
+        "command": "C:/android-ndk-r27d/build/../toolchains/llvm/prebuilt/windows-x86_64/bin/clang++.exe -target armv7-none-linux-androideabi24 -fdata-sections -ffunction-sections -fstack-protector-strong -funwind-tables -no-canonical-prefixes --sysroot C:/android-ndk-r27d/build/../toolchains/llvm/prebuilt/windows-x86_64/sysroot -g -Wno-invalid-command-line-argument -Wno-unused-command-line-argument -D_FORTIFY_SOURCE=2 -fno-exceptions -fno-rtti -fpic -mthumb -Oz -DNDEBUG -IC:/PC/Projetos/GTA_Mobile/police-mod-szk -std=c++17 -fexceptions -DANDROID -Wformat -Werror=format-security -O2 -DNDEBUG -std=c++17 -c C:/PC/Projetos/GTA_Mobile/police-mod-szk/src/policeMod/ai/AIPed.cpp -o 'C:\\PC\\Projetos\\GTA_Mobile\\police-mod-szk/obj/local/armeabi-v7a/objs/PoliceModSZK/src/policeMod/ai/AIPed.o'",
+        "directory": "C:\\PC\\Projetos\\GTA_Mobile\\police-mod-szk",
+        "file": "C:/PC/Projetos/GTA_Mobile/police-mod-szk/src/policeMod/ai/AIPed.cpp",
+        "output": "C:\\PC\\Projetos\\GTA_Mobile\\police-mod-szk/obj/local/armeabi-v7a/objs/PoliceModSZK/src/policeMod/ai/AIPed.o"
+    },
+    {
+        "command": "C:/android-ndk-r27d/build/../toolchains/llvm/prebuilt/windows-x86_64/bin/clang++.exe -target armv7-none-linux-androideabi24 -fdata-sections -ffunction-sections -fstack-protector-strong -funwind-tables -no-canonical-prefixes --sysroot C:/android-ndk-r27d/build/../toolchains/llvm/prebuilt/windows-x86_64/sysroot -g -Wno-invalid-command-line-argument -Wno-unused-command-line-argument -D_FORTIFY_SOURCE=2 -fno-exceptions -fno-rtti -fpic -mthumb -Oz -DNDEBUG -IC:/PC/Projetos/GTA_Mobile/police-mod-szk -std=c++17 -fexceptions -DANDROID -Wformat -Werror=format-security -O2 -DNDEBUG -std=c++17 -c C:/PC/Projetos/GTA_Mobile/police-mod-szk/src/policeMod/ai/AIVehicle.cpp -o 'C:\\PC\\Projetos\\GTA_Mobile\\police-mod-szk/obj/local/armeabi-v7a/objs/PoliceModSZK/src/policeMod/ai/AIVehicle.o'",
+        "directory": "C:\\PC\\Projetos\\GTA_Mobile\\police-mod-szk",
+        "file": "C:/PC/Projetos/GTA_Mobile/police-mod-szk/src/policeMod/ai/AIVehicle.cpp",
+        "output": "C:\\PC\\Projetos\\GTA_Mobile\\police-mod-szk/obj/local/armeabi-v7a/objs/PoliceModSZK/src/policeMod/ai/AIVehicle.o"
+    },
+    {
+        "command": "C:/android-ndk-r27d/build/../toolchains/llvm/prebuilt/windows-x86_64/bin/clang++.exe -target armv7-none-linux-androideabi24 -fdata-sections -ffunction-sections -fstack-protector-strong -funwind-tables -no-canonical-prefixes --sysroot C:/android-ndk-r27d/build/../toolchains/llvm/prebuilt/windows-x86_64/sysroot -g -Wno-invalid-command-line-argument -Wno-unused-command-line-argument -D_FORTIFY_SOURCE=2 -fno-exceptions -fno-rtti -fpic -mthumb -Oz -DNDEBUG -IC:/PC/Projetos/GTA_Mobile/police-mod-szk -std=c++17 -fexceptions -DANDROID -Wformat -Werror=format-security -O2 -DNDEBUG -std=c++17 -c C:/PC/Projetos/GTA_Mobile/police-mod-szk/src/policeMod/audio/AudioCollection.cpp -o 'C:\\PC\\Projetos\\GTA_Mobile\\police-mod-szk/obj/local/armeabi-v7a/objs/PoliceModSZK/src/policeMod/audio/AudioCollection.o'",
+        "directory": "C:\\PC\\Projetos\\GTA_Mobile\\police-mod-szk",
+        "file": "C:/PC/Projetos/GTA_Mobile/police-mod-szk/src/policeMod/audio/AudioCollection.cpp",
+        "output": "C:\\PC\\Projetos\\GTA_Mobile\\police-mod-szk/obj/local/armeabi-v7a/objs/PoliceModSZK/src/policeMod/audio/AudioCollection.o"
+    },
+    {
+        "command": "C:/android-ndk-r27d/build/../toolchains/llvm/prebuilt/windows-x86_64/bin/clang++.exe -target armv7-none-linux-androideabi24 -fdata-sections -ffunction-sections -fstack-protector-strong -funwind-tables -no-canonical-prefixes --sysroot C:/android-ndk-r27d/build/../toolchains/llvm/prebuilt/windows-x86_64/sysroot -g -Wno-invalid-command-line-argument -Wno-unused-command-line-argument -D_FORTIFY_SOURCE=2 -fno-exceptions -fno-rtti -fpic -mthumb -Oz -DNDEBUG -IC:/PC/Projetos/GTA_Mobile/police-mod-szk -std=c++17 -fexceptions -DANDROID -Wformat -Werror=format-security -O2 -DNDEBUG -std=c++17 -c C:/PC/Projetos/GTA_Mobile/police-mod-szk/src/policeMod/audio/AudioSequence.cpp -o 'C:\\PC\\Projetos\\GTA_Mobile\\police-mod-szk/obj/local/armeabi-v7a/objs/PoliceModSZK/src/policeMod/audio/AudioSequence.o'",
+        "directory": "C:\\PC\\Projetos\\GTA_Mobile\\police-mod-szk",
+        "file": "C:/PC/Projetos/GTA_Mobile/police-mod-szk/src/policeMod/audio/AudioSequence.cpp",
+        "output": "C:\\PC\\Projetos\\GTA_Mobile\\police-mod-szk/obj/local/armeabi-v7a/objs/PoliceModSZK/src/policeMod/audio/AudioSequence.o"
+    },
+    {
+        "command": "C:/android-ndk-r27d/build/../toolchains/llvm/prebuilt/windows-x86_64/bin/clang++.exe -target armv7-none-linux-androideabi24 -fdata-sections -ffunction-sections -fstack-protector-strong -funwind-tables -no-canonical-prefixes --sysroot C:/android-ndk-r27d/build/../toolchains/llvm/prebuilt/windows-x86_64/sysroot -g -Wno-invalid-command-line-argument -Wno-unused-command-line-argument -D_FORTIFY_SOURCE=2 -fno-exceptions -fno-rtti -fpic -mthumb -Oz -DNDEBUG -IC:/PC/Projetos/GTA_Mobile/police-mod-szk -std=c++17 -fexceptions -DANDROID -Wformat -Werror=format-security -O2 -DNDEBUG -std=c++17 -c C:/PC/Projetos/GTA_Mobile/police-mod-szk/src/policeMod/audio/AudioVariationGroup.cpp -o 'C:\\PC\\Projetos\\GTA_Mobile\\police-mod-szk/obj/local/armeabi-v7a/objs/PoliceModSZK/src/policeMod/audio/AudioVariationGroup.o'",
+        "directory": "C:\\PC\\Projetos\\GTA_Mobile\\police-mod-szk",
+        "file": "C:/PC/Projetos/GTA_Mobile/police-mod-szk/src/policeMod/audio/AudioVariationGroup.cpp",
+        "output": "C:\\PC\\Projetos\\GTA_Mobile\\police-mod-szk/obj/local/armeabi-v7a/objs/PoliceModSZK/src/policeMod/audio/AudioVariationGroup.o"
+    },
+    {
+        "command": "C:/android-ndk-r27d/build/../toolchains/llvm/prebuilt/windows-x86_64/bin/clang++.exe -target armv7-none-linux-androideabi24 -fdata-sections -ffunction-sections -fstack-protector-strong -funwind-tables -no-canonical-prefixes --sysroot C:/android-ndk-r27d/build/../toolchains/llvm/prebuilt/windows-x86_64/sysroot -g -Wno-invalid-command-line-argument -Wno-unused-command-line-argument -D_FORTIFY_SOURCE=2 -fno-exceptions -fno-rtti -fpic -mthumb -Oz -DNDEBUG -IC:/PC/Projetos/GTA_Mobile/police-mod-szk -std=c++17 -fexceptions -DANDROID -Wformat -Werror=format-security -O2 -DNDEBUG -std=c++17 -c C:/PC/Projetos/GTA_Mobile/police-mod-szk/src/policeMod/callouts/ATMCallout.cpp -o 'C:\\PC\\Projetos\\GTA_Mobile\\police-mod-szk/obj/local/armeabi-v7a/objs/PoliceModSZK/src/policeMod/callouts/ATMCallout.o'",
+        "directory": "C:\\PC\\Projetos\\GTA_Mobile\\police-mod-szk",
+        "file": "C:/PC/Projetos/GTA_Mobile/police-mod-szk/src/policeMod/callouts/ATMCallout.cpp",
+        "output": "C:\\PC\\Projetos\\GTA_Mobile\\police-mod-szk/obj/local/armeabi-v7a/objs/PoliceModSZK/src/policeMod/callouts/ATMCallout.o"
+    },
+    {
+        "command": "C:/android-ndk-r27d/build/../toolchains/llvm/prebuilt/windows-x86_64/bin/clang++.exe -target armv7-none-linux-androideabi24 -fdata-sections -ffunction-sections -fstack-protector-strong -funwind-tables -no-canonical-prefixes --sysroot C:/android-ndk-r27d/build/../toolchains/llvm/prebuilt/windows-x86_64/sysroot -g -Wno-invalid-command-line-argument -Wno-unused-command-line-argument -D_FORTIFY_SOURCE=2 -fno-exceptions -fno-rtti -fpic -mthumb -Oz -DNDEBUG -IC:/PC/Projetos/GTA_Mobile/police-mod-szk -std=c++17 -fexceptions -DANDROID -Wformat -Werror=format-security -O2 -DNDEBUG -std=c++17 -c C:/PC/Projetos/GTA_Mobile/police-mod-szk/src/policeMod/callouts/DrugDealerCallout.cpp -o 'C:\\PC\\Projetos\\GTA_Mobile\\police-mod-szk/obj/local/armeabi-v7a/objs/PoliceModSZK/src/policeMod/callouts/DrugDealerCallout.o'",
+        "directory": "C:\\PC\\Projetos\\GTA_Mobile\\police-mod-szk",
+        "file": "C:/PC/Projetos/GTA_Mobile/police-mod-szk/src/policeMod/callouts/DrugDealerCallout.cpp",
+        "output": "C:\\PC\\Projetos\\GTA_Mobile\\police-mod-szk/obj/local/armeabi-v7a/objs/PoliceModSZK/src/policeMod/callouts/DrugDealerCallout.o"
+    },
+    {
+        "command": "C:/android-ndk-r27d/build/../toolchains/llvm/prebuilt/windows-x86_64/bin/clang++.exe -target armv7-none-linux-androideabi24 -fdata-sections -ffunction-sections -fstack-protector-strong -funwind-tables -no-canonical-prefixes --sysroot C:/android-ndk-r27d/build/../toolchains/llvm/prebuilt/windows-x86_64/sysroot -g -Wno-invalid-command-line-argument -Wno-unused-command-line-argument -D_FORTIFY_SOURCE=2 -fno-exceptions -fno-rtti -fpic -mthumb -Oz -DNDEBUG -IC:/PC/Projetos/GTA_Mobile/police-mod-szk -std=c++17 -fexceptions -DANDROID -Wformat -Werror=format-security -O2 -DNDEBUG -std=c++17 -c C:/PC/Projetos/GTA_Mobile/police-mod-szk/src/policeMod/callouts/StolenCarCallout.cpp -o 'C:\\PC\\Projetos\\GTA_Mobile\\police-mod-szk/obj/local/armeabi-v7a/objs/PoliceModSZK/src/policeMod/callouts/StolenCarCallout.o'",
+        "directory": "C:\\PC\\Projetos\\GTA_Mobile\\police-mod-szk",
+        "file": "C:/PC/Projetos/GTA_Mobile/police-mod-szk/src/policeMod/callouts/StolenCarCallout.cpp",
+        "output": "C:\\PC\\Projetos\\GTA_Mobile\\police-mod-szk/obj/local/armeabi-v7a/objs/PoliceModSZK/src/policeMod/callouts/StolenCarCallout.o"
+    },
+    {
+        "command": "C:/android-ndk-r27d/build/../toolchains/llvm/prebuilt/windows-x86_64/bin/clang++.exe -target armv7-none-linux-androideabi24 -fdata-sections -ffunction-sections -fstack-protector-strong -funwind-tables -no-canonical-prefixes --sysroot C:/android-ndk-r27d/build/../toolchains/llvm/prebuilt/windows-x86_64/sysroot -g -Wno-invalid-command-line-argument -Wno-unused-command-line-argument -D_FORTIFY_SOURCE=2 -fno-exceptions -fno-rtti -fpic -mthumb -Oz -DNDEBUG -IC:/PC/Projetos/GTA_Mobile/police-mod-szk -std=c++17 -fexceptions -DANDROID -Wformat -Werror=format-security -O2 -DNDEBUG -std=c++17 -c C:/PC/Projetos/GTA_Mobile/police-mod-szk/src/policeMod/callouts/TestCallout.cpp -o 'C:\\PC\\Projetos\\GTA_Mobile\\police-mod-szk/obj/local/armeabi-v7a/objs/PoliceModSZK/src/policeMod/callouts/TestCallout.o'",
+        "directory": "C:\\PC\\Projetos\\GTA_Mobile\\police-mod-szk",
+        "file": "C:/PC/Projetos/GTA_Mobile/police-mod-szk/src/policeMod/callouts/TestCallout.cpp",
+        "output": "C:\\PC\\Projetos\\GTA_Mobile\\police-mod-szk/obj/local/armeabi-v7a/objs/PoliceModSZK/src/policeMod/callouts/TestCallout.o"
+    },
+    {
+        "command": "C:/android-ndk-r27d/build/../toolchains/llvm/prebuilt/windows-x86_64/bin/clang++.exe -target armv7-none-linux-androideabi24 -fdata-sections -ffunction-sections -fstack-protector-strong -funwind-tables -no-canonical-prefixes --sysroot C:/android-ndk-r27d/build/../toolchains/llvm/prebuilt/windows-x86_64/sysroot -g -Wno-invalid-command-line-argument -Wno-unused-command-line-argument -D_FORTIFY_SOURCE=2 -fno-exceptions -fno-rtti -fpic -mthumb -Oz -DNDEBUG -IC:/PC/Projetos/GTA_Mobile/police-mod-szk -std=c++17 -fexceptions -DANDROID -Wformat -Werror=format-security -O2 -DNDEBUG -std=c++17 -c C:/PC/Projetos/GTA_Mobile/police-mod-szk/src/policeMod/inventory/Inventory.cpp -o 'C:\\PC\\Projetos\\GTA_Mobile\\police-mod-szk/obj/local/armeabi-v7a/objs/PoliceModSZK/src/policeMod/inventory/Inventory.o'",
+        "directory": "C:\\PC\\Projetos\\GTA_Mobile\\police-mod-szk",
+        "file": "C:/PC/Projetos/GTA_Mobile/police-mod-szk/src/policeMod/inventory/Inventory.cpp",
+        "output": "C:\\PC\\Projetos\\GTA_Mobile\\police-mod-szk/obj/local/armeabi-v7a/objs/PoliceModSZK/src/policeMod/inventory/Inventory.o"
+    },
+    {
+        "command": "C:/android-ndk-r27d/build/../toolchains/llvm/prebuilt/windows-x86_64/bin/clang++.exe -target armv7-none-linux-androideabi24 -fdata-sections -ffunction-sections -fstack-protector-strong -funwind-tables -no-canonical-prefixes --sysroot C:/android-ndk-r27d/build/../toolchains/llvm/prebuilt/windows-x86_64/sysroot -g -Wno-invalid-command-line-argument -Wno-unused-command-line-argument -D_FORTIFY_SOURCE=2 -fno-exceptions -fno-rtti -fpic -mthumb -Oz -DNDEBUG -IC:/PC/Projetos/GTA_Mobile/police-mod-szk -std=c++17 -fexceptions -DANDROID -Wformat -Werror=format-security -O2 -DNDEBUG -std=c++17 -c C:/PC/Projetos/GTA_Mobile/police-mod-szk/src/policeMod/inventory/InventoryItemManager.cpp -o 'C:\\PC\\Projetos\\GTA_Mobile\\police-mod-szk/obj/local/armeabi-v7a/objs/PoliceModSZK/src/policeMod/inventory/InventoryItemManager.o'",
+        "directory": "C:\\PC\\Projetos\\GTA_Mobile\\police-mod-szk",
+        "file": "C:/PC/Projetos/GTA_Mobile/police-mod-szk/src/policeMod/inventory/InventoryItemManager.cpp",
+        "output": "C:\\PC\\Projetos\\GTA_Mobile\\police-mod-szk/obj/local/armeabi-v7a/objs/PoliceModSZK/src/policeMod/inventory/InventoryItemManager.o"
+    },
+    {
+        "command": "C:/android-ndk-r27d/build/../toolchains/llvm/prebuilt/windows-x86_64/bin/clang++.exe -target armv7-none-linux-androideabi24 -fdata-sections -ffunction-sections -fstack-protector-strong -funwind-tables -no-canonical-prefixes --sysroot C:/android-ndk-r27d/build/../toolchains/llvm/prebuilt/windows-x86_64/sysroot -g -Wno-invalid-command-line-argument -Wno-unused-command-line-argument -D_FORTIFY_SOURCE=2 -fno-exceptions -fno-rtti -fpic -mthumb -Oz -DNDEBUG -IC:/PC/Projetos/GTA_Mobile/police-mod-szk -std=c++17 -fexceptions -DANDROID -Wformat -Werror=format-security -O2 -DNDEBUG -std=c++17 -c C:/PC/Projetos/GTA_Mobile/police-mod-szk/src/policeMod/opcodeCaller/CleoFunctions.cpp -o 'C:\\PC\\Projetos\\GTA_Mobile\\police-mod-szk/obj/local/armeabi-v7a/objs/PoliceModSZK/src/policeMod/opcodeCaller/CleoFunctions.o'",
+        "directory": "C:\\PC\\Projetos\\GTA_Mobile\\police-mod-szk",
+        "file": "C:/PC/Projetos/GTA_Mobile/police-mod-szk/src/policeMod/opcodeCaller/CleoFunctions.cpp",
+        "output": "C:\\PC\\Projetos\\GTA_Mobile\\police-mod-szk/obj/local/armeabi-v7a/objs/PoliceModSZK/src/policeMod/opcodeCaller/CleoFunctions.o"
+    },
+    {
+        "command": "C:/android-ndk-r27d/build/../toolchains/llvm/prebuilt/windows-x86_64/bin/clang++.exe -target aarch64-none-linux-android24 -fdata-sections -ffunction-sections -fstack-protector-strong -funwind-tables -no-canonical-prefixes --sysroot C:/android-ndk-r27d/build/../toolchains/llvm/prebuilt/windows-x86_64/sysroot -g -Wno-invalid-command-line-argument -Wno-unused-command-line-argument -D_FORTIFY_SOURCE=2 -fno-exceptions -fno-rtti -fpic -O2 -DNDEBUG -IC:/PC/Projetos/GTA_Mobile/police-mod-szk -std=c++17 -fexceptions -DANDROID -Wformat -Werror=format-security -O2 -DNDEBUG -std=c++17 -c C:/PC/Projetos/GTA_Mobile/police-mod-szk/mod/config.cpp -o 'C:\\PC\\Projetos\\GTA_Mobile\\police-mod-szk/obj/local/arm64-v8a/objs/PoliceModSZK_64/mod/config.o'",
+        "directory": "C:\\PC\\Projetos\\GTA_Mobile\\police-mod-szk",
+        "file": "C:/PC/Projetos/GTA_Mobile/police-mod-szk/mod/config.cpp",
+        "output": "C:\\PC\\Projetos\\GTA_Mobile\\police-mod-szk/obj/local/arm64-v8a/objs/PoliceModSZK_64/mod/config.o"
+    },
+    {
+        "command": "C:/android-ndk-r27d/build/../toolchains/llvm/prebuilt/windows-x86_64/bin/clang++.exe -target aarch64-none-linux-android24 -fdata-sections -ffunction-sections -fstack-protector-strong -funwind-tables -no-canonical-prefixes --sysroot C:/android-ndk-r27d/build/../toolchains/llvm/prebuilt/windows-x86_64/sysroot -g -Wno-invalid-command-line-argument -Wno-unused-command-line-argument -D_FORTIFY_SOURCE=2 -fno-exceptions -fno-rtti -fpic -O2 -DNDEBUG -IC:/PC/Projetos/GTA_Mobile/police-mod-szk -std=c++17 -fexceptions -DANDROID -Wformat -Werror=format-security -O2 -DNDEBUG -std=c++17 -c C:/PC/Projetos/GTA_Mobile/police-mod-szk/mod/logger.cpp -o 'C:\\PC\\Projetos\\GTA_Mobile\\police-mod-szk/obj/local/arm64-v8a/objs/PoliceModSZK_64/mod/logger.o'",
+        "directory": "C:\\PC\\Projetos\\GTA_Mobile\\police-mod-szk",
+        "file": "C:/PC/Projetos/GTA_Mobile/police-mod-szk/mod/logger.cpp",
+        "output": "C:\\PC\\Projetos\\GTA_Mobile\\police-mod-szk/obj/local/arm64-v8a/objs/PoliceModSZK_64/mod/logger.o"
+    },
+    {
+        "command": "C:/android-ndk-r27d/build/../toolchains/llvm/prebuilt/windows-x86_64/bin/clang++.exe -target aarch64-none-linux-android24 -fdata-sections -ffunction-sections -fstack-protector-strong -funwind-tables -no-canonical-prefixes --sysroot C:/android-ndk-r27d/build/../toolchains/llvm/prebuilt/windows-x86_64/sysroot -g -Wno-invalid-command-line-argument -Wno-unused-command-line-argument -D_FORTIFY_SOURCE=2 -fno-exceptions -fno-rtti -fpic -O2 -DNDEBUG -IC:/PC/Projetos/GTA_Mobile/police-mod-szk -std=c++17 -fexceptions -DANDROID -Wformat -Werror=format-security -O2 -DNDEBUG -std=c++17 -c C:/PC/Projetos/GTA_Mobile/police-mod-szk/src/logHelper.cpp -o 'C:\\PC\\Projetos\\GTA_Mobile\\police-mod-szk/obj/local/arm64-v8a/objs/PoliceModSZK_64/src/logHelper.o'",
+        "directory": "C:\\PC\\Projetos\\GTA_Mobile\\police-mod-szk",
+        "file": "C:/PC/Projetos/GTA_Mobile/police-mod-szk/src/logHelper.cpp",
+        "output": "C:\\PC\\Projetos\\GTA_Mobile\\police-mod-szk/obj/local/arm64-v8a/objs/PoliceModSZK_64/src/logHelper.o"
+    },
+    {
+        "command": "C:/android-ndk-r27d/build/../toolchains/llvm/prebuilt/windows-x86_64/bin/clang++.exe -target aarch64-none-linux-android24 -fdata-sections -ffunction-sections -fstack-protector-strong -funwind-tables -no-canonical-prefixes --sysroot C:/android-ndk-r27d/build/../toolchains/llvm/prebuilt/windows-x86_64/sysroot -g -Wno-invalid-command-line-argument -Wno-unused-command-line-argument -D_FORTIFY_SOURCE=2 -fno-exceptions -fno-rtti -fpic -O2 -DNDEBUG -IC:/PC/Projetos/GTA_Mobile/police-mod-szk -std=c++17 -fexceptions -DANDROID -Wformat -Werror=format-security -O2 -DNDEBUG -std=c++17 -c C:/PC/Projetos/GTA_Mobile/police-mod-szk/src/main.cpp -o 'C:\\PC\\Projetos\\GTA_Mobile\\police-mod-szk/obj/local/arm64-v8a/objs/PoliceModSZK_64/src/main.o'",
+        "directory": "C:\\PC\\Projetos\\GTA_Mobile\\police-mod-szk",
+        "file": "C:/PC/Projetos/GTA_Mobile/police-mod-szk/src/main.cpp",
+        "output": "C:\\PC\\Projetos\\GTA_Mobile\\police-mod-szk/obj/local/arm64-v8a/objs/PoliceModSZK_64/src/main.o"
+    },
+    {
+        "command": "C:/android-ndk-r27d/build/../toolchains/llvm/prebuilt/windows-x86_64/bin/clang++.exe -target aarch64-none-linux-android24 -fdata-sections -ffunction-sections -fstack-protector-strong -funwind-tables -no-canonical-prefixes --sysroot C:/android-ndk-r27d/build/../toolchains/llvm/prebuilt/windows-x86_64/sysroot -g -Wno-invalid-command-line-argument -Wno-unused-command-line-argument -D_FORTIFY_SOURCE=2 -fno-exceptions -fno-rtti -fpic -O2 -DNDEBUG -IC:/PC/Projetos/GTA_Mobile/police-mod-szk -std=c++17 -fexceptions -DANDROID -Wformat -Werror=format-security -O2 -DNDEBUG -std=c++17 -c C:/PC/Projetos/GTA_Mobile/police-mod-szk/src/policeMod/ATMSystem.cpp -o 'C:\\PC\\Projetos\\GTA_Mobile\\police-mod-szk/obj/local/arm64-v8a/objs/PoliceModSZK_64/src/policeMod/ATMSystem.o'",
+        "directory": "C:\\PC\\Projetos\\GTA_Mobile\\police-mod-szk",
+        "file": "C:/PC/Projetos/GTA_Mobile/police-mod-szk/src/policeMod/ATMSystem.cpp",
+        "output": "C:\\PC\\Projetos\\GTA_Mobile\\police-mod-szk/obj/local/arm64-v8a/objs/PoliceModSZK_64/src/policeMod/ATMSystem.o"
+    },
+    {
+        "command": "C:/android-ndk-r27d/build/../toolchains/llvm/prebuilt/windows-x86_64/bin/clang++.exe -target aarch64-none-linux-android24 -fdata-sections -ffunction-sections -fstack-protector-strong -funwind-tables -no-canonical-prefixes --sysroot C:/android-ndk-r27d/build/../toolchains/llvm/prebuilt/windows-x86_64/sysroot -g -Wno-invalid-command-line-argument -Wno-unused-command-line-argument -D_FORTIFY_SOURCE=2 -fno-exceptions -fno-rtti -fpic -O2 -DNDEBUG -IC:/PC/Projetos/GTA_Mobile/police-mod-szk -std=c++17 -fexceptions -DANDROID -Wformat -Werror=format-security -O2 -DNDEBUG -std=c++17 -c C:/PC/Projetos/GTA_Mobile/police-mod-szk/src/policeMod/BackupUnits.cpp -o 'C:\\PC\\Projetos\\GTA_Mobile\\police-mod-szk/obj/local/arm64-v8a/objs/PoliceModSZK_64/src/policeMod/BackupUnits.o'",
+        "directory": "C:\\PC\\Projetos\\GTA_Mobile\\police-mod-szk",
+        "file": "C:/PC/Projetos/GTA_Mobile/police-mod-szk/src/policeMod/BackupUnits.cpp",
+        "output": "C:\\PC\\Projetos\\GTA_Mobile\\police-mod-szk/obj/local/arm64-v8a/objs/PoliceModSZK_64/src/policeMod/BackupUnits.o"
+    },
+    {
+        "command": "C:/android-ndk-r27d/build/../toolchains/llvm/prebuilt/windows-x86_64/bin/clang++.exe -target aarch64-none-linux-android24 -fdata-sections -ffunction-sections -fstack-protector-strong -funwind-tables -no-canonical-prefixes --sysroot C:/android-ndk-r27d/build/../toolchains/llvm/prebuilt/windows-x86_64/sysroot -g -Wno-invalid-command-line-argument -Wno-unused-command-line-argument -D_FORTIFY_SOURCE=2 -fno-exceptions -fno-rtti -fpic -O2 -DNDEBUG -IC:/PC/Projetos/GTA_Mobile/police-mod-szk -std=c++17 -fexceptions -DANDROID -Wformat -Werror=format-security -O2 -DNDEBUG -std=c++17 -c C:/PC/Projetos/GTA_Mobile/police-mod-szk/src/policeMod/Biqueiras.cpp -o 'C:\\PC\\Projetos\\GTA_Mobile\\police-mod-szk/obj/local/arm64-v8a/objs/PoliceModSZK_64/src/policeMod/Biqueiras.o'",
+        "directory": "C:\\PC\\Projetos\\GTA_Mobile\\police-mod-szk",
+        "file": "C:/PC/Projetos/GTA_Mobile/police-mod-szk/src/policeMod/Biqueiras.cpp",
+        "output": "C:\\PC\\Projetos\\GTA_Mobile\\police-mod-szk/obj/local/arm64-v8a/objs/PoliceModSZK_64/src/policeMod/Biqueiras.o"
+    },
+    {
+        "command": "C:/android-ndk-r27d/build/../toolchains/llvm/prebuilt/windows-x86_64/bin/clang++.exe -target aarch64-none-linux-android24 -fdata-sections -ffunction-sections -fstack-protector-strong -funwind-tables -no-canonical-prefixes --sysroot C:/android-ndk-r27d/build/../toolchains/llvm/prebuilt/windows-x86_64/sysroot -g -Wno-invalid-command-line-argument -Wno-unused-command-line-argument -D_FORTIFY_SOURCE=2 -fno-exceptions -fno-rtti -fpic -O2 -DNDEBUG -IC:/PC/Projetos/GTA_Mobile/police-mod-szk -std=c++17 -fexceptions -DANDROID -Wformat -Werror=format-security -O2 -DNDEBUG -std=c++17 -c C:/PC/Projetos/GTA_Mobile/police-mod-szk/src/policeMod/BottomMessage.cpp -o 'C:\\PC\\Projetos\\GTA_Mobile\\police-mod-szk/obj/local/arm64-v8a/objs/PoliceModSZK_64/src/policeMod/BottomMessage.o'",
+        "directory": "C:\\PC\\Projetos\\GTA_Mobile\\police-mod-szk",
+        "file": "C:/PC/Projetos/GTA_Mobile/police-mod-szk/src/policeMod/BottomMessage.cpp",
+        "output": "C:\\PC\\Projetos\\GTA_Mobile\\police-mod-szk/obj/local/arm64-v8a/objs/PoliceModSZK_64/src/policeMod/BottomMessage.o"
+    },
+    {
+        "command": "C:/android-ndk-r27d/build/../toolchains/llvm/prebuilt/windows-x86_64/bin/clang++.exe -target aarch64-none-linux-android24 -fdata-sections -ffunction-sections -fstack-protector-strong -funwind-tables -no-canonical-prefixes --sysroot C:/android-ndk-r27d/build/../toolchains/llvm/prebuilt/windows-x86_64/sysroot -g -Wno-invalid-command-line-argument -Wno-unused-command-line-argument -D_FORTIFY_SOURCE=2 -fno-exceptions -fno-rtti -fpic -O2 -DNDEBUG -IC:/PC/Projetos/GTA_Mobile/police-mod-szk -std=c++17 -fexceptions -DANDROID -Wformat -Werror=format-security -O2 -DNDEBUG -std=c++17 -c C:/PC/Projetos/GTA_Mobile/police-mod-szk/src/policeMod/CNHWindow.cpp -o 'C:\\PC\\Projetos\\GTA_Mobile\\police-mod-szk/obj/local/arm64-v8a/objs/PoliceModSZK_64/src/policeMod/CNHWindow.o'",
+        "directory": "C:\\PC\\Projetos\\GTA_Mobile\\police-mod-szk",
+        "file": "C:/PC/Projetos/GTA_Mobile/police-mod-szk/src/policeMod/CNHWindow.cpp",
+        "output": "C:\\PC\\Projetos\\GTA_Mobile\\police-mod-szk/obj/local/arm64-v8a/objs/PoliceModSZK_64/src/policeMod/CNHWindow.o"
+    },
+    {
+        "command": "C:/android-ndk-r27d/build/../toolchains/llvm/prebuilt/windows-x86_64/bin/clang++.exe -target aarch64-none-linux-android24 -fdata-sections -ffunction-sections -fstack-protector-strong -funwind-tables -no-canonical-prefixes --sysroot C:/android-ndk-r27d/build/../toolchains/llvm/prebuilt/windows-x86_64/sysroot -g -Wno-invalid-command-line-argument -Wno-unused-command-line-argument -D_FORTIFY_SOURCE=2 -fno-exceptions -fno-rtti -fpic -O2 -DNDEBUG -IC:/PC/Projetos/GTA_Mobile/police-mod-szk -std=c++17 -fexceptions -DANDROID -Wformat -Werror=format-security -O2 -DNDEBUG -std=c++17 -c C:/PC/Projetos/GTA_Mobile/police-mod-szk/src/policeMod/Callouts.cpp -o 'C:\\PC\\Projetos\\GTA_Mobile\\police-mod-szk/obj/local/arm64-v8a/objs/PoliceModSZK_64/src/policeMod/Callouts.o'",
+        "directory": "C:\\PC\\Projetos\\GTA_Mobile\\police-mod-szk",
+        "file": "C:/PC/Projetos/GTA_Mobile/police-mod-szk/src/policeMod/Callouts.cpp",
+        "output": "C:\\PC\\Projetos\\GTA_Mobile\\police-mod-szk/obj/local/arm64-v8a/objs/PoliceModSZK_64/src/policeMod/Callouts.o"
+    },
+    {
+        "command": "C:/android-ndk-r27d/build/../toolchains/llvm/prebuilt/windows-x86_64/bin/clang++.exe -target aarch64-none-linux-android24 -fdata-sections -ffunction-sections -fstack-protector-strong -funwind-tables -no-canonical-prefixes --sysroot C:/android-ndk-r27d/build/../toolchains/llvm/prebuilt/windows-x86_64/sysroot -g -Wno-invalid-command-line-argument -Wno-unused-command-line-argument -D_FORTIFY_SOURCE=2 -fno-exceptions -fno-rtti -fpic -O2 -DNDEBUG -IC:/PC/Projetos/GTA_Mobile/police-mod-szk -std=c++17 -fexceptions -DANDROID -Wformat -Werror=format-security -O2 -DNDEBUG -std=c++17 -c C:/PC/Projetos/GTA_Mobile/police-mod-szk/src/policeMod/Chase.cpp -o 'C:\\PC\\Projetos\\GTA_Mobile\\police-mod-szk/obj/local/arm64-v8a/objs/PoliceModSZK_64/src/policeMod/Chase.o'",
+        "directory": "C:\\PC\\Projetos\\GTA_Mobile\\police-mod-szk",
+        "file": "C:/PC/Projetos/GTA_Mobile/police-mod-szk/src/policeMod/Chase.cpp",
+        "output": "C:\\PC\\Projetos\\GTA_Mobile\\police-mod-szk/obj/local/arm64-v8a/objs/PoliceModSZK_64/src/policeMod/Chase.o"
+    },
+    {
+        "command": "C:/android-ndk-r27d/build/../toolchains/llvm/prebuilt/windows-x86_64/bin/clang++.exe -target aarch64-none-linux-android24 -fdata-sections -ffunction-sections -fstack-protector-strong -funwind-tables -no-canonical-prefixes --sysroot C:/android-ndk-r27d/build/../toolchains/llvm/prebuilt/windows-x86_64/sysroot -g -Wno-invalid-command-line-argument -Wno-unused-command-line-argument -D_FORTIFY_SOURCE=2 -fno-exceptions -fno-rtti -fpic -O2 -DNDEBUG -IC:/PC/Projetos/GTA_Mobile/police-mod-szk -std=c++17 -fexceptions -DANDROID -Wformat -Werror=format-security -O2 -DNDEBUG -std=c++17 -c C:/PC/Projetos/GTA_Mobile/police-mod-szk/src/policeMod/Checkpoint.cpp -o 'C:\\PC\\Projetos\\GTA_Mobile\\police-mod-szk/obj/local/arm64-v8a/objs/PoliceModSZK_64/src/policeMod/Checkpoint.o'",
+        "directory": "C:\\PC\\Projetos\\GTA_Mobile\\police-mod-szk",
+        "file": "C:/PC/Projetos/GTA_Mobile/police-mod-szk/src/policeMod/Checkpoint.cpp",
+        "output": "C:\\PC\\Projetos\\GTA_Mobile\\police-mod-szk/obj/local/arm64-v8a/objs/PoliceModSZK_64/src/policeMod/Checkpoint.o"
+    },
+    {
+        "command": "C:/android-ndk-r27d/build/../toolchains/llvm/prebuilt/windows-x86_64/bin/clang++.exe -target aarch64-none-linux-android24 -fdata-sections -ffunction-sections -fstack-protector-strong -funwind-tables -no-canonical-prefixes --sysroot C:/android-ndk-r27d/build/../toolchains/llvm/prebuilt/windows-x86_64/sysroot -g -Wno-invalid-command-line-argument -Wno-unused-command-line-argument -D_FORTIFY_SOURCE=2 -fno-exceptions -fno-rtti -fpic -O2 -DNDEBUG -IC:/PC/Projetos/GTA_Mobile/police-mod-szk -std=c++17 -fexceptions -DANDROID -Wformat -Werror=format-security -O2 -DNDEBUG -std=c++17 -c C:/PC/Projetos/GTA_Mobile/police-mod-szk/src/policeMod/Criminals.cpp -o 'C:\\PC\\Projetos\\GTA_Mobile\\police-mod-szk/obj/local/arm64-v8a/objs/PoliceModSZK_64/src/policeMod/Criminals.o'",
+        "directory": "C:\\PC\\Projetos\\GTA_Mobile\\police-mod-szk",
+        "file": "C:/PC/Projetos/GTA_Mobile/police-mod-szk/src/policeMod/Criminals.cpp",
+        "output": "C:\\PC\\Projetos\\GTA_Mobile\\police-mod-szk/obj/local/arm64-v8a/objs/PoliceModSZK_64/src/policeMod/Criminals.o"
+    },
+    {
+        "command": "C:/android-ndk-r27d/build/../toolchains/llvm/prebuilt/windows-x86_64/bin/clang++.exe -target aarch64-none-linux-android24 -fdata-sections -ffunction-sections -fstack-protector-strong -funwind-tables -no-canonical-prefixes --sysroot C:/android-ndk-r27d/build/../toolchains/llvm/prebuilt/windows-x86_64/sysroot -g -Wno-invalid-command-line-argument -Wno-unused-command-line-argument -D_FORTIFY_SOURCE=2 -fno-exceptions -fno-rtti -fpic -O2 -DNDEBUG -IC:/PC/Projetos/GTA_Mobile/police-mod-szk -std=c++17 -fexceptions -DANDROID -Wformat -Werror=format-security -O2 -DNDEBUG -std=c++17 -c C:/PC/Projetos/GTA_Mobile/police-mod-szk/src/policeMod/DocsWindow.cpp -o 'C:\\PC\\Projetos\\GTA_Mobile\\police-mod-szk/obj/local/arm64-v8a/objs/PoliceModSZK_64/src/policeMod/DocsWindow.o'",
+        "directory": "C:\\PC\\Projetos\\GTA_Mobile\\police-mod-szk",
+        "file": "C:/PC/Projetos/GTA_Mobile/police-mod-szk/src/policeMod/DocsWindow.cpp",
+        "output": "C:\\PC\\Projetos\\GTA_Mobile\\police-mod-szk/obj/local/arm64-v8a/objs/PoliceModSZK_64/src/policeMod/DocsWindow.o"
+    },
+    {
+        "command": "C:/android-ndk-r27d/build/../toolchains/llvm/prebuilt/windows-x86_64/bin/clang++.exe -target aarch64-none-linux-android24 -fdata-sections -ffunction-sections -fstack-protector-strong -funwind-tables -no-canonical-prefixes --sysroot C:/android-ndk-r27d/build/../toolchains/llvm/prebuilt/windows-x86_64/sysroot -g -Wno-invalid-command-line-argument -Wno-unused-command-line-argument -D_FORTIFY_SOURCE=2 -fno-exceptions -fno-rtti -fpic -O2 -DNDEBUG -IC:/PC/Projetos/GTA_Mobile/police-mod-szk -std=c++17 -fexceptions -DANDROID -Wformat -Werror=format-security -O2 -DNDEBUG -std=c++17 -c C:/PC/Projetos/GTA_Mobile/police-mod-szk/src/policeMod/DocumentWindow.cpp -o 'C:\\PC\\Projetos\\GTA_Mobile\\police-mod-szk/obj/local/arm64-v8a/objs/PoliceModSZK_64/src/policeMod/DocumentWindow.o'",
+        "directory": "C:\\PC\\Projetos\\GTA_Mobile\\police-mod-szk",
+        "file": "C:/PC/Projetos/GTA_Mobile/police-mod-szk/src/policeMod/DocumentWindow.cpp",
+        "output": "C:\\PC\\Projetos\\GTA_Mobile\\police-mod-szk/obj/local/arm64-v8a/objs/PoliceModSZK_64/src/policeMod/DocumentWindow.o"
+    },
+    {
+        "command": "C:/android-ndk-r27d/build/../toolchains/llvm/prebuilt/windows-x86_64/bin/clang++.exe -target aarch64-none-linux-android24 -fdata-sections -ffunction-sections -fstack-protector-strong -funwind-tables -no-canonical-prefixes --sysroot C:/android-ndk-r27d/build/../toolchains/llvm/prebuilt/windows-x86_64/sysroot -g -Wno-invalid-command-line-argument -Wno-unused-command-line-argument -D_FORTIFY_SOURCE=2 -fno-exceptions -fno-rtti -fpic -O2 -DNDEBUG -IC:/PC/Projetos/GTA_Mobile/police-mod-szk -std=c++17 -fexceptions -DANDROID -Wformat -Werror=format-security -O2 -DNDEBUG -std=c++17 -c C:/PC/Projetos/GTA_Mobile/police-mod-szk/src/policeMod/Escort.cpp -o 'C:\\PC\\Projetos\\GTA_Mobile\\police-mod-szk/obj/local/arm64-v8a/objs/PoliceModSZK_64/src/policeMod/Escort.o'",
+        "directory": "C:\\PC\\Projetos\\GTA_Mobile\\police-mod-szk",
+        "file": "C:/PC/Projetos/GTA_Mobile/police-mod-szk/src/policeMod/Escort.cpp",
+        "output": "C:\\PC\\Projetos\\GTA_Mobile\\police-mod-szk/obj/local/arm64-v8a/objs/PoliceModSZK_64/src/policeMod/Escort.o"
+    },
+    {
+        "command": "C:/android-ndk-r27d/build/../toolchains/llvm/prebuilt/windows-x86_64/bin/clang++.exe -target aarch64-none-linux-android24 -fdata-sections -ffunction-sections -fstack-protector-strong -funwind-tables -no-canonical-prefixes --sysroot C:/android-ndk-r27d/build/../toolchains/llvm/prebuilt/windows-x86_64/sysroot -g -Wno-invalid-command-line-argument -Wno-unused-command-line-argument -D_FORTIFY_SOURCE=2 -fno-exceptions -fno-rtti -fpic -O2 -DNDEBUG -IC:/PC/Projetos/GTA_Mobile/police-mod-szk -std=c++17 -fexceptions -DANDROID -Wformat -Werror=format-security -O2 -DNDEBUG -std=c++17 -c C:/PC/Projetos/GTA_Mobile/police-mod-szk/src/policeMod/FriskWindow.cpp -o 'C:\\PC\\Projetos\\GTA_Mobile\\police-mod-szk/obj/local/arm64-v8a/objs/PoliceModSZK_64/src/policeMod/FriskWindow.o'",
+        "directory": "C:\\PC\\Projetos\\GTA_Mobile\\police-mod-szk",
+        "file": "C:/PC/Projetos/GTA_Mobile/police-mod-szk/src/policeMod/FriskWindow.cpp",
+        "output": "C:\\PC\\Projetos\\GTA_Mobile\\police-mod-szk/obj/local/arm64-v8a/objs/PoliceModSZK_64/src/policeMod/FriskWindow.o"
+    },
+    {
+        "command": "C:/android-ndk-r27d/build/../toolchains/llvm/prebuilt/windows-x86_64/bin/clang++.exe -target aarch64-none-linux-android24 -fdata-sections -ffunction-sections -fstack-protector-strong -funwind-tables -no-canonical-prefixes --sysroot C:/android-ndk-r27d/build/../toolchains/llvm/prebuilt/windows-x86_64/sysroot -g -Wno-invalid-command-line-argument -Wno-unused-command-line-argument -D_FORTIFY_SOURCE=2 -fno-exceptions -fno-rtti -fpic -O2 -DNDEBUG -IC:/PC/Projetos/GTA_Mobile/police-mod-szk -std=c++17 -fexceptions -DANDROID -Wformat -Werror=format-security -O2 -DNDEBUG -std=c++17 -c C:/PC/Projetos/GTA_Mobile/police-mod-szk/src/policeMod/ModData.cpp -o 'C:\\PC\\Projetos\\GTA_Mobile\\police-mod-szk/obj/local/arm64-v8a/objs/PoliceModSZK_64/src/policeMod/ModData.o'",
+        "directory": "C:\\PC\\Projetos\\GTA_Mobile\\police-mod-szk",
+        "file": "C:/PC/Projetos/GTA_Mobile/police-mod-szk/src/policeMod/ModData.cpp",
+        "output": "C:\\PC\\Projetos\\GTA_Mobile\\police-mod-szk/obj/local/arm64-v8a/objs/PoliceModSZK_64/src/policeMod/ModData.o"
+    },
+    {
+        "command": "C:/android-ndk-r27d/build/../toolchains/llvm/prebuilt/windows-x86_64/bin/clang++.exe -target aarch64-none-linux-android24 -fdata-sections -ffunction-sections -fstack-protector-strong -funwind-tables -no-canonical-prefixes --sysroot C:/android-ndk-r27d/build/../toolchains/llvm/prebuilt/windows-x86_64/sysroot -g -Wno-invalid-command-line-argument -Wno-unused-command-line-argument -D_FORTIFY_SOURCE=2 -fno-exceptions -fno-rtti -fpic -O2 -DNDEBUG -IC:/PC/Projetos/GTA_Mobile/police-mod-szk -std=c++17 -fexceptions -DANDROID -Wformat -Werror=format-security -O2 -DNDEBUG -std=c++17 -c C:/PC/Projetos/GTA_Mobile/police-mod-szk/src/policeMod/ModLogger.cpp -o 'C:\\PC\\Projetos\\GTA_Mobile\\police-mod-szk/obj/local/arm64-v8a/objs/PoliceModSZK_64/src/policeMod/ModLogger.o'",
+        "directory": "C:\\PC\\Projetos\\GTA_Mobile\\police-mod-szk",
+        "file": "C:/PC/Projetos/GTA_Mobile/police-mod-szk/src/policeMod/ModLogger.cpp",
+        "output": "C:\\PC\\Projetos\\GTA_Mobile\\police-mod-szk/obj/local/arm64-v8a/objs/PoliceModSZK_64/src/policeMod/ModLogger.o"
+    },
+    {
+        "command": "C:/android-ndk-r27d/build/../toolchains/llvm/prebuilt/windows-x86_64/bin/clang++.exe -target aarch64-none-linux-android24 -fdata-sections -ffunction-sections -fstack-protector-strong -funwind-tables -no-canonical-prefixes --sysroot C:/android-ndk-r27d/build/../toolchains/llvm/prebuilt/windows-x86_64/sysroot -g -Wno-invalid-command-line-argument -Wno-unused-command-line-argument -D_FORTIFY_SOURCE=2 -fno-exceptions -fno-rtti -fpic -O2 -DNDEBUG -IC:/PC/Projetos/GTA_Mobile/police-mod-szk -std=c++17 -fexceptions -DANDROID -Wformat -Werror=format-security -O2 -DNDEBUG -std=c++17 -c C:/PC/Projetos/GTA_Mobile/police-mod-szk/src/policeMod/ModelLoader.cpp -o 'C:\\PC\\Projetos\\GTA_Mobile\\police-mod-szk/obj/local/arm64-v8a/objs/PoliceModSZK_64/src/policeMod/ModelLoader.o'",
+        "directory": "C:\\PC\\Projetos\\GTA_Mobile\\police-mod-szk",
+        "file": "C:/PC/Projetos/GTA_Mobile/police-mod-szk/src/policeMod/ModelLoader.cpp",
+        "output": "C:\\PC\\Projetos\\GTA_Mobile\\police-mod-szk/obj/local/arm64-v8a/objs/PoliceModSZK_64/src/policeMod/ModelLoader.o"
+    },
+    {
+        "command": "C:/android-ndk-r27d/build/../toolchains/llvm/prebuilt/windows-x86_64/bin/clang++.exe -target aarch64-none-linux-android24 -fdata-sections -ffunction-sections -fstack-protector-strong -funwind-tables -no-canonical-prefixes --sysroot C:/android-ndk-r27d/build/../toolchains/llvm/prebuilt/windows-x86_64/sysroot -g -Wno-invalid-command-line-argument -Wno-unused-command-line-argument -D_FORTIFY_SOURCE=2 -fno-exceptions -fno-rtti -fpic -O2 -DNDEBUG -IC:/PC/Projetos/GTA_Mobile/police-mod-szk -std=c++17 -fexceptions -DANDROID -Wformat -Werror=format-security -O2 -DNDEBUG -std=c++17 -c C:/PC/Projetos/GTA_Mobile/police-mod-szk/src/policeMod/Names.cpp -o 'C:\\PC\\Projetos\\GTA_Mobile\\police-mod-szk/obj/local/arm64-v8a/objs/PoliceModSZK_64/src/policeMod/Names.o'",
+        "directory": "C:\\PC\\Projetos\\GTA_Mobile\\police-mod-szk",
+        "file": "C:/PC/Projetos/GTA_Mobile/police-mod-szk/src/policeMod/Names.cpp",
+        "output": "C:\\PC\\Projetos\\GTA_Mobile\\police-mod-szk/obj/local/arm64-v8a/objs/PoliceModSZK_64/src/policeMod/Names.o"
+    },
+    {
+        "command": "C:/android-ndk-r27d/build/../toolchains/llvm/prebuilt/windows-x86_64/bin/clang++.exe -target aarch64-none-linux-android24 -fdata-sections -ffunction-sections -fstack-protector-strong -funwind-tables -no-canonical-prefixes --sysroot C:/android-ndk-r27d/build/../toolchains/llvm/prebuilt/windows-x86_64/sysroot -g -Wno-invalid-command-line-argument -Wno-unused-command-line-argument -D_FORTIFY_SOURCE=2 -fno-exceptions -fno-rtti -fpic -O2 -DNDEBUG -IC:/PC/Projetos/GTA_Mobile/police-mod-szk -std=c++17 -fexceptions -DANDROID -Wformat -Werror=format-security -O2 -DNDEBUG -std=c++17 -c C:/PC/Projetos/GTA_Mobile/police-mod-szk/src/policeMod/Partners.cpp -o 'C:\\PC\\Projetos\\GTA_Mobile\\police-mod-szk/obj/local/arm64-v8a/objs/PoliceModSZK_64/src/policeMod/Partners.o'",
+        "directory": "C:\\PC\\Projetos\\GTA_Mobile\\police-mod-szk",
+        "file": "C:/PC/Projetos/GTA_Mobile/police-mod-szk/src/policeMod/Partners.cpp",
+        "output": "C:\\PC\\Projetos\\GTA_Mobile\\police-mod-szk/obj/local/arm64-v8a/objs/PoliceModSZK_64/src/policeMod/Partners.o"
+    },
+    {
+        "command": "C:/android-ndk-r27d/build/../toolchains/llvm/prebuilt/windows-x86_64/bin/clang++.exe -target aarch64-none-linux-android24 -fdata-sections -ffunction-sections -fstack-protector-strong -funwind-tables -no-canonical-prefixes --sysroot C:/android-ndk-r27d/build/../toolchains/llvm/prebuilt/windows-x86_64/sysroot -g -Wno-invalid-command-line-argument -Wno-unused-command-line-argument -D_FORTIFY_SOURCE=2 -fno-exceptions -fno-rtti -fpic -O2 -DNDEBUG -IC:/PC/Projetos/GTA_Mobile/police-mod-szk -std=c++17 -fexceptions -DANDROID -Wformat -Werror=format-security -O2 -DNDEBUG -std=c++17 -c C:/PC/Projetos/GTA_Mobile/police-mod-szk/src/policeMod/Ped.cpp -o 'C:\\PC\\Projetos\\GTA_Mobile\\police-mod-szk/obj/local/arm64-v8a/objs/PoliceModSZK_64/src/policeMod/Ped.o'",
+        "directory": "C:\\PC\\Projetos\\GTA_Mobile\\police-mod-szk",
+        "file": "C:/PC/Projetos/GTA_Mobile/police-mod-szk/src/policeMod/Ped.cpp",
+        "output": "C:\\PC\\Projetos\\GTA_Mobile\\police-mod-szk/obj/local/arm64-v8a/objs/PoliceModSZK_64/src/policeMod/Ped.o"
+    },
+    {
+        "command": "C:/android-ndk-r27d/build/../toolchains/llvm/prebuilt/windows-x86_64/bin/clang++.exe -target aarch64-none-linux-android24 -fdata-sections -ffunction-sections -fstack-protector-strong -funwind-tables -no-canonical-prefixes --sysroot C:/android-ndk-r27d/build/../toolchains/llvm/prebuilt/windows-x86_64/sysroot -g -Wno-invalid-command-line-argument -Wno-unused-command-line-argument -D_FORTIFY_SOURCE=2 -fno-exceptions -fno-rtti -fpic -O2 -DNDEBUG -IC:/PC/Projetos/GTA_Mobile/police-mod-szk -std=c++17 -fexceptions -DANDROID -Wformat -Werror=format-security -O2 -DNDEBUG -std=c++17 -c C:/PC/Projetos/GTA_Mobile/police-mod-szk/src/policeMod/Peds.cpp -o 'C:\\PC\\Projetos\\GTA_Mobile\\police-mod-szk/obj/local/arm64-v8a/objs/PoliceModSZK_64/src/policeMod/Peds.o'",
+        "directory": "C:\\PC\\Projetos\\GTA_Mobile\\police-mod-szk",
+        "file": "C:/PC/Projetos/GTA_Mobile/police-mod-szk/src/policeMod/Peds.cpp",
+        "output": "C:\\PC\\Projetos\\GTA_Mobile\\police-mod-szk/obj/local/arm64-v8a/objs/PoliceModSZK_64/src/policeMod/Peds.o"
+    },
+    {
+        "command": "C:/android-ndk-r27d/build/../toolchains/llvm/prebuilt/windows-x86_64/bin/clang++.exe -target aarch64-none-linux-android24 -fdata-sections -ffunction-sections -fstack-protector-strong -funwind-tables -no-canonical-prefixes --sysroot C:/android-ndk-r27d/build/../toolchains/llvm/prebuilt/windows-x86_64/sysroot -g -Wno-invalid-command-line-argument -Wno-unused-command-line-argument -D_FORTIFY_SOURCE=2 -fno-exceptions -fno-rtti -fpic -O2 -DNDEBUG -IC:/PC/Projetos/GTA_Mobile/police-mod-szk -std=c++17 -fexceptions -DANDROID -Wformat -Werror=format-security -O2 -DNDEBUG -std=c++17 -c C:/PC/Projetos/GTA_Mobile/police-mod-szk/src/policeMod/PoliceBase.cpp -o 'C:\\PC\\Projetos\\GTA_Mobile\\police-mod-szk/obj/local/arm64-v8a/objs/PoliceModSZK_64/src/policeMod/PoliceBase.o'",
+        "directory": "C:\\PC\\Projetos\\GTA_Mobile\\police-mod-szk",
+        "file": "C:/PC/Projetos/GTA_Mobile/police-mod-szk/src/policeMod/PoliceBase.cpp",
+        "output": "C:\\PC\\Projetos\\GTA_Mobile\\police-mod-szk/obj/local/arm64-v8a/objs/PoliceModSZK_64/src/policeMod/PoliceBase.o"
+    },
+    {
+        "command": "C:/android-ndk-r27d/build/../toolchains/llvm/prebuilt/windows-x86_64/bin/clang++.exe -target aarch64-none-linux-android24 -fdata-sections -ffunction-sections -fstack-protector-strong -funwind-tables -no-canonical-prefixes --sysroot C:/android-ndk-r27d/build/../toolchains/llvm/prebuilt/windows-x86_64/sysroot -g -Wno-invalid-command-line-argument -Wno-unused-command-line-argument -D_FORTIFY_SOURCE=2 -fno-exceptions -fno-rtti -fpic -O2 -DNDEBUG -IC:/PC/Projetos/GTA_Mobile/police-mod-szk -std=c++17 -fexceptions -DANDROID -Wformat -Werror=format-security -O2 -DNDEBUG -std=c++17 -c C:/PC/Projetos/GTA_Mobile/police-mod-szk/src/policeMod/PoliceBases.cpp -o 'C:\\PC\\Projetos\\GTA_Mobile\\police-mod-szk/obj/local/arm64-v8a/objs/PoliceModSZK_64/src/policeMod/PoliceBases.o'",
+        "directory": "C:\\PC\\Projetos\\GTA_Mobile\\police-mod-szk",
+        "file": "C:/PC/Projetos/GTA_Mobile/police-mod-szk/src/policeMod/PoliceBases.cpp",
+        "output": "C:\\PC\\Projetos\\GTA_Mobile\\police-mod-szk/obj/local/arm64-v8a/objs/PoliceModSZK_64/src/policeMod/PoliceBases.o"
+    },
+    {
+        "command": "C:/android-ndk-r27d/build/../toolchains/llvm/prebuilt/windows-x86_64/bin/clang++.exe -target aarch64-none-linux-android24 -fdata-sections -ffunction-sections -fstack-protector-strong -funwind-tables -no-canonical-prefixes --sysroot C:/android-ndk-r27d/build/../toolchains/llvm/prebuilt/windows-x86_64/sysroot -g -Wno-invalid-command-line-argument -Wno-unused-command-line-argument -D_FORTIFY_SOURCE=2 -fno-exceptions -fno-rtti -fpic -O2 -DNDEBUG -IC:/PC/Projetos/GTA_Mobile/police-mod-szk -std=c++17 -fexceptions -DANDROID -Wformat -Werror=format-security -O2 -DNDEBUG -std=c++17 -c C:/PC/Projetos/GTA_Mobile/police-mod-szk/src/policeMod/PoliceMod.cpp -o 'C:\\PC\\Projetos\\GTA_Mobile\\police-mod-szk/obj/local/arm64-v8a/objs/PoliceModSZK_64/src/policeMod/PoliceMod.o'",
+        "directory": "C:\\PC\\Projetos\\GTA_Mobile\\police-mod-szk",
+        "file": "C:/PC/Projetos/GTA_Mobile/police-mod-szk/src/policeMod/PoliceMod.cpp",
+        "output": "C:\\PC\\Projetos\\GTA_Mobile\\police-mod-szk/obj/local/arm64-v8a/objs/PoliceModSZK_64/src/policeMod/PoliceMod.o"
+    },
+    {
+        "command": "C:/android-ndk-r27d/build/../toolchains/llvm/prebuilt/windows-x86_64/bin/clang++.exe -target aarch64-none-linux-android24 -fdata-sections -ffunction-sections -fstack-protector-strong -funwind-tables -no-canonical-prefixes --sysroot C:/android-ndk-r27d/build/../toolchains/llvm/prebuilt/windows-x86_64/sysroot -g -Wno-invalid-command-line-argument -Wno-unused-command-line-argument -D_FORTIFY_SOURCE=2 -fno-exceptions -fno-rtti -fpic -O2 -DNDEBUG -IC:/PC/Projetos/GTA_Mobile/police-mod-szk -std=c++17 -fexceptions -DANDROID -Wformat -Werror=format-security -O2 -DNDEBUG -std=c++17 -c C:/PC/Projetos/GTA_Mobile/police-mod-szk/src/policeMod/PoliceVehicles.cpp -o 'C:\\PC\\Projetos\\GTA_Mobile\\police-mod-szk/obj/local/arm64-v8a/objs/PoliceModSZK_64/src/policeMod/PoliceVehicles.o'",
+        "directory": "C:\\PC\\Projetos\\GTA_Mobile\\police-mod-szk",
+        "file": "C:/PC/Projetos/GTA_Mobile/police-mod-szk/src/policeMod/PoliceVehicles.cpp",
+        "output": "C:\\PC\\Projetos\\GTA_Mobile\\police-mod-szk/obj/local/arm64-v8a/objs/PoliceModSZK_64/src/policeMod/PoliceVehicles.o"
+    },
+    {
+        "command": "C:/android-ndk-r27d/build/../toolchains/llvm/prebuilt/windows-x86_64/bin/clang++.exe -target aarch64-none-linux-android24 -fdata-sections -ffunction-sections -fstack-protector-strong -funwind-tables -no-canonical-prefixes --sysroot C:/android-ndk-r27d/build/../toolchains/llvm/prebuilt/windows-x86_64/sysroot -g -Wno-invalid-command-line-argument -Wno-unused-command-line-argument -D_FORTIFY_SOURCE=2 -fno-exceptions -fno-rtti -fpic -O2 -DNDEBUG -IC:/PC/Projetos/GTA_Mobile/police-mod-szk -std=c++17 -fexceptions -DANDROID -Wformat -Werror=format-security -O2 -DNDEBUG -std=c++17 -c C:/PC/Projetos/GTA_Mobile/police-mod-szk/src/policeMod/Pullover.cpp -o 'C:\\PC\\Projetos\\GTA_Mobile\\police-mod-szk/obj/local/arm64-v8a/objs/PoliceModSZK_64/src/policeMod/Pullover.o'",
+        "directory": "C:\\PC\\Projetos\\GTA_Mobile\\police-mod-szk",
+        "file": "C:/PC/Projetos/GTA_Mobile/police-mod-szk/src/policeMod/Pullover.cpp",
+        "output": "C:\\PC\\Projetos\\GTA_Mobile\\police-mod-szk/obj/local/arm64-v8a/objs/PoliceModSZK_64/src/policeMod/Pullover.o"
+    },
+    {
+        "command": "C:/android-ndk-r27d/build/../toolchains/llvm/prebuilt/windows-x86_64/bin/clang++.exe -target aarch64-none-linux-android24 -fdata-sections -ffunction-sections -fstack-protector-strong -funwind-tables -no-canonical-prefixes --sysroot C:/android-ndk-r27d/build/../toolchains/llvm/prebuilt/windows-x86_64/sysroot -g -Wno-invalid-command-line-argument -Wno-unused-command-line-argument -D_FORTIFY_SOURCE=2 -fno-exceptions -fno-rtti -fpic -O2 -DNDEBUG -IC:/PC/Projetos/GTA_Mobile/police-mod-szk -std=c++17 -fexceptions -DANDROID -Wformat -Werror=format-security -O2 -DNDEBUG -std=c++17 -c C:/PC/Projetos/GTA_Mobile/police-mod-szk/src/policeMod/RGWindow.cpp -o 'C:\\PC\\Projetos\\GTA_Mobile\\police-mod-szk/obj/local/arm64-v8a/objs/PoliceModSZK_64/src/policeMod/RGWindow.o'",
+        "directory": "C:\\PC\\Projetos\\GTA_Mobile\\police-mod-szk",
+        "file": "C:/PC/Projetos/GTA_Mobile/police-mod-szk/src/policeMod/RGWindow.cpp",
+        "output": "C:\\PC\\Projetos\\GTA_Mobile\\police-mod-szk/obj/local/arm64-v8a/objs/PoliceModSZK_64/src/policeMod/RGWindow.o"
+    },
+    {
+        "command": "C:/android-ndk-r27d/build/../toolchains/llvm/prebuilt/windows-x86_64/bin/clang++.exe -target aarch64-none-linux-android24 -fdata-sections -ffunction-sections -fstack-protector-strong -funwind-tables -no-canonical-prefixes --sysroot C:/android-ndk-r27d/build/../toolchains/llvm/prebuilt/windows-x86_64/sysroot -g -Wno-invalid-command-line-argument -Wno-unused-command-line-argument -D_FORTIFY_SOURCE=2 -fno-exceptions -fno-rtti -fpic -O2 -DNDEBUG -IC:/PC/Projetos/GTA_Mobile/police-mod-szk -std=c++17 -fexceptions -DANDROID -Wformat -Werror=format-security -O2 -DNDEBUG -std=c++17 -c C:/PC/Projetos/GTA_Mobile/police-mod-szk/src/policeMod/RadioSounds.cpp -o 'C:\\PC\\Projetos\\GTA_Mobile\\police-mod-szk/obj/local/arm64-v8a/objs/PoliceModSZK_64/src/policeMod/RadioSounds.o'",
+        "directory": "C:\\PC\\Projetos\\GTA_Mobile\\police-mod-szk",
+        "file": "C:/PC/Projetos/GTA_Mobile/police-mod-szk/src/policeMod/RadioSounds.cpp",
+        "output": "C:\\PC\\Projetos\\GTA_Mobile\\police-mod-szk/obj/local/arm64-v8a/objs/PoliceModSZK_64/src/policeMod/RadioSounds.o"
+    },
+    {
+        "command": "C:/android-ndk-r27d/build/../toolchains/llvm/prebuilt/windows-x86_64/bin/clang++.exe -target aarch64-none-linux-android24 -fdata-sections -ffunction-sections -fstack-protector-strong -funwind-tables -no-canonical-prefixes --sysroot C:/android-ndk-r27d/build/../toolchains/llvm/prebuilt/windows-x86_64/sysroot -g -Wno-invalid-command-line-argument -Wno-unused-command-line-argument -D_FORTIFY_SOURCE=2 -fno-exceptions -fno-rtti -fpic -O2 -DNDEBUG -IC:/PC/Projetos/GTA_Mobile/police-mod-szk -std=c++17 -fexceptions -DANDROID -Wformat -Werror=format-security -O2 -DNDEBUG -std=c++17 -c C:/PC/Projetos/GTA_Mobile/police-mod-szk/src/policeMod/RadioWindow.cpp -o 'C:\\PC\\Projetos\\GTA_Mobile\\police-mod-szk/obj/local/arm64-v8a/objs/PoliceModSZK_64/src/policeMod/RadioWindow.o'",
+        "directory": "C:\\PC\\Projetos\\GTA_Mobile\\police-mod-szk",
+        "file": "C:/PC/Projetos/GTA_Mobile/police-mod-szk/src/policeMod/RadioWindow.cpp",
+        "output": "C:\\PC\\Projetos\\GTA_Mobile\\police-mod-szk/obj/local/arm64-v8a/objs/PoliceModSZK_64/src/policeMod/RadioWindow.o"
+    },
+    {
+        "command": "C:/android-ndk-r27d/build/../toolchains/llvm/prebuilt/windows-x86_64/bin/clang++.exe -target aarch64-none-linux-android24 -fdata-sections -ffunction-sections -fstack-protector-strong -funwind-tables -no-canonical-prefixes --sysroot C:/android-ndk-r27d/build/../toolchains/llvm/prebuilt/windows-x86_64/sysroot -g -Wno-invalid-command-line-argument -Wno-unused-command-line-argument -D_FORTIFY_SOURCE=2 -fno-exceptions -fno-rtti -fpic -O2 -DNDEBUG -IC:/PC/Projetos/GTA_Mobile/police-mod-szk -std=c++17 -fexceptions -DANDROID -Wformat -Werror=format-security -O2 -DNDEBUG -std=c++17 -c C:/PC/Projetos/GTA_Mobile/police-mod-szk/src/policeMod/ScriptTask.cpp -o 'C:\\PC\\Projetos\\GTA_Mobile\\police-mod-szk/obj/local/arm64-v8a/objs/PoliceModSZK_64/src/policeMod/ScriptTask.o'",
+        "directory": "C:\\PC\\Projetos\\GTA_Mobile\\police-mod-szk",
+        "file": "C:/PC/Projetos/GTA_Mobile/police-mod-szk/src/policeMod/ScriptTask.cpp",
+        "output": "C:\\PC\\Projetos\\GTA_Mobile\\police-mod-szk/obj/local/arm64-v8a/objs/PoliceModSZK_64/src/policeMod/ScriptTask.o"
+    },
+    {
+        "command": "C:/android-ndk-r27d/build/../toolchains/llvm/prebuilt/windows-x86_64/bin/clang++.exe -target aarch64-none-linux-android24 -fdata-sections -ffunction-sections -fstack-protector-strong -funwind-tables -no-canonical-prefixes --sysroot C:/android-ndk-r27d/build/../toolchains/llvm/prebuilt/windows-x86_64/sysroot -g -Wno-invalid-command-line-argument -Wno-unused-command-line-argument -D_FORTIFY_SOURCE=2 -fno-exceptions -fno-rtti -fpic -O2 -DNDEBUG -IC:/PC/Projetos/GTA_Mobile/police-mod-szk -std=c++17 -fexceptions -DANDROID -Wformat -Werror=format-security -O2 -DNDEBUG -std=c++17 -c C:/PC/Projetos/GTA_Mobile/police-mod-szk/src/policeMod/TestWindow.cpp -o 'C:\\PC\\Projetos\\GTA_Mobile\\police-mod-szk/obj/local/arm64-v8a/objs/PoliceModSZK_64/src/policeMod/TestWindow.o'",
+        "directory": "C:\\PC\\Projetos\\GTA_Mobile\\police-mod-szk",
+        "file": "C:/PC/Projetos/GTA_Mobile/police-mod-szk/src/policeMod/TestWindow.cpp",
+        "output": "C:\\PC\\Projetos\\GTA_Mobile\\police-mod-szk/obj/local/arm64-v8a/objs/PoliceModSZK_64/src/policeMod/TestWindow.o"
+    },
+    {
+        "command": "C:/android-ndk-r27d/build/../toolchains/llvm/prebuilt/windows-x86_64/bin/clang++.exe -target aarch64-none-linux-android24 -fdata-sections -ffunction-sections -fstack-protector-strong -funwind-tables -no-canonical-prefixes --sysroot C:/android-ndk-r27d/build/../toolchains/llvm/prebuilt/windows-x86_64/sysroot -g -Wno-invalid-command-line-argument -Wno-unused-command-line-argument -D_FORTIFY_SOURCE=2 -fno-exceptions -fno-rtti -fpic -O2 -DNDEBUG -IC:/PC/Projetos/GTA_Mobile/police-mod-szk -std=c++17 -fexceptions -DANDROID -Wformat -Werror=format-security -O2 -DNDEBUG -std=c++17 -c C:/PC/Projetos/GTA_Mobile/police-mod-szk/src/policeMod/TopMessage.cpp -o 'C:\\PC\\Projetos\\GTA_Mobile\\police-mod-szk/obj/local/arm64-v8a/objs/PoliceModSZK_64/src/policeMod/TopMessage.o'",
+        "directory": "C:\\PC\\Projetos\\GTA_Mobile\\police-mod-szk",
+        "file": "C:/PC/Projetos/GTA_Mobile/police-mod-szk/src/policeMod/TopMessage.cpp",
+        "output": "C:\\PC\\Projetos\\GTA_Mobile\\police-mod-szk/obj/local/arm64-v8a/objs/PoliceModSZK_64/src/policeMod/TopMessage.o"
+    },
+    {
+        "command": "C:/android-ndk-r27d/build/../toolchains/llvm/prebuilt/windows-x86_64/bin/clang++.exe -target aarch64-none-linux-android24 -fdata-sections -ffunction-sections -fstack-protector-strong -funwind-tables -no-canonical-prefixes --sysroot C:/android-ndk-r27d/build/../toolchains/llvm/prebuilt/windows-x86_64/sysroot -g -Wno-invalid-command-line-argument -Wno-unused-command-line-argument -D_FORTIFY_SOURCE=2 -fno-exceptions -fno-rtti -fpic -O2 -DNDEBUG -IC:/PC/Projetos/GTA_Mobile/police-mod-szk -std=c++17 -fexceptions -DANDROID -Wformat -Werror=format-security -O2 -DNDEBUG -std=c++17 -c C:/PC/Projetos/GTA_Mobile/police-mod-szk/src/policeMod/Trunk.cpp -o 'C:\\PC\\Projetos\\GTA_Mobile\\police-mod-szk/obj/local/arm64-v8a/objs/PoliceModSZK_64/src/policeMod/Trunk.o'",
+        "directory": "C:\\PC\\Projetos\\GTA_Mobile\\police-mod-szk",
+        "file": "C:/PC/Projetos/GTA_Mobile/police-mod-szk/src/policeMod/Trunk.cpp",
+        "output": "C:\\PC\\Projetos\\GTA_Mobile\\police-mod-szk/obj/local/arm64-v8a/objs/PoliceModSZK_64/src/policeMod/Trunk.o"
+    },
+    {
+        "command": "C:/android-ndk-r27d/build/../toolchains/llvm/prebuilt/windows-x86_64/bin/clang++.exe -target aarch64-none-linux-android24 -fdata-sections -ffunction-sections -fstack-protector-strong -funwind-tables -no-canonical-prefixes --sysroot C:/android-ndk-r27d/build/../toolchains/llvm/prebuilt/windows-x86_64/sysroot -g -Wno-invalid-command-line-argument -Wno-unused-command-line-argument -D_FORTIFY_SOURCE=2 -fno-exceptions -fno-rtti -fpic -O2 -DNDEBUG -IC:/PC/Projetos/GTA_Mobile/police-mod-szk -std=c++17 -fexceptions -DANDROID -Wformat -Werror=format-security -O2 -DNDEBUG -std=c++17 -c C:/PC/Projetos/GTA_Mobile/police-mod-szk/src/policeMod/Vehicle.cpp -o 'C:\\PC\\Projetos\\GTA_Mobile\\police-mod-szk/obj/local/arm64-v8a/objs/PoliceModSZK_64/src/policeMod/Vehicle.o'",
+        "directory": "C:\\PC\\Projetos\\GTA_Mobile\\police-mod-szk",
+        "file": "C:/PC/Projetos/GTA_Mobile/police-mod-szk/src/policeMod/Vehicle.cpp",
+        "output": "C:\\PC\\Projetos\\GTA_Mobile\\police-mod-szk/obj/local/arm64-v8a/objs/PoliceModSZK_64/src/policeMod/Vehicle.o"
+    },
+    {
+        "command": "C:/android-ndk-r27d/build/../toolchains/llvm/prebuilt/windows-x86_64/bin/clang++.exe -target aarch64-none-linux-android24 -fdata-sections -ffunction-sections -fstack-protector-strong -funwind-tables -no-canonical-prefixes --sysroot C:/android-ndk-r27d/build/../toolchains/llvm/prebuilt/windows-x86_64/sysroot -g -Wno-invalid-command-line-argument -Wno-unused-command-line-argument -D_FORTIFY_SOURCE=2 -fno-exceptions -fno-rtti -fpic -O2 -DNDEBUG -IC:/PC/Projetos/GTA_Mobile/police-mod-szk -std=c++17 -fexceptions -DANDROID -Wformat -Werror=format-security -O2 -DNDEBUG -std=c++17 -c C:/PC/Projetos/GTA_Mobile/police-mod-szk/src/policeMod/VehicleDocInfo.cpp -o 'C:\\PC\\Projetos\\GTA_Mobile\\police-mod-szk/obj/local/arm64-v8a/objs/PoliceModSZK_64/src/policeMod/VehicleDocInfo.o'",
+        "directory": "C:\\PC\\Projetos\\GTA_Mobile\\police-mod-szk",
+        "file": "C:/PC/Projetos/GTA_Mobile/police-mod-szk/src/policeMod/VehicleDocInfo.cpp",
+        "output": "C:\\PC\\Projetos\\GTA_Mobile\\police-mod-szk/obj/local/arm64-v8a/objs/PoliceModSZK_64/src/policeMod/VehicleDocInfo.o"
+    },
+    {
+        "command": "C:/android-ndk-r27d/build/../toolchains/llvm/prebuilt/windows-x86_64/bin/clang++.exe -target aarch64-none-linux-android24 -fdata-sections -ffunction-sections -fstack-protector-strong -funwind-tables -no-canonical-prefixes --sysroot C:/android-ndk-r27d/build/../toolchains/llvm/prebuilt/windows-x86_64/sysroot -g -Wno-invalid-command-line-argument -Wno-unused-command-line-argument -D_FORTIFY_SOURCE=2 -fno-exceptions -fno-rtti -fpic -O2 -DNDEBUG -IC:/PC/Projetos/GTA_Mobile/police-mod-szk -std=c++17 -fexceptions -DANDROID -Wformat -Werror=format-security -O2 -DNDEBUG -std=c++17 -c C:/PC/Projetos/GTA_Mobile/police-mod-szk/src/policeMod/Vehicles.cpp -o 'C:\\PC\\Projetos\\GTA_Mobile\\police-mod-szk/obj/local/arm64-v8a/objs/PoliceModSZK_64/src/policeMod/Vehicles.o'",
+        "directory": "C:\\PC\\Projetos\\GTA_Mobile\\police-mod-szk",
+        "file": "C:/PC/Projetos/GTA_Mobile/police-mod-szk/src/policeMod/Vehicles.cpp",
+        "output": "C:\\PC\\Projetos\\GTA_Mobile\\police-mod-szk/obj/local/arm64-v8a/objs/PoliceModSZK_64/src/policeMod/Vehicles.o"
+    },
+    {
+        "command": "C:/android-ndk-r27d/build/../toolchains/llvm/prebuilt/windows-x86_64/bin/clang++.exe -target aarch64-none-linux-android24 -fdata-sections -ffunction-sections -fstack-protector-strong -funwind-tables -no-canonical-prefixes --sysroot C:/android-ndk-r27d/build/../toolchains/llvm/prebuilt/windows-x86_64/sysroot -g -Wno-invalid-command-line-argument -Wno-unused-command-line-argument -D_FORTIFY_SOURCE=2 -fno-exceptions -fno-rtti -fpic -O2 -DNDEBUG -IC:/PC/Projetos/GTA_Mobile/police-mod-szk -std=c++17 -fexceptions -DANDROID -Wformat -Werror=format-security -O2 -DNDEBUG -std=c++17 -c C:/PC/Projetos/GTA_Mobile/police-mod-szk/src/policeMod/WorldWidgets.cpp -o 'C:\\PC\\Projetos\\GTA_Mobile\\police-mod-szk/obj/local/arm64-v8a/objs/PoliceModSZK_64/src/policeMod/WorldWidgets.o'",
+        "directory": "C:\\PC\\Projetos\\GTA_Mobile\\police-mod-szk",
+        "file": "C:/PC/Projetos/GTA_Mobile/police-mod-szk/src/policeMod/WorldWidgets.cpp",
+        "output": "C:\\PC\\Projetos\\GTA_Mobile\\police-mod-szk/obj/local/arm64-v8a/objs/PoliceModSZK_64/src/policeMod/WorldWidgets.o"
+    },
+    {
+        "command": "C:/android-ndk-r27d/build/../toolchains/llvm/prebuilt/windows-x86_64/bin/clang++.exe -target aarch64-none-linux-android24 -fdata-sections -ffunction-sections -fstack-protector-strong -funwind-tables -no-canonical-prefixes --sysroot C:/android-ndk-r27d/build/../toolchains/llvm/prebuilt/windows-x86_64/sysroot -g -Wno-invalid-command-line-argument -Wno-unused-command-line-argument -D_FORTIFY_SOURCE=2 -fno-exceptions -fno-rtti -fpic -O2 -DNDEBUG -IC:/PC/Projetos/GTA_Mobile/police-mod-szk -std=c++17 -fexceptions -DANDROID -Wformat -Werror=format-security -O2 -DNDEBUG -std=c++17 -c C:/PC/Projetos/GTA_Mobile/police-mod-szk/src/policeMod/ai/AIController.cpp -o 'C:\\PC\\Projetos\\GTA_Mobile\\police-mod-szk/obj/local/arm64-v8a/objs/PoliceModSZK_64/src/policeMod/ai/AIController.o'",
+        "directory": "C:\\PC\\Projetos\\GTA_Mobile\\police-mod-szk",
+        "file": "C:/PC/Projetos/GTA_Mobile/police-mod-szk/src/policeMod/ai/AIController.cpp",
+        "output": "C:\\PC\\Projetos\\GTA_Mobile\\police-mod-szk/obj/local/arm64-v8a/objs/PoliceModSZK_64/src/policeMod/ai/AIController.o"
+    },
+    {
+        "command": "C:/android-ndk-r27d/build/../toolchains/llvm/prebuilt/windows-x86_64/bin/clang++.exe -target aarch64-none-linux-android24 -fdata-sections -ffunction-sections -fstack-protector-strong -funwind-tables -no-canonical-prefixes --sysroot C:/android-ndk-r27d/build/../toolchains/llvm/prebuilt/windows-x86_64/sysroot -g -Wno-invalid-command-line-argument -Wno-unused-command-line-argument -D_FORTIFY_SOURCE=2 -fno-exceptions -fno-rtti -fpic -O2 -DNDEBUG -IC:/PC/Projetos/GTA_Mobile/police-mod-szk -std=c++17 -fexceptions -DANDROID -Wformat -Werror=format-security -O2 -DNDEBUG -std=c++17 -c C:/PC/Projetos/GTA_Mobile/police-mod-szk/src/policeMod/ai/AICop.cpp -o 'C:\\PC\\Projetos\\GTA_Mobile\\police-mod-szk/obj/local/arm64-v8a/objs/PoliceModSZK_64/src/policeMod/ai/AICop.o'",
+        "directory": "C:\\PC\\Projetos\\GTA_Mobile\\police-mod-szk",
+        "file": "C:/PC/Projetos/GTA_Mobile/police-mod-szk/src/policeMod/ai/AICop.cpp",
+        "output": "C:\\PC\\Projetos\\GTA_Mobile\\police-mod-szk/obj/local/arm64-v8a/objs/PoliceModSZK_64/src/policeMod/ai/AICop.o"
+    },
+    {
+        "command": "C:/android-ndk-r27d/build/../toolchains/llvm/prebuilt/windows-x86_64/bin/clang++.exe -target aarch64-none-linux-android24 -fdata-sections -ffunction-sections -fstack-protector-strong -funwind-tables -no-canonical-prefixes --sysroot C:/android-ndk-r27d/build/../toolchains/llvm/prebuilt/windows-x86_64/sysroot -g -Wno-invalid-command-line-argument -Wno-unused-command-line-argument -D_FORTIFY_SOURCE=2 -fno-exceptions -fno-rtti -fpic -O2 -DNDEBUG -IC:/PC/Projetos/GTA_Mobile/police-mod-szk -std=c++17 -fexceptions -DANDROID -Wformat -Werror=format-security -O2 -DNDEBUG -std=c++17 -c C:/PC/Projetos/GTA_Mobile/police-mod-szk/src/policeMod/ai/AICriminal.cpp -o 'C:\\PC\\Projetos\\GTA_Mobile\\police-mod-szk/obj/local/arm64-v8a/objs/PoliceModSZK_64/src/policeMod/ai/AICriminal.o'",
+        "directory": "C:\\PC\\Projetos\\GTA_Mobile\\police-mod-szk",
+        "file": "C:/PC/Projetos/GTA_Mobile/police-mod-szk/src/policeMod/ai/AICriminal.cpp",
+        "output": "C:\\PC\\Projetos\\GTA_Mobile\\police-mod-szk/obj/local/arm64-v8a/objs/PoliceModSZK_64/src/policeMod/ai/AICriminal.o"
+    },
+    {
+        "command": "C:/android-ndk-r27d/build/../toolchains/llvm/prebuilt/windows-x86_64/bin/clang++.exe -target aarch64-none-linux-android24 -fdata-sections -ffunction-sections -fstack-protector-strong -funwind-tables -no-canonical-prefixes --sysroot C:/android-ndk-r27d/build/../toolchains/llvm/prebuilt/windows-x86_64/sysroot -g -Wno-invalid-command-line-argument -Wno-unused-command-line-argument -D_FORTIFY_SOURCE=2 -fno-exceptions -fno-rtti -fpic -O2 -DNDEBUG -IC:/PC/Projetos/GTA_Mobile/police-mod-szk -std=c++17 -fexceptions -DANDROID -Wformat -Werror=format-security -O2 -DNDEBUG -std=c++17 -c C:/PC/Projetos/GTA_Mobile/police-mod-szk/src/policeMod/ai/AIHelicopterCop.cpp -o 'C:\\PC\\Projetos\\GTA_Mobile\\police-mod-szk/obj/local/arm64-v8a/objs/PoliceModSZK_64/src/policeMod/ai/AIHelicopterCop.o'",
+        "directory": "C:\\PC\\Projetos\\GTA_Mobile\\police-mod-szk",
+        "file": "C:/PC/Projetos/GTA_Mobile/police-mod-szk/src/policeMod/ai/AIHelicopterCop.cpp",
+        "output": "C:\\PC\\Projetos\\GTA_Mobile\\police-mod-szk/obj/local/arm64-v8a/objs/PoliceModSZK_64/src/policeMod/ai/AIHelicopterCop.o"
+    },
+    {
+        "command": "C:/android-ndk-r27d/build/../toolchains/llvm/prebuilt/windows-x86_64/bin/clang++.exe -target aarch64-none-linux-android24 -fdata-sections -ffunction-sections -fstack-protector-strong -funwind-tables -no-canonical-prefixes --sysroot C:/android-ndk-r27d/build/../toolchains/llvm/prebuilt/windows-x86_64/sysroot -g -Wno-invalid-command-line-argument -Wno-unused-command-line-argument -D_FORTIFY_SOURCE=2 -fno-exceptions -fno-rtti -fpic -O2 -DNDEBUG -IC:/PC/Projetos/GTA_Mobile/police-mod-szk -std=c++17 -fexceptions -DANDROID -Wformat -Werror=format-security -O2 -DNDEBUG -std=c++17 -c C:/PC/Projetos/GTA_Mobile/police-mod-szk/src/policeMod/ai/AIMedic.cpp -o 'C:\\PC\\Projetos\\GTA_Mobile\\police-mod-szk/obj/local/arm64-v8a/objs/PoliceModSZK_64/src/policeMod/ai/AIMedic.o'",
+        "directory": "C:\\PC\\Projetos\\GTA_Mobile\\police-mod-szk",
+        "file": "C:/PC/Projetos/GTA_Mobile/police-mod-szk/src/policeMod/ai/AIMedic.cpp",
+        "output": "C:\\PC\\Projetos\\GTA_Mobile\\police-mod-szk/obj/local/arm64-v8a/objs/PoliceModSZK_64/src/policeMod/ai/AIMedic.o"
+    },
+    {
+        "command": "C:/android-ndk-r27d/build/../toolchains/llvm/prebuilt/windows-x86_64/bin/clang++.exe -target aarch64-none-linux-android24 -fdata-sections -ffunction-sections -fstack-protector-strong -funwind-tables -no-canonical-prefixes --sysroot C:/android-ndk-r27d/build/../toolchains/llvm/prebuilt/windows-x86_64/sysroot -g -Wno-invalid-command-line-argument -Wno-unused-command-line-argument -D_FORTIFY_SOURCE=2 -fno-exceptions -fno-rtti -fpic -O2 -DNDEBUG -IC:/PC/Projetos/GTA_Mobile/police-mod-szk -std=c++17 -fexceptions -DANDROID -Wformat -Werror=format-security -O2 -DNDEBUG -std=c++17 -c C:/PC/Projetos/GTA_Mobile/police-mod-szk/src/policeMod/ai/AIPed.cpp -o 'C:\\PC\\Projetos\\GTA_Mobile\\police-mod-szk/obj/local/arm64-v8a/objs/PoliceModSZK_64/src/policeMod/ai/AIPed.o'",
+        "directory": "C:\\PC\\Projetos\\GTA_Mobile\\police-mod-szk",
+        "file": "C:/PC/Projetos/GTA_Mobile/police-mod-szk/src/policeMod/ai/AIPed.cpp",
+        "output": "C:\\PC\\Projetos\\GTA_Mobile\\police-mod-szk/obj/local/arm64-v8a/objs/PoliceModSZK_64/src/policeMod/ai/AIPed.o"
+    },
+    {
+        "command": "C:/android-ndk-r27d/build/../toolchains/llvm/prebuilt/windows-x86_64/bin/clang++.exe -target aarch64-none-linux-android24 -fdata-sections -ffunction-sections -fstack-protector-strong -funwind-tables -no-canonical-prefixes --sysroot C:/android-ndk-r27d/build/../toolchains/llvm/prebuilt/windows-x86_64/sysroot -g -Wno-invalid-command-line-argument -Wno-unused-command-line-argument -D_FORTIFY_SOURCE=2 -fno-exceptions -fno-rtti -fpic -O2 -DNDEBUG -IC:/PC/Projetos/GTA_Mobile/police-mod-szk -std=c++17 -fexceptions -DANDROID -Wformat -Werror=format-security -O2 -DNDEBUG -std=c++17 -c C:/PC/Projetos/GTA_Mobile/police-mod-szk/src/policeMod/ai/AIVehicle.cpp -o 'C:\\PC\\Projetos\\GTA_Mobile\\police-mod-szk/obj/local/arm64-v8a/objs/PoliceModSZK_64/src/policeMod/ai/AIVehicle.o'",
+        "directory": "C:\\PC\\Projetos\\GTA_Mobile\\police-mod-szk",
+        "file": "C:/PC/Projetos/GTA_Mobile/police-mod-szk/src/policeMod/ai/AIVehicle.cpp",
+        "output": "C:\\PC\\Projetos\\GTA_Mobile\\police-mod-szk/obj/local/arm64-v8a/objs/PoliceModSZK_64/src/policeMod/ai/AIVehicle.o"
+    },
+    {
+        "command": "C:/android-ndk-r27d/build/../toolchains/llvm/prebuilt/windows-x86_64/bin/clang++.exe -target aarch64-none-linux-android24 -fdata-sections -ffunction-sections -fstack-protector-strong -funwind-tables -no-canonical-prefixes --sysroot C:/android-ndk-r27d/build/../toolchains/llvm/prebuilt/windows-x86_64/sysroot -g -Wno-invalid-command-line-argument -Wno-unused-command-line-argument -D_FORTIFY_SOURCE=2 -fno-exceptions -fno-rtti -fpic -O2 -DNDEBUG -IC:/PC/Projetos/GTA_Mobile/police-mod-szk -std=c++17 -fexceptions -DANDROID -Wformat -Werror=format-security -O2 -DNDEBUG -std=c++17 -c C:/PC/Projetos/GTA_Mobile/police-mod-szk/src/policeMod/audio/AudioCollection.cpp -o 'C:\\PC\\Projetos\\GTA_Mobile\\police-mod-szk/obj/local/arm64-v8a/objs/PoliceModSZK_64/src/policeMod/audio/AudioCollection.o'",
+        "directory": "C:\\PC\\Projetos\\GTA_Mobile\\police-mod-szk",
+        "file": "C:/PC/Projetos/GTA_Mobile/police-mod-szk/src/policeMod/audio/AudioCollection.cpp",
+        "output": "C:\\PC\\Projetos\\GTA_Mobile\\police-mod-szk/obj/local/arm64-v8a/objs/PoliceModSZK_64/src/policeMod/audio/AudioCollection.o"
+    },
+    {
+        "command": "C:/android-ndk-r27d/build/../toolchains/llvm/prebuilt/windows-x86_64/bin/clang++.exe -target aarch64-none-linux-android24 -fdata-sections -ffunction-sections -fstack-protector-strong -funwind-tables -no-canonical-prefixes --sysroot C:/android-ndk-r27d/build/../toolchains/llvm/prebuilt/windows-x86_64/sysroot -g -Wno-invalid-command-line-argument -Wno-unused-command-line-argument -D_FORTIFY_SOURCE=2 -fno-exceptions -fno-rtti -fpic -O2 -DNDEBUG -IC:/PC/Projetos/GTA_Mobile/police-mod-szk -std=c++17 -fexceptions -DANDROID -Wformat -Werror=format-security -O2 -DNDEBUG -std=c++17 -c C:/PC/Projetos/GTA_Mobile/police-mod-szk/src/policeMod/audio/AudioSequence.cpp -o 'C:\\PC\\Projetos\\GTA_Mobile\\police-mod-szk/obj/local/arm64-v8a/objs/PoliceModSZK_64/src/policeMod/audio/AudioSequence.o'",
+        "directory": "C:\\PC\\Projetos\\GTA_Mobile\\police-mod-szk",
+        "file": "C:/PC/Projetos/GTA_Mobile/police-mod-szk/src/policeMod/audio/AudioSequence.cpp",
+        "output": "C:\\PC\\Projetos\\GTA_Mobile\\police-mod-szk/obj/local/arm64-v8a/objs/PoliceModSZK_64/src/policeMod/audio/AudioSequence.o"
+    },
+    {
+        "command": "C:/android-ndk-r27d/build/../toolchains/llvm/prebuilt/windows-x86_64/bin/clang++.exe -target aarch64-none-linux-android24 -fdata-sections -ffunction-sections -fstack-protector-strong -funwind-tables -no-canonical-prefixes --sysroot C:/android-ndk-r27d/build/../toolchains/llvm/prebuilt/windows-x86_64/sysroot -g -Wno-invalid-command-line-argument -Wno-unused-command-line-argument -D_FORTIFY_SOURCE=2 -fno-exceptions -fno-rtti -fpic -O2 -DNDEBUG -IC:/PC/Projetos/GTA_Mobile/police-mod-szk -std=c++17 -fexceptions -DANDROID -Wformat -Werror=format-security -O2 -DNDEBUG -std=c++17 -c C:/PC/Projetos/GTA_Mobile/police-mod-szk/src/policeMod/audio/AudioVariationGroup.cpp -o 'C:\\PC\\Projetos\\GTA_Mobile\\police-mod-szk/obj/local/arm64-v8a/objs/PoliceModSZK_64/src/policeMod/audio/AudioVariationGroup.o'",
+        "directory": "C:\\PC\\Projetos\\GTA_Mobile\\police-mod-szk",
+        "file": "C:/PC/Projetos/GTA_Mobile/police-mod-szk/src/policeMod/audio/AudioVariationGroup.cpp",
+        "output": "C:\\PC\\Projetos\\GTA_Mobile\\police-mod-szk/obj/local/arm64-v8a/objs/PoliceModSZK_64/src/policeMod/audio/AudioVariationGroup.o"
+    },
+    {
+        "command": "C:/android-ndk-r27d/build/../toolchains/llvm/prebuilt/windows-x86_64/bin/clang++.exe -target aarch64-none-linux-android24 -fdata-sections -ffunction-sections -fstack-protector-strong -funwind-tables -no-canonical-prefixes --sysroot C:/android-ndk-r27d/build/../toolchains/llvm/prebuilt/windows-x86_64/sysroot -g -Wno-invalid-command-line-argument -Wno-unused-command-line-argument -D_FORTIFY_SOURCE=2 -fno-exceptions -fno-rtti -fpic -O2 -DNDEBUG -IC:/PC/Projetos/GTA_Mobile/police-mod-szk -std=c++17 -fexceptions -DANDROID -Wformat -Werror=format-security -O2 -DNDEBUG -std=c++17 -c C:/PC/Projetos/GTA_Mobile/police-mod-szk/src/policeMod/callouts/ATMCallout.cpp -o 'C:\\PC\\Projetos\\GTA_Mobile\\police-mod-szk/obj/local/arm64-v8a/objs/PoliceModSZK_64/src/policeMod/callouts/ATMCallout.o'",
+        "directory": "C:\\PC\\Projetos\\GTA_Mobile\\police-mod-szk",
+        "file": "C:/PC/Projetos/GTA_Mobile/police-mod-szk/src/policeMod/callouts/ATMCallout.cpp",
+        "output": "C:\\PC\\Projetos\\GTA_Mobile\\police-mod-szk/obj/local/arm64-v8a/objs/PoliceModSZK_64/src/policeMod/callouts/ATMCallout.o"
+    },
+    {
+        "command": "C:/android-ndk-r27d/build/../toolchains/llvm/prebuilt/windows-x86_64/bin/clang++.exe -target aarch64-none-linux-android24 -fdata-sections -ffunction-sections -fstack-protector-strong -funwind-tables -no-canonical-prefixes --sysroot C:/android-ndk-r27d/build/../toolchains/llvm/prebuilt/windows-x86_64/sysroot -g -Wno-invalid-command-line-argument -Wno-unused-command-line-argument -D_FORTIFY_SOURCE=2 -fno-exceptions -fno-rtti -fpic -O2 -DNDEBUG -IC:/PC/Projetos/GTA_Mobile/police-mod-szk -std=c++17 -fexceptions -DANDROID -Wformat -Werror=format-security -O2 -DNDEBUG -std=c++17 -c C:/PC/Projetos/GTA_Mobile/police-mod-szk/src/policeMod/callouts/DrugDealerCallout.cpp -o 'C:\\PC\\Projetos\\GTA_Mobile\\police-mod-szk/obj/local/arm64-v8a/objs/PoliceModSZK_64/src/policeMod/callouts/DrugDealerCallout.o'",
+        "directory": "C:\\PC\\Projetos\\GTA_Mobile\\police-mod-szk",
+        "file": "C:/PC/Projetos/GTA_Mobile/police-mod-szk/src/policeMod/callouts/DrugDealerCallout.cpp",
+        "output": "C:\\PC\\Projetos\\GTA_Mobile\\police-mod-szk/obj/local/arm64-v8a/objs/PoliceModSZK_64/src/policeMod/callouts/DrugDealerCallout.o"
+    },
+    {
+        "command": "C:/android-ndk-r27d/build/../toolchains/llvm/prebuilt/windows-x86_64/bin/clang++.exe -target aarch64-none-linux-android24 -fdata-sections -ffunction-sections -fstack-protector-strong -funwind-tables -no-canonical-prefixes --sysroot C:/android-ndk-r27d/build/../toolchains/llvm/prebuilt/windows-x86_64/sysroot -g -Wno-invalid-command-line-argument -Wno-unused-command-line-argument -D_FORTIFY_SOURCE=2 -fno-exceptions -fno-rtti -fpic -O2 -DNDEBUG -IC:/PC/Projetos/GTA_Mobile/police-mod-szk -std=c++17 -fexceptions -DANDROID -Wformat -Werror=format-security -O2 -DNDEBUG -std=c++17 -c C:/PC/Projetos/GTA_Mobile/police-mod-szk/src/policeMod/callouts/StolenCarCallout.cpp -o 'C:\\PC\\Projetos\\GTA_Mobile\\police-mod-szk/obj/local/arm64-v8a/objs/PoliceModSZK_64/src/policeMod/callouts/StolenCarCallout.o'",
+        "directory": "C:\\PC\\Projetos\\GTA_Mobile\\police-mod-szk",
+        "file": "C:/PC/Projetos/GTA_Mobile/police-mod-szk/src/policeMod/callouts/StolenCarCallout.cpp",
+        "output": "C:\\PC\\Projetos\\GTA_Mobile\\police-mod-szk/obj/local/arm64-v8a/objs/PoliceModSZK_64/src/policeMod/callouts/StolenCarCallout.o"
+    },
+    {
+        "command": "C:/android-ndk-r27d/build/../toolchains/llvm/prebuilt/windows-x86_64/bin/clang++.exe -target aarch64-none-linux-android24 -fdata-sections -ffunction-sections -fstack-protector-strong -funwind-tables -no-canonical-prefixes --sysroot C:/android-ndk-r27d/build/../toolchains/llvm/prebuilt/windows-x86_64/sysroot -g -Wno-invalid-command-line-argument -Wno-unused-command-line-argument -D_FORTIFY_SOURCE=2 -fno-exceptions -fno-rtti -fpic -O2 -DNDEBUG -IC:/PC/Projetos/GTA_Mobile/police-mod-szk -std=c++17 -fexceptions -DANDROID -Wformat -Werror=format-security -O2 -DNDEBUG -std=c++17 -c C:/PC/Projetos/GTA_Mobile/police-mod-szk/src/policeMod/callouts/TestCallout.cpp -o 'C:\\PC\\Projetos\\GTA_Mobile\\police-mod-szk/obj/local/arm64-v8a/objs/PoliceModSZK_64/src/policeMod/callouts/TestCallout.o'",
+        "directory": "C:\\PC\\Projetos\\GTA_Mobile\\police-mod-szk",
+        "file": "C:/PC/Projetos/GTA_Mobile/police-mod-szk/src/policeMod/callouts/TestCallout.cpp",
+        "output": "C:\\PC\\Projetos\\GTA_Mobile\\police-mod-szk/obj/local/arm64-v8a/objs/PoliceModSZK_64/src/policeMod/callouts/TestCallout.o"
+    },
+    {
+        "command": "C:/android-ndk-r27d/build/../toolchains/llvm/prebuilt/windows-x86_64/bin/clang++.exe -target aarch64-none-linux-android24 -fdata-sections -ffunction-sections -fstack-protector-strong -funwind-tables -no-canonical-prefixes --sysroot C:/android-ndk-r27d/build/../toolchains/llvm/prebuilt/windows-x86_64/sysroot -g -Wno-invalid-command-line-argument -Wno-unused-command-line-argument -D_FORTIFY_SOURCE=2 -fno-exceptions -fno-rtti -fpic -O2 -DNDEBUG -IC:/PC/Projetos/GTA_Mobile/police-mod-szk -std=c++17 -fexceptions -DANDROID -Wformat -Werror=format-security -O2 -DNDEBUG -std=c++17 -c C:/PC/Projetos/GTA_Mobile/police-mod-szk/src/policeMod/inventory/Inventory.cpp -o 'C:\\PC\\Projetos\\GTA_Mobile\\police-mod-szk/obj/local/arm64-v8a/objs/PoliceModSZK_64/src/policeMod/inventory/Inventory.o'",
+        "directory": "C:\\PC\\Projetos\\GTA_Mobile\\police-mod-szk",
+        "file": "C:/PC/Projetos/GTA_Mobile/police-mod-szk/src/policeMod/inventory/Inventory.cpp",
+        "output": "C:\\PC\\Projetos\\GTA_Mobile\\police-mod-szk/obj/local/arm64-v8a/objs/PoliceModSZK_64/src/policeMod/inventory/Inventory.o"
+    },
+    {
+        "command": "C:/android-ndk-r27d/build/../toolchains/llvm/prebuilt/windows-x86_64/bin/clang++.exe -target aarch64-none-linux-android24 -fdata-sections -ffunction-sections -fstack-protector-strong -funwind-tables -no-canonical-prefixes --sysroot C:/android-ndk-r27d/build/../toolchains/llvm/prebuilt/windows-x86_64/sysroot -g -Wno-invalid-command-line-argument -Wno-unused-command-line-argument -D_FORTIFY_SOURCE=2 -fno-exceptions -fno-rtti -fpic -O2 -DNDEBUG -IC:/PC/Projetos/GTA_Mobile/police-mod-szk -std=c++17 -fexceptions -DANDROID -Wformat -Werror=format-security -O2 -DNDEBUG -std=c++17 -c C:/PC/Projetos/GTA_Mobile/police-mod-szk/src/policeMod/inventory/InventoryItemManager.cpp -o 'C:\\PC\\Projetos\\GTA_Mobile\\police-mod-szk/obj/local/arm64-v8a/objs/PoliceModSZK_64/src/policeMod/inventory/InventoryItemManager.o'",
+        "directory": "C:\\PC\\Projetos\\GTA_Mobile\\police-mod-szk",
+        "file": "C:/PC/Projetos/GTA_Mobile/police-mod-szk/src/policeMod/inventory/InventoryItemManager.cpp",
+        "output": "C:\\PC\\Projetos\\GTA_Mobile\\police-mod-szk/obj/local/arm64-v8a/objs/PoliceModSZK_64/src/policeMod/inventory/InventoryItemManager.o"
+    },
+    {
+        "command": "C:/android-ndk-r27d/build/../toolchains/llvm/prebuilt/windows-x86_64/bin/clang++.exe -target aarch64-none-linux-android24 -fdata-sections -ffunction-sections -fstack-protector-strong -funwind-tables -no-canonical-prefixes --sysroot C:/android-ndk-r27d/build/../toolchains/llvm/prebuilt/windows-x86_64/sysroot -g -Wno-invalid-command-line-argument -Wno-unused-command-line-argument -D_FORTIFY_SOURCE=2 -fno-exceptions -fno-rtti -fpic -O2 -DNDEBUG -IC:/PC/Projetos/GTA_Mobile/police-mod-szk -std=c++17 -fexceptions -DANDROID -Wformat -Werror=format-security -O2 -DNDEBUG -std=c++17 -c C:/PC/Projetos/GTA_Mobile/police-mod-szk/src/policeMod/opcodeCaller/CleoFunctions.cpp -o 'C:\\PC\\Projetos\\GTA_Mobile\\police-mod-szk/obj/local/arm64-v8a/objs/PoliceModSZK_64/src/policeMod/opcodeCaller/CleoFunctions.o'",
+        "directory": "C:\\PC\\Projetos\\GTA_Mobile\\police-mod-szk",
+        "file": "C:/PC/Projetos/GTA_Mobile/police-mod-szk/src/policeMod/opcodeCaller/CleoFunctions.cpp",
+        "output": "C:\\PC\\Projetos\\GTA_Mobile\\police-mod-szk/obj/local/arm64-v8a/objs/PoliceModSZK_64/src/policeMod/opcodeCaller/CleoFunctions.o"
+    }
 ]

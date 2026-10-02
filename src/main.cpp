@@ -1,50 +1,58 @@
-#include <mod/amlmod.h>
-#include <mod/config.h>
+#include "main.h"
 
-MYMODCFG(com.daniloszk.policemod, PoliceMod, 1.0.1, DaniloSZK)
+#include "globals.h"
+#include "mod/logger.h"
 
-#include "pch.h"
+#include "utils/logStorage.h"
 
-#include "PoliceMod.h"
+#include "hooks.h"
+#include "logHelper.h"
 
-cleo_ifs_t* cleo = NULL;
-ISAUtils* sautils = NULL;
-IMenuSZK* menuSZK = NULL;
+#include "policeMod/PoliceMod.h"
+#include <string>
 
-ModData* modData = new ModData("policeModSZK");
-Logger* localLogger = new Logger("policeModSZK");
+MYMODCFG(com.daniloszk.policemodszk64, PoliceMod SZK, 1.1.0, DaniloSZK);
 
-extern "C" void OnModPreLoad()
+void _OnLoggerMessage(eLogPrio prio, const char* msg)
 {
-    fileLog->Clear();
-    fileLog->Log("Log initialized");
-    fileLog->Log("OnModPreLoad");
+    if (!msg) return;
 
-    modData->LoadSettings();
-    
-    policeMod->OnModPreLoad();
+    if (menuSZK) { menuSZK->AddLogMessage("PoliceMod: " + std::string(msg)); }
 }
 
-extern "C" void OnModLoad()
+ON_MOD_PRELOAD()
 {
-    fileLog->Log("OnModLoad");
+    logger->SetTag("PoliceMod-PSDK");
+    logger->Info("Mod Preload");
 
-    loadInterface(&cleo, "CLEO", true);
-    if(!cleo) return;
+    logger->SetMessageCB(_OnLoggerMessage);
+}
 
-    loadInterface(&menuSZK, "MenuSZK");
-    if(!menuSZK) return;
+ON_MOD_LOAD()
+{
+    logger->Info("Mod loading...");
 
-    loadInterface(&sautils, "SAUtils");
-    if(!sautils) return;
+    menuSZK = (IMenuSZK*)GetInterface("menuSZK_v2");
 
-    fileLog->Log("Finding addresses...");
+    if (menuSZK == nullptr)
+    {
+        logger->Error("MenuSZK interface was not found. Do you have it installed?");
+        return;
+    }
+
+    modData->LoadSettings();
+
+    //InitLogStorage();
 
     DoHooks();
 
-    fileLog->Log("Initializing policeMod...");
+    logger->Info("Initializing policeMod...");
 
     policeMod->OnModLoad();
 
-    fileLog->Log("Mod loaded!");
+    logger->Info("Mod loaded");
+}
+
+ON_GAME_CRASH()
+{
 }

@@ -1,31 +1,35 @@
-# Libs necessárias
+# Police Mod SZK
 
-Antes de instalar o mod, você precisa ter alguns mods necessários para seu funcionamento
+Police mod inspired in the Brazilian police
 
-### Cleo Mod (libCLEOMod.so), versão recomendada 2.0.1.9
-Disponível no Discord do AML
+# Required / optional mods
 
-### SA Utils (libSAUtils.so), versão recomendada 1.6
-Disponível no Discord do AML
+**Required:** GTA SA APK with AML, GTA version 2.00 or GTA 2.10
 
-### BASS Mod (libBASSMod.so), versão recomendada 1.0.0.0
-Github: https://github.com/AndroidModLoader/BASSMod/releases
+**Required:** libMenuSZK (version 2.0.0) (https://github.com/Danilo1301/menu-szk)
 
-### Script Commands (libScriptCommands.so), versão recomendada 1.0
-Github: https://github.com/Danilo1301/script-commands-mobile
+# Installation
 
-### MenuSZK, versão recomendada 1.0
-Github: https://github.com/Danilo1301/menu-szk-mobile-releases
+Make sure you installed all required mods first
 
-# Como instalar
+1. Download the .zip of the mod from the Releases page
 
-Vídeo tutorial: https://youtu.be/cx6SPqwhN8o
+Releases: https://github.com/Danilo1301/police-mod-szk/releases
 
-1. Baixe o .zip do mod em [Releases](https://github.com/Danilo1301/police-mod-szk-mobile/releases)
-2. Dentro do .zip, copie a pasta "com.rockstargames.gtasa" para onde fica sua data (em Android/data/ por exemplo)
+2. Copy the content of the folder **com.rockstargames.gtasa** to your gta folder
 
-Agora para instalar o modelo 3d do rádio:
+After that, you can already open the game and TEST if the mod is working. But things will look strange if you don't continue with the next steps.
 
-1. Abra a pasta "Radio"
-2. O que tiver dentro da pasta "to gta3.img", você vai precisar colocar em "com.rockstargames.gtasa/files/texdb/gta3.img". Para colocar o .dff você precisa do aplicativo do GTA IMG Tool
-3. O que tiver dentro da pasta "to gta3.txt", você vai precisar colocar em "com.rockstargames.gtasa/files/texdb/gta3/". Para colocar a textura você precisa do aplicativo do TXD Tool
+3. In the folder **"Animations"**, place the "Frisk animation" in your gta3.img
+
+(you can use GTA IMG Tool for that)
+
+4. In the folder "Animations", the **"Ped ifp"** is optional, but can be placed in /files/anim
+
+5. For the folder **"Radio"**,
+
+you need to install **"to gta3.img"** into your gta3.img using GTA IMG tool
+
+and for the **"to gta3.txt"**, you need to install the textures into your texdb/gta3 using TXD Tool
+
+6. Open the game

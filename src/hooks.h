@@ -1,22 +1,27 @@
 #pragma once
 
-#include <mod/amlmod.h>
+#include "mod/iaml.h"
+#include "mod/logger.h"
 
-#include "simpleGta.h"
+inline uintptr_t pGTASA;
+inline void *hGTASA;
 
-// Ponteiros de função globais
-inline RpClump* (*RpClumpForAllAtomics)(RpClump* clump, RpAtomicCallBack callback, void* pData) = nullptr;
-inline RpGeometry* (*RpGeometryForAllMaterials)(RpGeometry* geometry, RpMaterialCallBack fpCallBack, void* pData) = nullptr;
-inline char* (*GetFrameNodeName)(RwFrame* frame) = nullptr;
-inline void (*CSprite2d_DrawSprite)(CSprite2d*, CRect const&, CRGBA const&) = nullptr;
-inline void (*TransformRealWorldPointToRadarSpace)(CVector2D& out, CVector2D const& in) = nullptr;
-inline void (*TransformRadarPointToScreenSpace)(CVector2D& out, CVector2D const& in) = nullptr;
-inline void (*LimitRadarPoint)(CVector2D& in) = nullptr;
+inline int (*GetPedRef)(void *);
+inline int (*GetVehicleRef)(void *);
+inline void *(*GetPedFromRef)(int);
+inline void *(*GetVehicleFromRef)(int);
 
-// Variáveis globais
-inline bool* m_UserPause = nullptr;
-inline bool* m_CodePause = nullptr;
-inline float flMenuMapScaling = 0.0f;
-inline RsGlobalType* RsGlobal = nullptr;
+inline void DoHooks()
+{
+    logger->Info("Hooking...");
 
-void DoHooks();
+    pGTASA = aml->GetLib("libGTASA.so");
+    hGTASA = aml->GetLibHandle("libGTASA.so");
+
+    SET_TO(GetPedRef, aml->GetSym(hGTASA, "_ZN6CPools9GetPedRefEP4CPed"));
+    SET_TO(GetVehicleRef, aml->GetSym(hGTASA, "_ZN6CPools13GetVehicleRefEP8CVehicle"));
+    SET_TO(GetPedFromRef, aml->GetSym(hGTASA, "_ZN6CPools6GetPedEi"));
+    SET_TO(GetVehicleFromRef, aml->GetSym(hGTASA, "_ZN6CPools10GetVehicleEi"));
+
+    logger->Info("Hook OK!");
+}

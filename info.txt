@@ -1,7 +1,0 @@
-[To release]
-
-Update main.cpp version
-
-[Others]
-
-cmake . -G Ninja

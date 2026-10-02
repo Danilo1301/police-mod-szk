@@ -1,0 +1,474 @@
+{
+    "(files)/data/policeModSZK/data/police_vehicles/vehicles/fbitruck/backup.ini":  {
+                                                                                        "LastWriteTime":  638992773600000000,
+                                                                                        "Length":  99
+                                                                                    },
+    "libs/armeabi-v7a/libPoliceModSZK.so":  {
+                                                "LastWriteTime":  639265794393291167,
+                                                "Length":  1233592
+                                            },
+    "(files)/data/policeModSZK/assets/roads/audios/idlewood.wav":  {
+                                                                       "LastWriteTime":  638976376240000000,
+                                                                       "Length":  41860
+                                                                   },
+    "(files)/data/policeModSZK/data/police_vehicles/vehicles/copcarvg/trunk.ini":  {
+                                                                                       "LastWriteTime":  638996287900000000,
+                                                                                       "Length":  121
+                                                                                   },
+    "(files)/data/policeModSZK/data/items/pino.ini":  {
+                                                          "LastWriteTime":  638997174960000000,
+                                                          "Length":  131
+                                                      },
+    "(files)/data/policeModSZK/assets/radio/radio.png":  {
+                                                             "LastWriteTime":  638954780840000000,
+                                                             "Length":  159423
+                                                         },
+    "(files)/data/policeModSZK/assets/audios/officer/exit_vehicle_hands_up.wav":  {
+                                                                                      "LastWriteTime":  638997992800000000,
+                                                                                      "Length":  134362
+                                                                                  },
+    "(files)/data/policeModSZK/assets/audios/officer/codes/8.wav":  {
+                                                                        "LastWriteTime":  638937447340000000,
+                                                                        "Length":  43060
+                                                                    },
+    "(files)/data/policeModSZK/assets/radio/screens/callout_menu.png":  {
+                                                                            "LastWriteTime":  638968545520000000,
+                                                                            "Length":  8687
+                                                                        },
+    "(files)/data/policeModSZK/assets/widgets/widget_frisk_car.png":  {
+                                                                          "LastWriteTime":  638934101700000000,
+                                                                          "Length":  8322
+                                                                      },
+    "(files)/data/policeModSZK/data/items/stolen_cellphone.ini":  {
+                                                                      "LastWriteTime":  638997165920000000,
+                                                                      "Length":  170
+                                                                  },
+    "(files)/data/localization/policeModSZK/portuguese-br.ini":  {
+                                                                     "LastWriteTime":  639263076870438535,
+                                                                     "Length":  4066
+                                                                 },
+    "(files)/data/policeModSZK/data/items/weed.ini":  {
+                                                          "LastWriteTime":  638997179520000000,
+                                                          "Length":  149
+                                                      },
+    "(files)/data/policeModSZK/assets/audios/officer/put_hands_on_head.wav":  {
+                                                                                  "LastWriteTime":  638997999160000000,
+                                                                                  "Length":  103942
+                                                                              },
+    "(files)/data/policeModSZK/assets/audios/officer/pull_over_vehicle.wav":  {
+                                                                                  "LastWriteTime":  638997993020000000,
+                                                                                  "Length":  115184
+                                                                              },
+    "(files)/data/policeModSZK/assets/map/police_dep.png":  {
+                                                                "LastWriteTime":  638948827480000000,
+                                                                "Length":  2932
+                                                            },
+    "(files)/data/policeModSZK/assets/audios/officer/pull_over_ped.wav":  {
+                                                                              "LastWriteTime":  638997998640000000,
+                                                                              "Length":  119302
+                                                                          },
+    "(files)/data/policeModSZK/assets/audios/callouts/atm.wav":  {
+                                                                     "LastWriteTime":  638985975980000000,
+                                                                     "Length":  1301628
+                                                                 },
+    "(files)/data/policeModSZK/data/police_vehicles/vehicles/copcarru/trunk.ini":  {
+                                                                                       "LastWriteTime":  638996287900000000,
+                                                                                       "Length":  121
+                                                                                   },
+    "(files)/data/policeModSZK/assets/audios/officer/ask_to_move_vehicle_to_his_right.wav":  {
+                                                                                                 "LastWriteTime":  638997999540000000,
+                                                                                                 "Length":  91562
+                                                                                             },
+    "(files)/data/policeModSZK/data/police_vehicles/vehicles/fbitruck/trunk.ini":  {
+                                                                                       "LastWriteTime":  638996287900000000,
+                                                                                       "Length":  121
+                                                                                   },
+    "(files)/data/policeModSZK/assets/radio/screens/cancel_chase.png":  {
+                                                                            "LastWriteTime":  638963994680000000,
+                                                                            "Length":  13160
+                                                                        },
+    "(files)/data/policeModSZK/assets/audios/radio/6.wav":  {
+                                                                "LastWriteTime":  638973006980000000,
+                                                                "Length":  1622100
+                                                            },
+    "(files)/data/policeModSZK/assets/audios/officer/codes/E.wav":  {
+                                                                        "LastWriteTime":  638937415820000000,
+                                                                        "Length":  51594
+                                                                    },
+    "(files)/data/policeModSZK/assets/roads/audios/commerce.wav":  {
+                                                                       "LastWriteTime":  638976376240000000,
+                                                                       "Length":  41860
+                                                                   },
+    "(files)/data/policeModSZK/data/items/dinheiro_trocado.ini":  {
+                                                                      "LastWriteTime":  638997172680000000,
+                                                                      "Length":  172
+                                                                  },
+    "(files)/data/policeModSZK/settings.ini":  {
+                                                   "LastWriteTime":  639061756563277524,
+                                                   "Length":  426
+                                               },
+    "(files)/data/policeModSZK/data/police_vehicles/vehicles/copcarru/backup.ini":  {
+                                                                                        "LastWriteTime":  638986823160000000,
+                                                                                        "Length":  103
+                                                                                    },
+    "(files)/data/policeModSZK/assets/radio/screens/callout_accept.png":  {
+                                                                              "LastWriteTime":  638968546000000000,
+                                                                              "Length":  12199
+                                                                          },
+    "(files)/data/policeModSZK/assets/widgets/widget_frisk.png":  {
+                                                                      "LastWriteTime":  638933287420000000,
+                                                                      "Length":  4297
+                                                                  },
+    "(files)/data/policeModSZK/data/police_vehicles/vehicles/copbike/backup.ini":  {
+                                                                                       "LastWriteTime":  638986822960000000,
+                                                                                       "Length":  95
+                                                                                   },
+    "(files)/data/policeModSZK/data/items/dealer_notes.ini":  {
+                                                                  "LastWriteTime":  638997168380000000,
+                                                                  "Length":  151
+                                                              },
+    "(files)/data/policeModSZK/assets/audios/radio/17.wav":  {
+                                                                 "LastWriteTime":  638998032200000000,
+                                                                 "Length":  1384834
+                                                             },
+    "(files)/data/policeModSZK/assets/audios/officer/codes/3.wav":  {
+                                                                        "LastWriteTime":  638937447560000000,
+                                                                        "Length":  54460
+                                                                    },
+    "(files)/data/localization/policeModSZK/english.ini":  {
+                                                               "LastWriteTime":  639262999909160245,
+                                                               "Length":  3392
+                                                           },
+    "(files)/data/policeModSZK/data/police_vehicles/vehicles/copcarla/trunk.ini":  {
+                                                                                       "LastWriteTime":  638996287900000000,
+                                                                                       "Length":  121
+                                                                                   },
+    "(files)/data/policeModSZK/assets/rg.png":  {
+                                                    "LastWriteTime":  638991082200000000,
+                                                    "Length":  149546
+                                                },
+    "(files)/data/policeModSZK/assets/audios/officer/put_hands_behind.wav":  {
+                                                                                 "LastWriteTime":  638997992560000000,
+                                                                                 "Length":  121946
+                                                                             },
+    "(files)/data/policeModSZK/assets/audios/radio/14.wav":  {
+                                                                 "LastWriteTime":  638998031120000000,
+                                                                 "Length":  1422980
+                                                             },
+    "(files)/data/policeModSZK/assets/radio/screens/toggle_car_options.png":  {
+                                                                                  "LastWriteTime":  638995948700000000,
+                                                                                  "Length":  13938
+                                                                              },
+    "(files)/data/policeModSZK/assets/audios/officer/ask_cnh.wav":  {
+                                                                        "LastWriteTime":  638976185620000000,
+                                                                        "Length":  162324
+                                                                    },
+    "(files)/data/policeModSZK/data/police_vehicles/vehicles/copcarsf/trunk.ini":  {
+                                                                                       "LastWriteTime":  638996287900000000,
+                                                                                       "Length":  121
+                                                                                   },
+    "(files)/data/policeModSZK/assets/audios/radio/12.wav":  {
+                                                                 "LastWriteTime":  638998030420000000,
+                                                                 "Length":  2615418
+                                                             },
+    "(files)/data/policeModSZK/assets/audios/callouts/drug_dealer.wav":  {
+                                                                             "LastWriteTime":  638997939820000000,
+                                                                             "Length":  1607852
+                                                                         },
+    "(files)/data/policeModSZK/assets/radio/button.png":  {
+                                                              "LastWriteTime":  638963987360000000,
+                                                              "Length":  3434
+                                                          },
+    "(files)/data/policeModSZK/assets/audios/officer/exit_vehicle_hands_up2.wav":  {
+                                                                                       "LastWriteTime":  638937483300000000,
+                                                                                       "Length":  162824
+                                                                                   },
+    "(files)/data/policeModSZK/assets/map/circle.png":  {
+                                                            "LastWriteTime":  638948836460000000,
+                                                            "Length":  1595
+                                                        },
+    "(files)/data/policeModSZK/assets/audios/officer/codes/6.wav":  {
+                                                                        "LastWriteTime":  638937447900000000,
+                                                                        "Length":  59368
+                                                                    },
+    "(files)/data/policeModSZK/data/bases/Base PMESP.ini":  {
+                                                                "LastWriteTime":  638989211860000000,
+                                                                "Length":  299
+                                                            },
+    "(files)/data/policeModSZK/data/items/dealer_cocaine.ini":  {
+                                                                    "LastWriteTime":  638997172960000000,
+                                                                    "Length":  152
+                                                                },
+    "(files)/data/policeModSZK/assets/audios/radio/9.wav":  {
+                                                                "LastWriteTime":  638973008580000000,
+                                                                "Length":  409004
+                                                            },
+    "(files)/data/policeModSZK/data/names/male.txt":  {
+                                                          "LastWriteTime":  639263031459078073,
+                                                          "Length":  377
+                                                      },
+    "(files)/data/policeModSZK/assets/map/heli.png":  {
+                                                          "LastWriteTime":  638956573080000000,
+                                                          "Length":  4652
+                                                      },
+    "(files)/data/policeModSZK/assets/audios/officer/codes/C.wav":  {
+                                                                        "LastWriteTime":  638937416160000000,
+                                                                        "Length":  60596
+                                                                    },
+    "(files)/data/policeModSZK/assets/audios/officer/codes/7.wav":  {
+                                                                        "LastWriteTime":  638937447720000000,
+                                                                        "Length":  62642
+                                                                    },
+    "(files)/data/localization/policeModSZK/spanish.ini":  {
+                                                               "LastWriteTime":  639262999865128015,
+                                                               "Length":  3536
+                                                           },
+    "(files)/data/policeModSZK/assets/audios/officer/codes/A.wav":  {
+                                                                        "LastWriteTime":  638937415560000000,
+                                                                        "Length":  55688
+                                                                    },
+    "(files)/data/policeModSZK/data/police_vehicles/vehicles/copcarvg/backup.ini":  {
+                                                                                        "LastWriteTime":  638992772600000000,
+                                                                                        "Length":  103
+                                                                                    },
+    "libs/arm64-v8a/libPoliceModSZK_64.so":  {
+                                                 "LastWriteTime":  639265794393461183,
+                                                 "Length":  1898112
+                                             },
+    "(files)/data/policeModSZK/data/bases/San Fierro Police Base.ini":  {
+                                                                            "LastWriteTime":  638991905420000000,
+                                                                            "Length":  313
+                                                                        },
+    "(files)/data/policeModSZK/data/police_vehicles/helicopters/polmav/backup.ini":  {
+                                                                                         "LastWriteTime":  638995395700000000,
+                                                                                         "Length":  110
+                                                                                     },
+    "(files)/data/policeModSZK/assets/audios/radio/11.wav":  {
+                                                                 "LastWriteTime":  638973009460000000,
+                                                                 "Length":  723766
+                                                             },
+    "(files)/data/policeModSZK/data/police_vehicles/vehicles/copcarsf/backup.ini":  {
+                                                                                        "LastWriteTime":  638992772500000000,
+                                                                                        "Length":  103
+                                                                                    },
+    "(files)/data/policeModSZK/assets/audios/officer/all_clear.wav":  {
+                                                                          "LastWriteTime":  638937479660000000,
+                                                                          "Length":  101780
+                                                                      },
+    "(files)/data/policeModSZK/assets/radio/screens/call_helicopter.png":  {
+                                                                               "LastWriteTime":  638998007540000000,
+                                                                               "Length":  4159
+                                                                           },
+    "(files)/data/policeModSZK/assets/radio/screens/send_qth.png":  {
+                                                                        "LastWriteTime":  638964305680000000,
+                                                                        "Length":  6843
+                                                                    },
+    "(files)/data/policeModSZK/assets/blip.png":  {
+                                                      "LastWriteTime":  638953625980000000,
+                                                      "Length":  14986
+                                                  },
+    "(files)/data/policeModSZK/data/items/knife.ini":  {
+                                                           "LastWriteTime":  638997165700000000,
+                                                           "Length":  119
+                                                       },
+    "(files)/data/policeModSZK/assets/audios/radio/16.wav":  {
+                                                                 "LastWriteTime":  638998031700000000,
+                                                                 "Length":  1085854
+                                                             },
+    "(files)/data/policeModSZK/assets/audios/ai_officer/inform_suspect_running.wav":  {
+                                                                                          "LastWriteTime":  638971658420000000,
+                                                                                          "Length":  125324
+                                                                                      },
+    "(files)/data/policeModSZK/data/items/dealer_crack.ini":  {
+                                                                  "LastWriteTime":  638997174860000000,
+                                                                  "Length":  149
+                                                              },
+    "(files)/data/policeModSZK/assets/crlv.png":  {
+                                                      "LastWriteTime":  638938844540000000,
+                                                      "Length":  117674
+                                                  },
+    "(files)/data/policeModSZK/assets/audios/radio/5.wav":  {
+                                                                "LastWriteTime":  638973006340000000,
+                                                                "Length":  415896
+                                                            },
+    "(files)/data/policeModSZK/assets/audios/callouts/stolen_car.wav":  {
+                                                                            "LastWriteTime":  638988437180000000,
+                                                                            "Length":  1399438
+                                                                        },
+    "(files)/data/policeModSZK/assets/cnh.png":  {
+                                                     "LastWriteTime":  638938319160000000,
+                                                     "Length":  265445
+                                                 },
+    "(files)/data/policeModSZK/assets/audios/radio/13.wav":  {
+                                                                 "LastWriteTime":  638998030760000000,
+                                                                 "Length":  1160284
+                                                             },
+    "(files)/data/policeModSZK/assets/roads/roads.dat":  {
+                                                             "LastWriteTime":  638971661000000000,
+                                                             "Length":  131
+                                                         },
+    "(files)/data/policeModSZK/assets/audios/radio/2.wav":  {
+                                                                "LastWriteTime":  638972919920000000,
+                                                                "Length":  1530416
+                                                            },
+    "(files)/data/policeModSZK/assets/audios/radio/4.wav":  {
+                                                                "LastWriteTime":  638973006080000000,
+                                                                "Length":  599700
+                                                            },
+    "(files)/data/policeModSZK/assets/widgets/widget_radio.png":  {
+                                                                      "LastWriteTime":  638991894960000000,
+                                                                      "Length":  5963
+                                                                  },
+    "(files)/data/policeModSZK/assets/audios/radio/1.wav":  {
+                                                                "LastWriteTime":  638972918800000000,
+                                                                "Length":  1111270
+                                                            },
+    "(files)/data/policeModSZK/data/police_vehicles/vehicles/copbike/trunk.ini":  {
+                                                                                      "LastWriteTime":  638996287900000000,
+                                                                                      "Length":  121
+                                                                                  },
+    "(files)/data/policeModSZK/assets/audios/radio/8.wav":  {
+                                                                "LastWriteTime":  638973007700000000,
+                                                                "Length":  1082180
+                                                            },
+    "(files)/data/policeModSZK/assets/radio/screens/test_menu.png":  {
+                                                                         "LastWriteTime":  638963997900000000,
+                                                                         "Length":  2722
+                                                                     },
+    "(files)/data/policeModSZK/assets/audios/officer/codes/silence.wav":  {
+                                                                              "LastWriteTime":  638937417160000000,
+                                                                              "Length":  104782
+                                                                          },
+    "(files)/data/policeModSZK/assets/audios/officer/request_backup.wav":  {
+                                                                               "LastWriteTime":  638976184940000000,
+                                                                               "Length":  181012
+                                                                           },
+    "(files)/data/policeModSZK/assets/radio/button_up.png":  {
+                                                                 "LastWriteTime":  638963996220000000,
+                                                                 "Length":  4539
+                                                             },
+    "(files)/data/policeModSZK/data/items/cellphone.ini":  {
+                                                               "LastWriteTime":  638997165480000000,
+                                                               "Length":  156
+                                                           },
+    "(files)/data/policeModSZK/data/bases/Los Santos Police Base.ini":  {
+                                                                            "LastWriteTime":  638991902860000000,
+                                                                            "Length":  319
+                                                                        },
+    "(files)/data/policeModSZK/assets/audios/officer/ask_crlv.wav":  {
+                                                                         "LastWriteTime":  638997998960000000,
+                                                                         "Length":  188060
+                                                                     },
+    "(files)/data/policeModSZK/assets/radio/screens/call_backup.png":  {
+                                                                           "LastWriteTime":  638986824540000000,
+                                                                           "Length":  10324
+                                                                       },
+    "(files)/data/policeModSZK/assets/audios/ht.wav":  {
+                                                           "LastWriteTime":  637905867360000000,
+                                                           "Length":  38636
+                                                       },
+    "(files)/data/policeModSZK/assets/map/big_circle.png":  {
+                                                                "LastWriteTime":  638953178920000000,
+                                                                "Length":  206639
+                                                            },
+    "(files)/data/policeModSZK/assets/radio/screens/cancel_services.png":  {
+                                                                               "LastWriteTime":  638964286440000000,
+                                                                               "Length":  15638
+                                                                           },
+    "(files)/data/policeModSZK/assets/audios/callouts/test.wav":  {
+                                                                      "LastWriteTime":  638997189740000000,
+                                                                      "Length":  398506
+                                                                  },
+    "(files)/data/policeModSZK/assets/radio/button_close.png":  {
+                                                                    "LastWriteTime":  638963997300000000,
+                                                                    "Length":  9786
+                                                                },
+    "(files)/data/policeModSZK/assets/widgets/widget_pullover.png":  {
+                                                                         "LastWriteTime":  638969462620000000,
+                                                                         "Length":  4126
+                                                                     },
+    "(files)/data/policeModSZK/data/names/female.txt":  {
+                                                            "LastWriteTime":  639263031591049954,
+                                                            "Length":  357
+                                                        },
+    "(files)/data/policeModSZK/assets/audios/officer/ask_rg.wav":  {
+                                                                       "LastWriteTime":  638937479120000000,
+                                                                       "Length":  105656
+                                                                   },
+    "(files)/data/policeModSZK/data/police_vehicles/vehicles/copcarla/backup.ini":  {
+                                                                                        "LastWriteTime":  639042073076344532,
+                                                                                        "Length":  103
+                                                                                    },
+    "(files)/data/policeModSZK/assets/radio/button_select.png":  {
+                                                                     "LastWriteTime":  638963996980000000,
+                                                                     "Length":  5974
+                                                                 },
+    "(files)/data/policeModSZK/data/bases/Las Venturas Police Base.ini":  {
+                                                                              "LastWriteTime":  638991901360000000,
+                                                                              "Length":  316
+                                                                          },
+    "(files)/data/policeModSZK/assets/audios/officer/codes/4.wav":  {
+                                                                        "LastWriteTime":  638937416360000000,
+                                                                        "Length":  58140
+                                                                    },
+    "(files)/data/policeModSZK/assets/audios/radio/7.wav":  {
+                                                                "LastWriteTime":  638973007280000000,
+                                                                "Length":  661734
+                                                            },
+    "(files)/data/policeModSZK/assets/radio/screens/test.png":  {
+                                                                    "LastWriteTime":  638963998100000000,
+                                                                    "Length":  1490
+                                                                },
+    "(files)/data/policeModSZK/data/police_vehicles/helicopters/polmav/trunk.ini":  {
+                                                                                        "LastWriteTime":  638996302940000000,
+                                                                                        "Length":  135
+                                                                                    },
+    "(files)/data/policeModSZK/assets/audios/officer/codes/P.wav":  {
+                                                                        "LastWriteTime":  638937416040000000,
+                                                                        "Length":  43412
+                                                                    },
+    "(files)/data/policeModSZK/assets/audios/radio/15.wav":  {
+                                                                 "LastWriteTime":  638998031340000000,
+                                                                 "Length":  1453628
+                                                             },
+    "(files)/data/policeModSZK/assets/audios/officer/license_plate_check.wav":  {
+                                                                                    "LastWriteTime":  638976184680000000,
+                                                                                    "Length":  361660
+                                                                                },
+    "(files)/data/policeModSZK/data/items/documents.ini":  {
+                                                               "LastWriteTime":  638997165680000000,
+                                                               "Length":  135
+                                                           },
+    "(files)/data/policeModSZK/assets/radio/screens/call_medic.png":  {
+                                                                          "LastWriteTime":  638987337640000000,
+                                                                          "Length":  8542
+                                                                      },
+    "(files)/data/policeModSZK/assets/audios/radio/3.wav":  {
+                                                                "LastWriteTime":  638973005560000000,
+                                                                "Length":  1290610
+                                                            },
+    "(files)/data/policeModSZK/assets/audios/officer/request_ambulance.wav":  {
+                                                                                  "LastWriteTime":  638997992300000000,
+                                                                                  "Length":  353504
+                                                                              },
+    "(files)/data/policeModSZK/assets/audios/radio/10.wav":  {
+                                                                 "LastWriteTime":  638973008920000000,
+                                                                 "Length":  1192462
+                                                             },
+    "(files)/data/policeModSZK/data/items/revolver38.ini":  {
+                                                                "LastWriteTime":  638997165940000000,
+                                                                "Length":  130
+                                                            },
+    "(files)/data/policeModSZK/assets/radio/button_down.png":  {
+                                                                   "LastWriteTime":  638963996360000000,
+                                                                   "Length":  4516
+                                                               },
+    "(files)/data/policeModSZK/assets/widgets/widget_vest.png":  {
+                                                                     "LastWriteTime":  638935771840000000,
+                                                                     "Length":  1919
+                                                                 },
+    "(files)/data/policeModSZK/assets/audios/officer/request_tow_truck.wav":  {
+                                                                                  "LastWriteTime":  638976186420000000,
+                                                                                  "Length":  348672
+                                                                              }
+}
