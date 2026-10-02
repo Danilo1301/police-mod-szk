@@ -401,3 +401,6 @@ FodyWeavers.xsd
 libs/**
 .vscode/
 *.bak
+
+#Others
+.env
