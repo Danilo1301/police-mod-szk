@@ -7,12 +7,12 @@
 #include "policeMod/ModLogger.h"
 #include "utils/eventListener.h"
 
-#include "include/menu.h"
+#include "menuSZK/imenuSZK.h"
 inline IMenuSZK* menuSZK = nullptr;
 
 #include "logUtils.h"
 
-#include "include/isautils.h"
+#include "sautils/isautils.h"
 // inline ISAUtils *sautils = nullptr;
 
 inline void LOGE(const char* format, ...)
@@ -46,9 +46,9 @@ inline CVector* g_playerPosition = new CVector(0, 0, 0);
 inline CVector2D g_defaultMenuPosition = CVector2D(2400 / 2.0f, 1080 / 2.0f);
 inline int g_lastPlayerVehicle = -1;
 
-inline EventListener<int>* g_onPedEnterVehicle = new EventListener<int>();
-inline EventListener<int>* g_onPedLeaveVehicle = new EventListener<int>();
-inline EventListener<int>* g_onVehicleDestroy = new EventListener<int>();
+inline E_EventListener<int> g_onPedEnterVehicle;
+inline E_EventListener<int> g_onPedLeaveVehicle;
+inline E_EventListener<int> g_onVehicleDestroy;
 
 inline std::vector<int> g_vehiclesToDestroy;
 inline std::vector<int> g_pedsToDestroy;

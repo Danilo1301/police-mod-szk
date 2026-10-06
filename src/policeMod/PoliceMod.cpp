@@ -76,7 +76,9 @@ void PoliceMod::OnModLoad()
 
             logger->Info("onVehicleRemoved()");
 
-            g_onVehicleDestroy->Emit(e.ref);
+            g_onVehicleDestroy.Emit(e.ref);
+
+            logger->Info("Removing veh");
 
             Vehicles::RemoveVehicle(e.ref);
 

@@ -207,7 +207,11 @@ void Ped::Update()
             isLeavingCar = false;
             logger->Info("~y~Ped left the vehicle");
 
-            g_onPedLeaveVehicle->Emit(ref);
+            logger->Info("emitting");
+
+            g_onPedLeaveVehicle.Emit(ref);
+
+            logger->Info("emited");
         }
     }
 
@@ -220,7 +224,7 @@ void Ped::Update()
             isEnteringCar = false;
             logger->Info("~y~Ped entered the vehicle");
 
-            g_onPedEnterVehicle->Emit(ref);
+            g_onPedEnterVehicle.Emit(ref);
         }
     }
 

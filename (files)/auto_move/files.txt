@@ -1,4 +1,4 @@
 libs/arm64-v8a/libPoliceModSZK_64.so > mods/libPoliceModSZK_64.so
 libs/armeabi-v7a/libPoliceModSZK.so > mods/libPoliceModSZK.so
-(files)/data/policeModSZK > mods/data/policeModSZK
-(files)/data/localization > mods/data/localization
+(files)/game_folder/data/policeModSZK > mods/data/policeModSZK
+(files)/game_folder/data/localization > mods/data/localization

@@ -160,7 +160,7 @@ void TestWindow::TestEquip()
             CHANGE_PLAYER_MODEL_TO(0, 280);
         });
 
-    BottomMessage::SetMessage("Mod iniciado", 3000);
+    BottomMessage::SetMessage("Police mod started", 3000);
 
     //if (DEEP_LOG_ENABLED) { BottomMessage::SetMessage("Mod iniciado. ~r~DEEP LOG ~w~ativado", 3000); }
 }

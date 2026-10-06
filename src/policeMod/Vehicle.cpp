@@ -52,6 +52,8 @@ Vehicle::~Vehicle()
 {
     // fileLog->Log("Vehicle: ~Vehicle");
 
+    logger->Info("deleting widgets");
+
     if (widgetOptions)
     {
         widgetOptions->Destroy();
@@ -64,11 +66,15 @@ Vehicle::~Vehicle()
         worldWidget = nullptr;
     }
 
+    logger->Info("deleting trunk");
+
     if (trunk)
     {
         delete trunk;
         trunk = nullptr;
     }
+
+    logger->Info("deleting checkpoint");
 
     if (trunkCheckpoint != nullptr)
     {

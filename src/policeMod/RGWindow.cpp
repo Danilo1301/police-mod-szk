@@ -1,7 +1,7 @@
 #include "RGWindow.h"
 #include "BottomMessage.h"
 #include "DocsWindow.h"
-#include "include/menu.h"
+#include "menuSZK/imenuSZK.h"
 #include "opcodeCaller/CleoFunctions.h"
 
 RGWindow::RGWindow(Ped* ped) : DocumentWindow("RG", ped)

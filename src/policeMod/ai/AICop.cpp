@@ -14,7 +14,7 @@ void AICop::Start()
 {
     logger->Info("AICop: Start");
 
-    g_onPedLeaveVehicle->Add(
+    g_onPedLeaveVehicle.Add(
         [this](int pedRef)
         {
             logger->Info("Ped left vehicle");

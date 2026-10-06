@@ -1,71 +1,89 @@
 #pragma once
 
-#include "include/menu.h"
+#include <algorithm>
+#include <functional>
+#include <vector>
 
-template <typename... Args> class EventListener : public IEventListener<Args...>
+template <typename... Args> class E_EventListener
 {
 public:
-    using Callback = typename IEventListener<Args...>::Callback;
-    using ConditionCallback = typename IEventListener<Args...>::ConditionCallback;
+    using E_Callback = std::function<void(Args...)>;
+    using E_ConditionCallback = std::function<bool(Args...)>;
 
     struct Listener
     {
         void* ref;
-        Callback callback;
+        E_Callback callback;
     };
 
-    void Add(const Callback& cb) override
+    void Add(const E_Callback& cb)
     {
+        if (!cb) { return; }
+
         callbacks.push_back({ nullptr, cb });
     }
 
-    void AddOnce(const Callback& cb) override
+    void AddOnce(const E_Callback& cb)
     {
+        if (!cb) { return; }
+
         onceCallbacks.push_back({ nullptr, cb });
     }
 
-    void AddUntil(const ConditionCallback& cb) override
+    void AddUntil(const E_ConditionCallback& cb)
     {
+        if (!cb) { return; }
+
         conditions.push_back(cb);
     }
 
-    void AddRef(void* ptr, const Callback& cb) override
+    void AddRef(void* ptr, const E_Callback& cb)
     {
+        if (!cb) { return; }
+
         callbacks.push_back({ ptr, cb });
     }
 
-    void Remove(void* ref) override
+    void Remove(void* ref)
     {
         callbacks.erase(std::remove_if(callbacks.begin(), callbacks.end(), [ref](const Listener& listener) { return listener.ref == ref; }),
             callbacks.end());
     }
 
-    void Emit(Args... args) override
+    void Emit(Args... args)
     {
         auto callbacksCopy = callbacks;
 
-        for (auto& listener : callbacksCopy) listener.callback(args...);
+        for (const auto& listener : callbacksCopy)
+        {
+            if (listener.callback) { listener.callback(args...); }
+        }
 
         auto onceCallbacksCopy = std::move(onceCallbacks);
         onceCallbacks.clear();
 
-        for (auto& listener : onceCallbacksCopy) listener.callback(args...);
+        for (const auto& listener : onceCallbacksCopy)
+        {
+            if (listener.callback) { listener.callback(args...); }
+        }
 
         auto conditionsCopy = std::move(conditions);
         conditions.clear();
 
         for (auto& condition : conditionsCopy)
         {
-            if (condition(args...)) conditions.push_back(std::move(condition));
+            if (!condition) { continue; }
+
+            if (!condition(args...)) { conditions.push_back(std::move(condition)); }
         }
     }
 
-    int GetListenersCount() override
+    size_t GetListenersCount() const
     {
         return callbacks.size() + onceCallbacks.size() + conditions.size();
     }
 
-    void Clear() override
+    void Clear()
     {
         callbacks.clear();
         onceCallbacks.clear();
@@ -75,5 +93,5 @@ public:
 private:
     std::vector<Listener> callbacks;
     std::vector<Listener> onceCallbacks;
-    std::vector<ConditionCallback> conditions;
+    std::vector<E_ConditionCallback> conditions;
 };

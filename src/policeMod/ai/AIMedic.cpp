@@ -17,13 +17,13 @@ void AIMedic::Start()
     logger->Info("AIMedic: Start");
     // menuDebug->AddLine("AIMedic started");
 
-    g_onPedLeaveVehicle->Add(
+    g_onPedLeaveVehicle.Add(
         [this](int pedRef)
         {
             if (pedRef == this->pedRef) DoAction();
         });
 
-    g_onPedEnterVehicle->Add(
+    g_onPedEnterVehicle.Add(
         [this](int enteredPedRef)
         {
             if (enteredPedRef == this->pedRef)

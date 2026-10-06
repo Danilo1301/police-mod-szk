@@ -1,6 +1,6 @@
 #pragma once
 
-#include "include/menu.h"
+#include "menuSZK/imenuSZK.h"
 
 struct WorldWidget
 {

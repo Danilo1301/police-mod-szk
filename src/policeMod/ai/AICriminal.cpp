@@ -5,6 +5,7 @@
 #include "../Peds.h"
 #include "../Vehicles.h"
 #include "../BottomMessage.h"
+#include "mod/logger.h"
 #include "src/globals.h"
 
 const float MAX_FIND_TARGET_DISTANCE = 30.0f; // limite em metros
@@ -17,13 +18,17 @@ void AICriminal::Start()
 {
     logger->Info("AICriminal: Start");
 
-    g_onPedLeaveVehicle->Add(
+    logger->Info("adding event");
+
+    g_onPedLeaveVehicle.Add(
         [this](int pedRef)
         {
             logger->Info("Ped left vehicle");
 
             if (pedRef == this->pedRef) { DoAction(); }
         });
+
+    logger->Info("event added");
 }
 
 void AICriminal::Update()
